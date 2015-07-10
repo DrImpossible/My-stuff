@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+double a,b;
+int n;
+int main()
+{
+	cin>>n;
+	for(int i=0;i<n;i++)
+	{
+		cin>>a>>b;
+		string s=to_string(i+1);
+		cout<<s<<"| "<<a<<" "<<b<<endl;
+	}
+}

@@ -1,0 +1,34 @@
+CLUSTER HIERARCHY
+--------------------
+Leaf: A
+Leaf: B
+Leaf: C
+Leaf: D
+Leaf: E
+Leaf: F
+Leaf: G
+Leaf: H
+Leaf: I
+Leaf: J
+Leaf: K
+Leaf: L
+Items: L, J
+Items: L, J, K
+Items: L, J, K, I
+Items: H, F
+Items: H, F, D
+Items: H, F, D, E
+Items: H, F, D, E, G
+Items: C, B
+Items: C, B, A
+Items: C, B, A, H, F, D, E, G
+Items: C, B, A, H, F, D, E, G, L, J, K, I
+
+
+5 CLUSTERS
+--------------------
+Items: L, J, K, I
+Items: H, F, D, E, G
+Items: A
+Items: C
+Items: B

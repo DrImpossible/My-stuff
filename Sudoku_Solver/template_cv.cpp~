@@ -1,0 +1,112 @@
+#include<bits/stdc++.h>
+#include <opencv2/core/core.hpp>
+#include <opencv2/highgui/highgui.hpp>
+#include <opencv2/core/utility.hpp>
+#include <opencv2/video/video.hpp>
+#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv2/videoio/videoio.hpp>
+#include <opencv2/videostab/videostab.hpp>
+#include <opencv2/opencv_modules.hpp>
+#include <opencv2/imgcodecs.hpp>
+
+void display(Mat &th)
+{
+	namedWindow("disp",WINDOW_AUTOSIZE);
+	imshow("disp",th);
+}
+
+void otsu_threshold(Mat &input, Mat &output)
+{
+	threshold(input, output, 0, 255, THRESH_BINARY | THRESH_OTSU);
+}
+
+void change_pixel()
+{
+	for(ll i=0;i<frame.rows;i++)
+    {
+        for(ll j=0;j<frame.cols;j++)
+     	{
+ 	       Vec3b pix = in1.at<Vec3b>(i, j);
+           uchar r=pix.val[0];
+       	   uchar g=pix.val[1];
+       	   uchar b=pix.val[2];
+        	//Insert rest of your code
+        }
+    }
+}
+
+void read(Mat &input)
+{
+	cout<<"Enter the image name:- \n";
+	cin>>fname;
+	input=imread(fname,1);
+}
+
+void gaussian_blur(Mat &input, Mat &output)
+{
+	cout<<"Select the best size. Starting with -> 1 and Ending with 29 with increments of 2. \n"<<endl;
+	for( int i = 1; i < 30 ; i = i + 2 )
+    { 
+		GaussianBlur( input, output, Size( i, i ), 0, 0 );
+		display(Mat &output);
+      	waitKey(0); 
+	}
+	int n;
+	cout<<"Enter the size\n"<<endl;
+	cin>>n;
+	GaussianBlur( input, output, Size(n, n), 0, 0 );
+	return;
+}
+
+void gaussian_blur(Mat &input, Mat &output)
+{
+	cout<<"Select the best size. Starting with -> 1 and Ending with 29 with increments of 2. \n"<<endl;
+	for( int i = 1; i < 30 ; i = i + 2 )
+    { 
+		medianBlur ( input, output, i );
+      	waitKey(0); 
+	}
+	int n;
+	cout<<"Enter the size\n"<<endl;
+	cin>>n;
+	medianBlur ( input, output, i );
+	return;
+}
+
+void gaussian_blur(Mat &input, Mat &output)
+{
+	cout<<"Select the best size. Starting with -> 1 and Ending with 29 with increments of 2. \n"<<endl;
+	for( int i = 1; i < 30 ; i = i + 2 )
+    { 
+		bilateralFilter ( input, output, i, i*2, i/2 );
+      	waitKey(0); 
+	}
+	int n;
+	cout<<"Enter the size\n"<<endl;
+	cin>>n;
+	bilateralFilter ( input, output, i, i*2, i/2 );
+	return;
+}
+
+using namespace std;
+using namespace cv;
+
+void getImage()
+{
+	string fname;
+	
+	
+	Mat th;
+	
+	
+	waitKey(0);
+}
+
+int main()
+{
+	
+	getImage();
+	return 0;
+}
+
+
