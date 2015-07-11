@@ -32,7 +32,7 @@ from keras.layers.recurrent import LSTM, GRU
         THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python imdb_lstm.py
 '''
 
-max_features = 20000
+max_features = 500
 maxlen = 30 # cut texts after this number of words (among top max_features most common words)
 batch_size = 32
 f = gzip.open('encodeddataset.pkl.gz', 'rb')

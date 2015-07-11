@@ -19,8 +19,8 @@ from nltk import FreqDist
 from sklearn.preprocessing import OneHotEncoder
 
 warnings.filterwarnings("ignore")
-stop = stopwords.words('english')
-punctuations =['?','.',',','``','\'\'','\'s']
+#stop = stopwords.words('english')
+#punctuations =['?','.',',','``','\'\'','\'s']
 vectorizer = CountVectorizer(ngram_range = (1,2))
 tfidf_vectorizer = TfidfTransformer()
 directory = os.getcwd()
@@ -33,18 +33,15 @@ def preProcessing(path, num=1):    # use num = 1 for coarse-grain classifier
     count=0
     wc=0
     with open(directory + "/" + path, "r") as f:
-        text=f.read().lower()
-        fdist = FreqDist(text)
-        vocabulary = fdist1.keys()
-        
         for row in f.read()[:-2].lower().split('\n'):
-            vec = [] 
-            fc = row.split(' ')
-            fc = [i for i in fc if i not in stop]
-            fc = [i for i in fc if i not in punctuations]
-            for ele in fc[1:]:
+            fc = row.split()
+            vec=[]
+            for ele in fc:
                 if ele not in word.keys():
-                    ele=word['UNK']
+                    #print label
+                    word[ele]=wc
+                    ele=word[ele]
+                    wc+=1
                 else:
                     ele=word[ele]
                 vec.append(ele)
@@ -105,7 +102,7 @@ def customQuestionScorer(question, clf):
 def genInput(questionsTrain, labelsTrain, questionsTest, labelsTest):
     #print len(questionsTrain)
     train_set = questionsTrain, labelsTrain
-    #print labelsTrain + labelsTest
+    print labelsTrain + labelsTest
     test_set = questionsTest, labelsTest
     #print questionsTrain + questionsTest
     dataset = [train_set,[], test_set]
