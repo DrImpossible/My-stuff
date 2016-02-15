@@ -1,0 +1,550 @@
+IDVal:Coarse_Label:Fine_Label:Question
+6969::: Gone with the Wind ke kis chapter me Rhett Butler ne Scarlett ko chora tha ?
+6970::: Philippine ex-dictator Marcos ne treasury se kitne paise chuday the ?
+6971::: Kaunse film me Shirley MacLaine ne Prostitute aur Jack Lemon ne pimp ka role nibhaaya tha ?
+6972::: Paani peene ke darr ko kyaa kahte hai ?
+6973::: Sport of cricket fighting kaunse Asian country se shuru hua tha ?
+6974::: Apple ke kitne varieties hai ?
+6975::: Count Cinzano kaun tha ?
+6976::: Custom Design ke liye Oscar sabse jyaada baar kisne jeeta tha ?
+6977::: Ernest Hemingway ke kis novel me title Fiesta ka naam tha ?
+6978::: Monopoly me sabse jyaada kaunse colour ke properties pe rukte hai ?
+6979::: Rolling Stones ke cover pe kaunse Beatles ka naam tha ?
+6980::: Snow kyu girti hai ?
+6981::: Ireland me males ki life expectancy 1996 me kitni thi ?
+6982::: `` Vocal Sampling '' kyaa hai ?
+6983::: Windmills kaise kaam karte hai ?
+6984::: Honk Kong harbour me kaunsa ocean liner doob gaya tha ?
+6985::: Amazon ke shuruat pe kaunsa shahar hai ?
+6986::: `` If you 've seen one slum , you 've seen them all '' ye kis U.S. vice-president ne kha tha ?
+6987::: Red badge of Courage kisne likha tha ?
+6988::: wo kaunse paise istemaal karte the ?
+6989::: Kodak film me kaunse rang dikhte hai ?
+6990::: Inuits kaha rehta tha ?
+6991::: Trignometry ka origin kaha se hua tha ?
+6992::: Compaq ka mission statement kyaa tha ?
+6993::: 1899 ke kaunsee policy ne China me trading rights me samaantay lai ?
+6994::: P.T. Barnum 's Tom Thumb kaunse British Monarch ki jhaang par baithti thi ?
+6995::: Rocky Marciano kaise mara tha ?
+6996::: Road traffic cone kisne banaya tha ?
+6997::: Jone Jett's band ka naam kyaa hai ?
+6998::: Inme se kaunse vyaktiyo ka naam Andy Warhol ke saath nahi liya jaata ?
+6999::: Visine ko kyaa mila ?
+7000::: Arch kis civilisation ne banaya tha ?
+7001::: Cozumel me kyaa mazedaar kar sakte hai ?
+7002::: Sixties ke famous rock bands ke naam kyaa hai ?
+7003::: Kaunsa royal palace art museum banne se pehle granary , prison , arsenal , leper colony , mint , telegraph station aur whorehouse rah chuka hai ?
+7004::: `` I have fallen , and I can 't get up '' sabse pehle kab aur kha bola gya tha ?
+7005::: Kis president ke baare me kaha jaata hai ki uska bhoot whitehouse me rehta hai ?
+7006::: Three's Comapany me Jack ke asli roommate ka naam kyaa tha ?
+7007::: Hazmat ka kyaa matlab hai ?
+7008::: URL me kitne extension hai aur wo kyaa hai ?
+7009::: Wright Brothers ne apni pehli udaan kab bhadi thi ?
+7010::: Battle of Gettysburg kisne jeeta tha ?
+7011::: gin aur vermouth ko milaane se kyaa banta hai ?
+7012::: Do baccho ke naam batao jinko animated Moby Duck ne bachaya tha ?
+7013::: Tanker ka captaan kaun tha jo Prince William Sound me oil spill me involved tha ?
+7014::: U.S. ka sabse badfeela shahar kaunsa hai ?
+7015::: crabgrass kyaa hai ?
+7016::: Kaunse kitaab ki shuruat isse hoti hai 
+7017::: Stephen Hawking kaun hai ?
+7018::: SHIELD ka kyaa matlab hai ?
+7019::: `` I love you '' ko doosre bhasha me kyaa bolenge ?
+7020::: Gay Science kyaa hai ?
+7021::: Jane Goodall kisliye famous hai ?
+7022::: Helium ki chemical reactivity kitni hai ?
+7023::: us kalakaar ka kyaa naam tha jisne Kindergarden Cop me Detective ks role kiya tha ? 
+7024::: Electric Vehicles itne popular kyun nahi hai?
+7025::: optical aur digital video me kyaa antar hai ?
+7026::: U.S. constitution ka kaunsa nium badla nahi ja sakta ?
+7027::: 1999 ke postal world me kyaa naya tha ?
+7028::: Movie Guess Who 's Coming to Dinner me khaana khaane kaun aaya tha ?
+7029::: anus aur rectum me kyaa antar hai ?
+7030::: Guild kyaa hai ?
+7031::: College aur Graduate school me kyaa antar hai ?
+7032::: Me ek ART file ko JPEG ya Bitmap me kaise change karu ?
+7033::: Franz kafka's ki short story `` A Country Doctor '' kyaa kahna chahti hai ?
+7034::: Pull-tab can kis engineer ne banaya tha ?
+7035::: South American ka kaunsa capital duniya me sabse uuccha hai ?
+7036::: Star Spangled Banner ke lyrics kyaa hai ?
+7037::: Kisi ek civil war battlefield ka naam batao ?
+7038::: Winter wheat ko kab boya jaata hai ?
+7039::: Ek compass outer space me kyaa karega ?
+7040::: Indiana me kitne desh hai ?
+7041::: Dikembe Mutombo kaunse college se padha hai ?
+7042::: Postage stamp me sabse pehle kaunsee actress thi ?
+7043::: Folies Bergeres me sabse pahli black woman kaun thi ?
+7044::: Kis Aesop's fable ka moral hia ki 
+7045::: land ke kaunse strip ko cover karne me boat se 15 minute lagte hai ?
+7046::: Paani ko peene laayak banane ke liye kyaa kyaa kiya jaata hai ?
+7047::: Hydrogen bond kyaa hai ?
+7048::: U.S. aur England ka exchange rate kyaa hai ?
+7049::: Aurat ko kyaa chahiye hota hai ?
+7050::: Condoms ko istemaal karne ka protection rate kyaa hota hai ?
+7051::: Limited partnership ka abbreviation kyaa hai ?
+7052::: Kis continent me sabse zyaada rose hote hai ?
+7053::: kaunse russian Novel me 5 se zyaada kalaakaro ko Napoleonic War me dikhaaya gaya hai ?
+7054::: Tum kisi poem ka critical analysis kaise likhoge ?
+7055::: me ye kaise check karu ki mera modem v.9 compatible hai ?
+7056::: Tumhara pasandida rang kaunsa hai ?
+7057::: Sabse lamba Chemical naam kaunsa hai, jisme 35 akshar hai ?
+7058::: Spiritsail me kitne corners hai ?
+7059::: jo TV character baghdad me janma tha, uska kyaa hua ?
+7060::: Multiplexer kyaa hota hai ?
+7061::: kaunse credit card me centurion ka chehra bana hai ?
+7062::: Asian continent ke chaar sabse bade mountain ranges kaunse hai ?
+7063::: Poconos kyaa hai ?
+7064::: English me Caliente ka kyaa matlab hai ?
+7065::: jane Goodall kis cheez ke liye famous hai ?
+7066::: Nike ka mission kyaa hai ?
+7067::: Thalassemia kyaa hai ?
+7068::: Tum kitni dur tak dekh sakte ho ?
+7069::: Norwegian Sea mein 7 April , 1989 ko kaunsa Russian submarine dooba tha ?
+7070::: jhukham mein aap kyu kuch taste nhi kar paate ?
+7071::: Bible mein kis jagah Jesus Christs ke bhaiyon aur behenon ke barein mein btaya gaya hain ?
+7072::: Kaunsi country Europe continent ke southernmost point per hain ?
+7073::: Nostradamus ke hisab se World War III kab shuru hogi ?
+7074::: Power Bars ke barein mein kaunsi cheez itni powerful hain ?
+7075::: Japanese Japan ko kya bolte hain ?
+7076::: 11th-century ka  Brian Boru kaunse desh ka raja tha ? 
+7077::: Kya hota hain jab koi body part so jata hain ?
+7078::: kaunse english word mein sabse gyada letters hain ?
+7079::: kaunsi film ke end mein ye line aati hain 
+7080::: Kisne ye musical question poocha tha 
+7081::: Kisne likha tha 
+7082::: Junes's birthstone kya hain ?
+7083::: Indonesia-Malaysia forest experts ki 6th annual meeting kaha hui thee ?
+7084::: Kyu hum restaurant mein ''check'' maangte hain naki bill ?
+7085::: The godfather movie mein Godfather ka role kisne nibhaya tha ?
+7086::: London's Docklands Light Railway kab bana tha ?
+7087::: Wonderbra kisne invent ki thee ?
+7088::: Is proverb ka origin kya hain '' A stitch in time saves nine '' ?
+7089::: Kaunse state ki capital alphabetically last aati hain ?
+7090::: Thanksgiving Thursday ko kyu hoti hain ?
+7091::: Telephones kaise kaam karte hain ?
+7092::: Vichyssoise mein main vegetable kaunsi hoti hain ?
+7093::: Charles Manson ke murder ka trial kitne time tak chala tha ?
+7094::: Khoon ko saari body ki ek trip lagane mein kitna time lagta hain ?
+7095::: St. Lousis Rams kiska hain ?
+7096::: former Pro wrestler johnny '' Rubber Man '' Walker kaha hain ?
+7097::: Kaunsi beer humein ye btati hain , ''Grab all the gusto you can get. '' ?
+7098::: US Alaska aur hawaii, teeno ka combined geographical centre kahan hain ?
+7099::: Face ki kaunsi side ko gyadatar artists self-portraits mein gyada dikhate hain ?
+7100::: diabetes kya hoti hain ?
+7101::: The Bigfoot news ke monthly publication mein kis phenomenon ke barein mein padhne ki aap umeed karte hain ?
+7102::: MORMONS ke hisab se Christ ka janam kab hua tha ?
+7103::: actress Joan Collins ka janam kaunse saal mein hua tha ?
+7104::: punishment ke dar ko kya kehte hain ?
+7105::: United States mein restaurant manager ki average salary kitni hoti hain ?
+7106::: Kaunsi comic mein kabhi kabhi Beasley naam ka mailman dikhaya jata hain ?
+7107::: Kaunsi device ne 1963 mein music sunne ka ek naya tareeka diya tha ?
+7108::: Ek bacha kis cheez ko beeche se khayega aur bahar ki chocolate ko baad ke liye bacha ke rakhega ?
+7109::: screenplay type karne mein average kitni time lagta hain ?
+7110::: IOC ka matlab kya hain ?
+7111::: short ton kya hota hain ?
+7112::: cardinal eggs kab tak incubate karte hain ?
+7113::: kaunse body parts aapki saari zindigi grow karte hain ?
+7114::: Texas ke kaunse surgeon ne pehla artifical heart transplant kara tha ?
+7115::: port of haifa kausni country mein hain ?
+7116::: yogurt ka main ingredient kya hota hain ?
+7117::: Eggs Bendeict ki recipe kya hain ?
+7118::: Rome,Italy ke main government office ka address kya hain ?
+7119::: weight ke hisab se sabse badi U.S agricultural crop kya hain ?
+7120::: electric signals ke corresponding visual displays produce karne ke liye kaunsi electronic device kaam aati hain ?
+7121::: goldenseal kya hain ?
+7122::: Hollywood Squares per centre square mein sabse gyada appearances kiski hain ?
+7123::: Lost Colony kya hain ?
+7124::: Barbie ki chemical composition kya hain ?
+7125::: Rodeo Cowboys Association ke 10 mein se kitne members ne kabhi ranch mein kaam nhi kiya ?
+7126::: Kaunsa store worlds largest department store hone ka claim karta hain ?
+7127::: aankh mein iris ke peeche ke lens ko kya kehte hain ?
+7128::: Tetrinet kya hota hain ?
+7129::: ''marvelous'' major-league baseball ka kaunsa player beer company ka spokesman hain ?
+7130::: typewriter ki first row ke letters ko use karke kaunsa sabse bada English word banaya ja sakta hain ?
+7131::: Chiricahua kis cheez ka naam hain ?
+7132::: beryl ki green variety ko kya kehte hain ?
+7133::: Captain Bligh ke ship ka kya naam hain ?
+7134::: cream aur milk mein se kaun gyada bhari hain ?
+7135::: Kisne kaha tha `` the only thing we have to fear is fear itself '' ? 
+7136::: Romania kaha hain ?
+7137::: major studios saal mein kitni films bana lete hain ?
+7138::: U.S mein kitne chote bussiness hain ?
+7139::: Benny Carter ki kya age hain ?
+7140::: LCD monitor screen ko kaise clean karte hain ?
+7141::: Mormons ne kaunsi city ko 1847 mein apna headquarter banaya tha ?
+7142::: amezaiku kya hain ?
+7143::: Brenner Pass se kausni do countries judi hui hain ?
+7144::: Nintendo 64 per kaunse naye games avialable hain ?
+7145::: Mississippi ka state nickname kya hain ?
+7146::: Tab label ka predominant color kya hain ?
+7147::: St. Francis of Assisi ke naam per kaunsi U.S city hain ?
+7148::: Mission Energy of US ke dwara headed consortium ke dwara banaya gaya power project kitne megawatts electricity produce karta hain ?
+7149::: ''chancery'' file ki real estate mein kya definition hain ?
+7150::: duniya mein sabse sexiest aurat kaun hain ?
+7151::: Kis din ko national day of prayer mana jata hain ?
+7152::: Mujhe professor Randolph Quirk ki photograph mujhe kaha se mil sakti hain ?
+7153::: Germanic religion ka supreme god kaun hain ?
+7154::: ek bookhe aadmi ko aap kaise handle kroge ?
+7155::: New York Yankees ke liye sabse gyada games kisne khele hain ?
+7156::: Kaunse TV character ne bola tha ; `` One of these days , Alice , pow , right in the kisser '' ? 
+7157::: Mrs.Gandhi ko 1977 election mein harakar jo bhartiya prome minister bana tha uska naam kya hain ?
+7158::: wake aur woke ke conjuctions kya hain ?
+7159::: Kaunse Chilean ko 1973 coup d 'etat mein mara gya tha ?
+7160::: Einstein ki IQ kitnit thee ?
+7161::: Kis Russian astronaut de sabse pehle spacewalk kari thee ?
+7162::: photographs mein aankhe kabhi kabhi red kyu dikhti hain ?
+7163::: John C. Calhoun aur Henry Clay ko kaise jana jaata hain ?
+7164::: Lunt aur Fontanne ki famous husband-and-wife acting team ke first names kya thee ?
+7165::: bacho ke liye kausni exercises karna achi hain ?
+7166::: Hawaiian Punch ke ek can mein kitni real fruit juices hote hain ?
+7167::: National Bureau of Investigation ka abbreviation kya hain ?
+7168::: Ireland ki principal river kaunsi hain ?
+7169::: Kaunsi lake White Nile ka source hain ?
+7170::: Garry Kasparov kaunsa game khelta hain ?
+7171::: Ek Poodle ka kitna weight hota hain ?
+7172::: Zionism kya hota hain ?
+7173::: Kaunsa cable network khud ko '' the family entertainer '' ke naam se bill karta hain ?
+7174::: Backgammon board per kitne points hote hain ?
+7175::: Agar aapne volley kara hain to aapne ek tennis ball ko kya nhi karne diya hain ?
+7176::: Kaunsi comic book pulp magazines se nahi aayi hain ?
+7177::: Kaunsa product bacho ke liye hain aur silly rabbits ke liye nahi ?
+7178::: Swastika aur kis cheez ko kehte hain ?
+7179::: Logo ko goosebumps kyu aate hain jab unke saath kuch emotional hota hain jaise ki jab bahut acha gaana sunte hain ya fir kuch bahut khoobsurat dekhte hain ya fir kisi se arouse hote hain ?
+7180::: ek disk camera kitne frames shoot karta hain ?
+7181::: Duniya ke 7 ajoobe kaunse hain ?
+7182::: Theop Rousseau ne ''Forest of Fontaine'' kab paint kari thee ?
+7183::: Kitne log captain america ban chuke hain ?
+7184::: ''yield to maturity'' ka bonds ke referencemein kya matlab hain ?
+7185::: kaunsi crop US mein 1983 mein sabse badi cash crop ban gyi thee corn ko surpass karke ?
+7186::: war of 1812 ne Delaware ko kaise affect kara tha ?
+7187::: human skin lease sensitive kaha hoti hain ?
+7188::: capital 's rotunda ke neeche empty crypt mein kaunse president ko place karna tha but kabhi kiya nhi gaya ?
+7189::: humans dwara banayi gayi sabse badi cheez kya hain ?
+7190::: Europe ki sari nadiyan kausni hain ?
+7191::: is saal Superbowl kaun jeeta ?
+7192::: Kaunse five cards ek perfect Cribbage hand banate hain ?
+7193::: Kaunse saal mein Gandhi ka assassination hua tha ?
+7194::: Ek typist ko 100 page lamba screenplay type karne mein kitna time lagta hain ?
+7195::: lady bug ka full classification kya hain ?
+7196::: Kaunsa Hungarian cardinal pehle ek state prisoner tha aur fir US embassy mein 1956 se 1971 tak refugee tha ?
+7197::: tsetse fly ke kitni pair of wings hote hain ?
+7198::: Germany per World War i ke baad kaunsa peace agreement impose hua tha ?
+7199::: World ki fifth largest country kaunsi hain ?
+7200::: ek billi ko box train kaise karte hain ?
+7201::: FDR ke relation mein Teddy Roosevelt kaun tha ?
+7202::: Salt lake city mein kaunsa newspapaer serve karta hain ?
+7203::: ''Jaws'' film kaunse saal mein bani thee ?
+7204::: lighting kaise travel karti hain ?
+7205::: chefs kaunse masale ke liye sabse gyada kharacha karte hain ?
+7206::: Citizen Kane kisne direct kari thee ?
+7207::: troilism kya hota hain ?
+7208::: Olympic ka sister ship kaunsa tha ?
+7209::: us famous flyer ka naam kya tha jo Los Angeles ki jagah Ireland chala gya tha ?
+7210::: HTML kya hota hain ?
+7211::: prime numbers kaise pehchante hain ?
+7212::: Jnauray 18,1779 ko kaunsa special bears creator ka janam hua tha ?
+7213::: Archie kaunse high school gya tha ?
+7214::: kaunsa animal sabse dur tak migrate karta hain ?
+7215::: Everybody Comes to Ricks per kaunsi film based thee ?
+7216::: hum kisi ko ''honey'' kyu bulate hain ?
+7217::: Madonna kaunsi soft drink ko hock karti hain ?
+7218::: konse television network ne 197 mein sports programming ko Inga Nielsen's body par aggresively publisize kia tha?
+7219::: Lund kis country mein hai?
+7220::: Alice's Adventures in Wonderland ka sequel kya hai?
+7221::: Seattle ka capital kya hai?
+7222::: konse Italian leader ko zindagi bhar evil eye ka dar tha?
+7223::: Sea World Florida ke kis sheher mein hai?
+7224::: ye kisne kaha tha 
+7225::: water funnel kya hai?
+7226::: worms ke fear ko kya kehte hain?
+7227::: Chinese "spouting" bowl kya hai?
+7228::: emperor kya krta hai?
+7229::: kis president ne Queen Mother ko lips par kiss ki thi?
+7230::: tennis star Stefan Edberg kahan se aya hai?
+7231::: konsa continent Executive Committee mountain range 
+7232::: unchi buildings ko banate samah cranes ko kaise upar uthate hain?
+7233::: Al Capone ko 1931 mein kis liye 
+7234::: possum ko pakadne ke liye konsi food item use karte hain?
+7235::: Al Capone ka nickname kya tha?
+7236::: famous fairy tale "Snow White And Seven Dwarfs" ka author kon hai?
+7237::: Germany ka sabse bada sheher konsa hai?
+7238::: cholera ka sabse bada dar kya hai?
+7239::: Firehole River aur Fairy Falls kis park mein hai?
+7240::: West Indies ka largest island konsa hai?
+7241::: New England ke konse state ka telephone area code 27 hai?
+7242::: natural acid-base indicator ka ek example kya hai?
+7243::: Eckley Colorado konsi country mein hai?
+7244::: main duniya ke rice importers ke bare mein jankare kaise nikal sakta hun?
+7245::: ek tree ko 900,740-TREE milane 
+7246::: Led Zeppelin ka gana Stairway kis bare mein hai?
+7247::: bal kaise curl hote hain?
+7248::: hump yards mein kya kya push aur couple hai? 
+7249::: hermit crabs kitni der tak zinda rehte hain?
+7250::: kis city ne Asia mein pehle Winter Olympics host kiye the?
+7251::: first name `Breony ` ka kya origin hai?
+7252::: agar tumhara birthstone sardonyx hai to tum kis month mein paida hue the?
+7253::: Harvey Wallbanger drink ke naam ke piche kon hai?
+7254::: "Beauty is in the eye of the beholder" ka kya origin hai?
+7255::: konsi soft drink aisi hai jiski khud ki video game to hai hi, sath hi apni Marvel comic book mein featured hai? 
+7256::: konse purane kids' fare ko TV Guide writer Jeff Greenfield ne kaha tha `` one of the most...subversive TV shows in American history '' ?
+7257::: Madonna kis soft drink ki advertisement karta hai?
+7258::: root beer ke A&W ki kya full form hai?
+7259::: aisa konsa tennis ka term hai jo egg ke French word se originate hua hai?
+7260::: collier kya mine karta hai?
+7261::: ek insan ko beach par dog le jane ke liye kitna fine dena pad sakta hai?
+7262::: konsi desert country Saudi Arabia,Iraq aur Persian Gulf ke sath border share karti hai?
+7263::: comic book lingo mein ages kya hai?
+7264::: Cambodia mein kis tarah ke janwar hain?
+7265::: kis South African producer ko 1938 mein $836 million ka profit hua tha?
+7266::: konsi American actress ko sabse pehle "vamp " kaha gaya tha?
+7267::: Christmas ke 12 days ka kya matlab hai?
+7268::: John Steinbeck ki konsi novel Joad family, jo ki Oklahoma dustbowl se driven hai ko portray karti hai?
+7269::: kis date ko manushya ne sabse pehle moon par land kiya tha?
+7270::: Eli Lilly ke headquarters kahan hain?
+7271::: kitne web servers hain?
+7272::: Dickens's A Christmas Carol ki akhri line kya hai?
+7273::: ek saal mein kitni trees paper making ke liye jati hain?
+7274::: genetics ke through oilseeds par chal rahi research ki jankari kahan se mil sakti hai? 
+7275::: light bulbs kharab kaise hoti hain?
+7276::: Shea & Gould law firm ne kis vajah se L.A. office band kiya tha?
+7277::: universe kitni dur tak faila hua hai?
+7278::: ek bootle aur jar mein kya antar hai?
+7279::: aisi konsi bimari hai jo North-Americans ki second biggest killer hai?
+7280::: Mayan Indians kahan rehte the?
+7281::: Poe kahan paida hua tha?
+7282::: nind aur khane ki kami se female body ko kya hota hai?
+7283::: glass ya crystals ke dar ko kya kehte hain?
+7284::: aisa konsa product hai jo ripening of apples ko control karta hai?
+7285::: ek reliever ko baseball game mein kitni warmup pitches milti hain?  
+7286::: Dylan Thomas kahan mara tha?
+7287::: konse common livestock ki sabse jyada variety ki breeds hain?
+7288::: kis film mein Bette Davis ne society ball mein daring red gown pehenkar scandal create kiya tha? 
+7289::: August von Wassermann ne 196 mein kis disease ka specific test develop kiya tha?
+7290::: konsi cad company Christmas ornaments bechti hai?
+7291::: main kaise pata kar sakta hun ki kitni cities ek certain area code mein hain?
+7292::: communication satellites yachts ko kya de sakti hain?
+7293::: ek pound mein kitne Fig Newtons hote hain?
+7294::: China ka premier kon hai?
+7295::: konse cigar chabane wale comedian ne observe kiya tha 
+7296::: human hand mein kitni bones hoti hain?
+7297::: konsi bread company Cisco Kid ke stickers apne packages ke end par feature karti thi?
+7298::: Vichy France ka president kon tha?
+7299::: kiski kidnapping ko The Crime of the Country kaha gaya tha?
+7300::: hydrogen kya hai?
+7301::: kis group ne musical question pucha tha Do You Believe in Magic?
+7302::: 1922 mein America ki tallest building konsi thi?
+7303::: konsi buxom blonde 5 se jyada magazines ke cover par ayi thi?
+7304::: recruitment interview technique kya hai?
+7305::: hurricane kaise banta hai?
+7306::: donation process kya entail karta hai? 
+7307::: Blythe Phoenix se kitna dur hai?
+7308::: konsa New Hampshire ka hamlet U.S. presidential elections ke liye sabse pehle khada hua tha?
+7309::: kitne log network television dekhte hain?
+7310::: Bradley,Voorhees and Day ke garment ko kya naam diya tha?
+7311::: sound barrieer sabse pehle kisne toda tha?
+7312::: birds kaise sex karte hai?
+7313::: polo team mein kitne ghode hote hain?
+7314::: Genesis 19
+7315::: konsa naya sal February 16th ko celebrate hota hai?
+7316::: Occam's razor kya hai?
+7317::: Grimace aur Mayor McCheese kahan rhte hain?
+7318::: Appalachian Trail ko hike karne mein kitna time lagta hai?
+7319::: fruits palnts ko zinda rakhne mein role play karte hain?
+7320::: world championship sled dog race har February kahan hoti hai?
+7321::: clitoridectomy ke kya medical purposes hain?
+7322::: thalassemia ko  kaise define kar ssakte hain?
+7323::: Tampa ke newspaper ka kya naam hai?
+7324::: storm surge kya hai?
+7325::: "farther" ko "further" ke opposite kaise use kar sakte hain?
+7326::: VHS ka kya alternate hai?
+7327::: Sioux ki ek language kya hai?
+7328::: konsa Pulitzer prize-winning novelist New York City ke mayor ke liye bhaga tha?
+7329::: nickel-cadmium rechargeable battery kitne bar recharge ho sakti hai?
+7330::: cologne kaise banta hai?
+7331::: Greek gods ke khane ko kya kehte hain?
+7332::: camera-ready art ka kya matlab hai?
+7333::: Batmobile sport mein kitni seats hain?
+7334::: Gin Rummy mein har player ko kitne cards dete hein?
+7335::: Philip Taylor Kramer ko kya hua tha?
+7336::: Erica Jong ki koonsi novel Isadora Wing ke fear se deal karti hai?
+7337::: sal ke kis time mein sabse jyada log udte hain?
+7338::: Dickens's A Christmas Carol mein Scrooge ka dead partner kon tha?
+7339::: Christmas tree ka origin kya hai?
+7340::: Thai New Year kab hai?
+7341::: konse chaar tournaments tennis' Grand Slam banate hain?
+7342::: konsi 1964 ki film ne song My Kind of Town introduce kiya tha?
+7343::: kisne 1957 ki hit tammy record ki thi?
+7344::: konsa term mountain side jo prevailing winds ko face karta hai define karta hai?
+7345::: Kafka's metamorphosis mein hero ek subah apne aap ko kis mein bala hua pata hai?
+7346::: caliente ki English translation kya hai?
+7347::: Mia Farrow ki mother kon thi?
+7348::: kaise pata chalta hai ki computer monitor ke sath SVGA adapter hai?
+7349::: ek human eye kitni dur tak dekh sakti hai?
+7350::: sal ke kis time mein sabse jyada air travel hota hai?
+7351::: term ``spaghetti western '' ka kya matlab hai?
+7352::: G7 group of nations kab bana tha?
+7353::: 1980 aur 1990 mein kya antar hai?
+7354::: konsa baseball player sabse jyada chala hai?
+7355::: kis mashoor male vocalist ka naam opera Hansel and Gretel ke composer jaisa hai? 
+7356::: sabse pehle frozen foods kya the?
+7357::: Indiglo ko Indiglo kyon kehte hain?
+7358::: love of pain or abuse ke liye kya shabd hai?
+7359::: unhone Bible ko kab canonize kiya tha?
+7360::: aisa konsa president tha jisne 2 nonconsecutive terms ke liye serve kiya tha? 
+7361::: puri duniya ke kitne percent tornadoes US mein hai?
+7362::: konsa labor leader akhri baar Michigan restaurant ke parking lot mein dikha tha? 
+7363::: Carolingian period kab shuru hua tha?
+7364::: kis motto ne Merrie Melodies cartoons ko khatam kia?
+7365::: ``Good Morning America '' television show par mausam ko kon report karta hai? 
+7366::: Roman Empire mein kitne emperors the?
+7367::: ``The Muppets'' ke creator ka kya naam tha?
+7368::: Humidity kya hai?
+7369::: Kaunse creatures kaale, yellow aur brown bullhead hai?
+7370::: Tu kaunsi city mein hota agar tu pigeons ko Piazza San Marco mein khila raha hota?
+7371::: Kaunse artist ki studio Montmartre Bateau-Laboir thee?
+7372::: Ewoks rahte the woh planet ka naam kya hai?
+7373::: Spanish language mein kitne words hai?
+7374::: 'El Cid' novel ke baare mein information kaha hai?
+7375::: Napalm ka chemical formula kya hai?
+7376::: Yohimbine kya hai?
+7377::: 'Chicago Hope' kya hai?
+7378::: Ek family ke kitne log U.S. military mein bhartih o sakte the World War II ke dauhran?
+7379::: 'Silent Night' song kisne likha hai?
+7380::: Kaunsi company sabse badi hai jo Japanse ship build karti hai?
+7381:::'Blue ribbon' kiske liye stand karta hai?
+7382::: Oopar neeche kaunsi date ko zyaada karke malls Christmas holiday ki decorations daalte hai?
+7383::: Chinese alphabets mein kitne characters hai?
+7384::: Burma kaha hai?
+7385::: The Collector kisne likhi hai?
+7386::: Kaunsa bada diamond producer South Africa mein hai?
+7387::: Samuel Johnson ka dost aur biographer kaun tha?
+7388::: Sigmund Freud ko erotic sapne kaunsi ladkiyo ne diye? 
+7389::: Cleveland Indians ko aur kya bulate hai?
+7390::: Kaunsi commodity ki shortage sabse bada factor tha North American gaadiyo ko raste se door rakhne mein World War II ke dauhran?
+7391::: Ek ostrich ke ande mein kitne hummingbird ek ande fit ho sakte the?
+7392::: 1857 mein publish bestselling Missionary Travels and Researches in South Africa kisne likhi thee?
+7393::: 'Charles in Charge' mein papa kisne play kiya tha?
+7394::: Human pregnancies mein gestation period kya hai?
+7395::: Daniel naam kaha originate hua?
+7396::: Kaunsi common methods monopolies ko regualte karne mein kaam aati hai?
+7397::: Pink color kaunsi category denote karta hai Trivial Pursuit Baby Boomer Edition mein?
+7398::: Ek average domesticated ferret kitna jeeta hai?
+7399::: Red Cross ka Islamic counterpart ka naam bol.
+7400::: World War II ke baad ke historical trials kaunse the?
+7401::: Kaunsi states mein state income tax nahi hai?
+7402::: Kaunse shahar mein do sabse steepest raste hai U.S. mein?
+7403::: Margaret Thatcher ko log kyun jaante hai?
+7404::: Woh country ka naam bolo jo giants ki hai, baara time badi woh aadmi se jo 'Gulliver's Travels' mein tha.
+7405::: Aadmiyo ka par kya hai 455-yard golf hole mein?
+7406::: Kaunse chaar elements 90 percent humany body ko banata hai?
+7407::: Kitne countries hai?
+7408::: Sabse zyaada United States mein marijuana kaha se aata hai?
+7409::: Stuart Hamblen kaunsi medium ka pehle gaane waala cowboy maane jaata hai?
+7410::: Steve Rogers's ka profession kya hai jab woh Captain America nahi hai?
+7411::: Sabse common cancer kaunsa hai?
+7412::: Kaunse log top 10 richest people hai duniya ke?
+7413::: Main Answers.com ko contact kaise karu direct?
+7414::: Ek aadmi ko hamesha paseene waale haath aur pair kisi wajah se hote hai?
+7415::: Answers.com ko kya ho gaya?
+7416::: Sine wave ka spectrum kya hai?
+7417::: Kaunsa ethnic group ne potlatch ka idea introduce kiya?
+7418::: Ek aadmi ka socioeconomic position kya hota hai?
+7419::: Tum aisa dost ko kya bologe jo tumhe doosro dooste ke liye ignore kar deta hai?
+7420::: Ek mile mein kitne yards hai?
+7421::: Mccall ke cover pe aane waala pehle actor kaun tha?
+7422::: R.E.M kiske liye stand karta hai, jaise jo rock group R.E.M.?
+7423::: Kathie Lee Gifford kaunsi cruise line ke liye advertise karti hai?
+7424::: Jenna naam ka matlab kya hai?
+7425::: Ladkiyo ko training bra kyun pehen ni padti hai?
+7426::: Sabse pehle successful heart transplant human ke liye kab tha?
+7427::: Edit Bunker kaise mar gayi?
+7428::: Kaunsi country mein Cawdo Castle, Glaimist Castle aur Blair Castle hai?
+7429::: Spumante ko define kar.	
+7430::: pH kiske liye stand karta hai?
+7431::: Mount Everest kaunsi country mein hai?
+7432::: Kaunsi country Latin America mein sabse badi country hai?
+7433::: The Apocalypse ke chaar horsemen ke naam batao.
+7434::: Geckos kya hote hai?
+7435::: Aaron Haas ki book ka naam kya hai?
+7436::: Cosmology kya hai?
+7437::: Kitne watts ek kilowatt banata hai?
+7438::: Kaunsi TV series mein shaadi shuda couple Jonathan aur Jennifer ke adventrues hai?
+7439::: Kaunsi female faith healer ne woh inspirational book I Believe in Miracles likhi?
+7440::: Jinnah kaun tha?
+7441::: Esquire ne Ash Hole of the Year 1980 ke liye kisko chuna?
+7442::: King Francis na jab Mona Lisa unke paas thee, tab kaha hang karte the?
+7443::: Gareeb baccho ko New Orleans mein kisne ruin kiya tha?
+7444::: Habeas Corpus kya hai?
+7445::: Intranet tum kaise use karte ho?
+7446::: Kaunsa famous husband wife team ne Blue Nun wine ke liye radio ads kiye?
+7447::: Harold Stassen ne White House ke liye kitni baar drive announce ki hai?
+7448::: Presidents ke pictures jiske ander hai waise bottle caps ki worth kya hai?
+7449::: Hungarian language ki history main kaha dhoondh sakta hu?
+7450::: UK, NNP mein USA fax machines kyun nahi chalte?
+7451::: Kaunsi cigarette 'a whole new world' hai?
+7452::: Kisne Florida se tramp kiya Fountain of Youth dhoondte hue?
+7453::: 1990 mein, week ke kaunse din pe Christmas tha?
+7454::: Woh song ka naam kya tha jo Dracule organ pe baja raha tha?
+7455::: Kaunse do jaanvaro ko Noah's Ark mein hone ka specifically menion kiya hai?
+7456::: Federal income tax kya hai?
+7457::: Confederate mounted guerrilla group jisme Jesse James aur Colemen Younger ne ride kiya tha ka naam kya tha?
+7458::: Kaunsi disease ne Europe, Afria aur Asia mein pareshan kiya?
+7459::: Kaunsi card game mein dealer's choice aa sakta hai?
+7460::: Kitne American soldiers South Korea mein stationed hai?
+7461::: Failure ka dar kya hota hai?
+7462::: 2 se kitne zyaada feet Great Wall of China ki average height hai?
+7463::: Jogn T. Scopes ke 1925 trial mein verdict kya tha?
+7464::: Japan mein travel karne ke liye best way kya hai?
+7465::: Anglican church kitne pehle Vatican se alag hua?
+7466::: Originally Lucy Van Pelt ne kitna charge kiya tha psychiatric sessions ke liye?
+7467::: Kisne apne do underwater thrillers ke baad The Girl of the Sea of Cortez le aayi?
+7468::: Parthenon kab build hua?
+7469::: H.G. Wells ki kaunsi 1895 novel The Chronic Argonauts ke title se likhi gayi thee?
+7470::: Common dolphin kya hai?
+7471::: Answers.com kaise funded hai?
+7472::: Ek pig ka orgasm kitni der last karta hai?
+7473::: Kaunsa U.S state alphabetetical order mein last aata hai?
+7474::: Kitne mountain continental USA mein Presidents ke naam ke hisab se bulaye jaate hai?
+7475::: 1965 aur 1990 saalo ke unemployment statistics kya hai?
+7476::: BUD kiske liye stand karta hai?
+7477::: Congress ka kaunsa ek Independent Member hai?
+7478::: Bado se rule hui society kya hai?
+7479::: Kaunse do U.S. ke presidents ne poetry publish ki?
+7480::: Seven Dwarfs mein se alphabetically kaun pehle aate hai?
+7481::: Kaunse professional cricketer ke bete ne The War of the Worlds likhi 1898 mein?
+7482::: Dutch log kaunse condiment mein apne French fries dip karte hai?
+7483::: Kunsi compic strip kabhi Broadway musical nahi bani?
+7484::: Kaunsi war mein pehli submarine use hui thee?
+7485::: CPR kisa abbreviation hai?
+7486::: Tempin bowling mein pins kitne inches door hote hai?
+7487::: Pentagon mein kitne miles ke corridors hai?
+7488::: Circle ka area kaise dhoondte hai?
+7489::: San Juan Islands kaunse U.S. state mein aate hai?
+7490::: Kaunse angrezi playwright ne 'Where the bee sucks , so shall I' likhi?
+7491::: Barbershop pole ke red aur white stripes kiske liye stand karte hai?
+7492::: Beany aur Cecil ki sail ki hui ship ka naam batao.
+7493::: Fathom kitna deep hota hai?
+7494::: 'Dead Man 's Hand' kya tha?
+7495::: Fred Astaire ke dancing partner ka naam kya tha?
+7496::: Ek company ka web address kaise dhoondu main?
+7497::: Koi ek game ke liye highest number ke home run ka record kya hai?
+7498::: Australia ki koi native flora kaunsi hai?
+7499::: Kaunsa heavyweight boxer ko log The Wild Bull of the Pampas se jaante the?
+7500::: Ek pound butter banane kitne whole milk quarts ki zaroorat hoti hai? 
+7501::: Kaunsi London street claim karti hai ki woh world center hai men's tailoring ke liye?
+7502::: Universe kitna purana hai?
+7503::: Bible kab kahta hai ki seasons start hue?
+7504::: Kaunse jaanvar ko The Poor Man's Cow bulaya gaya hai?
+7505::: Shaadi ki ceremony kaha se aayi hai?
+7506::: Kaunsi bordering country Costa Rica ke due north hai?
+7507::: Kaunsi Morris West novel Russian bishop jo Pope bana ke baare mein hai?
+7508::: Kausa nation Mozambique ko border karta hai?
+7509::: EKG kiske liye stand karta hai?
+7510::: Kaunse saal ke Olympic Games ne Nadia Comaneci ko popular banne diya?
+7511::: Kaunsa TV talk-show host ne apna naam ek men's clothing ki line ko diya?
+7512::: Kaunsi soft drink ne ek national flavor poll rakha 1967 mein?
+7513::: Colin Powell kiske liye famous hai?
+7514::: Jewish alphabet ko kis tarah jaante hai?
+7515::: Ghar ke surroundings ka dar kya hai?
+7516::: Kitne log tuberculosis se saal mein marte hai?
+7517::: Basidiomycetes ka ek specimen kya hai?

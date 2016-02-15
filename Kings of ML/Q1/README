@@ -1,0 +1,22 @@
+To run this code -
+
+Data- 
+
+1) Training_set.csv
+2) Testing_set.csv
+
+Running the code-
+
+python preprocess.py
+python randomforest.py
+
+will generate the submission script attached!
+
+Libraries Required
+
+-Keras - sudo pip install keras
+-Sklearn - sudo pip install scikit-learn
+-Numpy - sudo pip install numpy
+-h5py - sudo pip install h5py
+
+Hurray! I won!

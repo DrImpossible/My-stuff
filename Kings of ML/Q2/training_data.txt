@@ -1,0 +1,2001 @@
+IDVal:Coarse_Label:Fine_Label:Question
+2004:HUM:ind: Kaunse actor ki autobiography ka title All My yesterdays hai?
+2005:HUM:ind: Kaunsa Russian master spy U.S. mein Emil GOldfus ke naam se reh raha tha?
+2006:LOC:other: Golf course par 19th hole kidhar hota hai?
+2007:DESC:reason: Sansaar ka purpose tornadoes ke piche kya hai?
+2008:HUM:ind: Original Charlie's Angels kisne play kiya tha?
+2009:LOC:other: Mai telephone number se ek person ka address kaise dhund sakta hu?
+2010:ENTY:word: Kaunsa English word purane French word covrefeu se aata hai, jiska matlab cover fire hota hai?
+2011:ENTY:instru: James Jones ke From Here to Eternity mei Prewitt ne kaunsa musical instrument playb kiya tha?
+2012:LOC:other: Sarge Steel ko apna metal hand kaha se mila?
+2013:DESC:reason: Popcorn ko pop kya karata hai?
+2014:HUM:ind: Night of the Iguana kisne likhi thi?
+2015:ENTY:body: Tumhare baal sabse fast kaha grow hote hai?
+2016:LOC:country: Woh kaunsi country thi jispar King Gustav V ne reign kiya 197 se lekar 195 ke beech mein?
+2017:HUM:ind: Mother and Child kisne paint ki thi?
+2018:NUM:speed: Mississippi River ki speed kya hai?
+2019:LOC:other: Duniya ke kaunse area mei Six Day War ladi gayi thi?
+2020:LOC:other: Earth se sabse zyaada bright star kaunsa hai jo ki visible hai?
+2021:ENTY:cremat: Woh kaunsi film thi jisne Robert Redford ki directorial debut mark ki thi?
+2022:HUM:ind: Mao ka dusra naam kya tha?
+2023:ENTY:cremat: Jud Law kaunse films mein appear ho chuka hai?
+2024:LOC:other: Hyenas kaha rehte hai?
+2025:HUM:desc: "Queen Mother" kaun hai?
+2026:ENTY:lang: Belgium mei sabse zyaada kaunsi bhaasha boli jaati hai?
+2027:HUM:ind: Kiske paas zyaada DNA hota hai - aadmi ya fir aurat?
+2028:DESC:def: Maid-Rites kya hai?
+2029:ENTY:cremat: `` Come , Cinderslut , and hold this skein of wool for me '' - ye line kaunse children's tale mei hoti hai?
+2030:HUM:gr: Government ki kauns level ya agency hai jo racism ke cases ko handle karne ke liye responsible hai?
+2031:NUM:count: Kitne referee soccer game mein kaam karte hai?
+2032:ENTY:food: Whisky aur sweet vermouth ke saath tum kaunse cocktail concoct karte ho
+2033:ENTY:termeq: Spanish mein "fresh" ko tum kya bolte ho?
+2034:DESC:desc: Bee hives cranberry bogs mei kya karte hai?
+2035:DESC:reason: Lynmouth floods ka kaaran kya tha?
+2036:NUM:date: Michigan mei Tulip Festival kab hota hai?
+2037:HUM:ind: El Nino - ye naam kaun lekar aaya?
+2038:ENTY:cremat: Woh kaunsi movie thi jismei Madilyn Kahn ne Gene Wilder ke saath kaam kiya?
+2039:ENTY:other: Golden Gate Bridge kaunse type ka bridge hai?
+2040:HUM:ind: Kaunse dictator ka nickname "El Maximo" hai?
+2041:HUM:gr: Kaunsa stereo manufacturer hai jo "Slightly ahead of its time" hai?
+2042:LOC:city: Kaunsi U.S. city The Queen oa?f the Pacific ke naam se jaani jaati hai?
+2043:HUM:ind: Woh kaunsa TV sitcom character tha jiska maiden name Ethel Potter tha?
+2044:ENTY:food: Pehla Lifesaver flavor kaunsa tha?
+2045:HUM:ind: English language mei sabse famous diary kaun rakhta tha?
+2046:LOC:other: Top 1 singles mai kaha dhundh sakta hu?
+2047:NUM:count: Cucumber ka inside part baahar se kitne degrees thanda hota hai?
+2048:HUM:ind: Kaunse Spanish artist ne Crucifixon paint ki thi?
+2049:ENTY:cremat: Jewish Bible ko kya kehte hai?
+2050:DESC:reason: Grass hari kyu hai?
+2051:DESC:def: Firewall kya hota hai?
+2052:HUM:ind: Kaunse spy novelist ne Reuter aur the Times of London ke liye Moscow correspondent serve kiya tha?
+2053:HUM:gr: Kaunsi oil company ne almost ek word pick kar liya tha apne international naam ke liye jiska matlab "stalled car" hai Japanese mein?
+2054:NUM:period: Spider-Man ke web ko evaporate hone mei kitna time lagta hai?
+2055:HUM:ind: Randy Steven Craft ke lawyer kaun tha?
+2056:LOC:other: Spice Island ke naam se kaun jaana jata hai?
+2057:HUM:ind: Person to Person ka first host kaun tha?
+2058:HUM:ind: Us Ranger ka naam batao jo Yogi Bear ke hamesha piche rehta tha?
+2059:ENTY:other: Kaunse deck of cards mei Wheel of Fortune , the Lovers , and Death include hote hai?
+2060:ENTY:other: Statue of Liberty apne feet par kya pehenti hai?
+2061:HUM:ind: Rent-a-cars mein superstar kaun hai?
+2062:LOC:city: McCarren Airport kaunsi city mein located hai?
+2063:ENTY:other: Kaunsi household facility mein float ball, ball cock aur overflow tube hote hai?
+2064:ENTY:animal: Betty Boop ke kutte ka naam kya tha?
+2065:NUM:perc: Beaver ke life ka kya fraction swimming mei woh spend karta hai?
+2066:ENTY:substance: Bridge of San Luis Rey kis cheez se bana hua hai?
+2067:DESC:desc: Economists kya karte hai?
+2068:LOC:country: Kaunse country ke paas sheep ka largest population hai?
+2069:DESC:desc: Mujhe apne kutte ko Dominica, West Indies mein ek saal rehne ke liye apne saath kya-kya le jaana padega? 
+2070:LOC:country: Kaunsa country cognac ka duniya mein largest importer hai?
+2071:NUM:count: Johnnie Walker Black Label kitne saal ka hai?
+2072:ABBR:exp: SIDS kis cheez ke liye stand karta hai?
+2073:ENTY:other: Grenada ka main commodity export kya hai?
+2074:NUM:money: Ek black-and-white 1-cent stamp kitne ki worth ka hota agar Thomas Jefferson ne us par likha hota?
+2075:DESC:reason: Clitoris ko kya sensitive banata hai?
+2076:LOC:country: Kaunse country ke sabse zyaada time zones hote hai jo ki 11 hai?
+2077:ENTY:other: Madrake kaunsa "magic" employ karta hai?
+2078:HUM:ind: Stanford University ka president kaun hai?
+2079:HUM:ind: `` Let 's get this goddamn thing airborne '' kiska first presidential order tha?
+2080:ENTY:other: 1899 mein Leverkusen ke Bayer A.G. ne commercially kya introduce kiya tha? 
+2081:LOC:city: Logan Airport kaunsi city mein hai?
+2082:DESC:def: Nanometer kya hai?
+2083:NUM:count: Regulation softball game mein kitne innings hote hai?
+2084:NUM:date: CNN on air kab gaya tha?
+2085:LOC:city: Great Lakes ki largest city kaunsi hai?
+2086:NUM:code: University of Kentucky ka telephone number kya hai?
+2087:HUM:ind: Baseball kisne invent kiya tha?
+2088:NUM:count: Brighan Young ki kitni wives thi?
+2089:ENTY:product: Market mein kaunsa product hai jo facial scars ko chupane mein achha hai?
+2090:NUM:dist: Coney Island boardwalk kitna lamba hai?
+2091:LOC:city: Kaunse city ko pea-soup fogs ke liye renown mila tha?
+2092:DESC:def: "Janelle" ka kya matlab hota hai?
+2093:DESC:manner: Mujhe dusre sheher ka newspaper kaise mil sakta hai? 
+2094:ENTY:cremat: Ek movie ka naam batao jo ki Sioux Indians ke baare mein hai jismeinn Kevin Costner hai?
+2095:HUM:ind: Deadwood, the Dakota Territory mein ek Poker game ke time par kaun pit mein shot hua tha?
+2096:DESC:desc: Arabian horse ke distinct physical characteristics kya hai?
+2097:ENTY:dismed: Thunder ke dar ko kya kehte hai?
+2098:ENTY:animal: Kaunse animal ne sabse zyaada logo ko maara hai?
+2099:NUM:count: Wyoming mein kitne colleges hai?
+2100:LOC:city: Kaunsa Russian seaport hai jiska matlab `` Lord of the East '' hai?
+2101:LOC:other: Stcoks on-line kaha trade kiye jaa sakte hai?
+2102:NUM:date: Battle of Hastings kab hua tha?
+2103:ENTY:other: Kaunse type ki file ka extension .dbf hota hai?
+2104:NUM:date: Muhammad kaunse time mein rehta tha?
+2105:ENTY:termeq:  Monet , Sisley , Pissarro , Renoir aur Degas - yeh painters par tab ka kaunsa derogatory term apply hua tha? 
+2106:DESC:def: Wop kya hota hai?
+2107:DESC:desc: Rocks kaha se aate hai?
+2108:DESC:manner: Car stereo mein main background noise kaise stop karu?
+2109:LOC:mount: Nepal mein log mountain climb kaha karte hai?
+2110:HUM:gr: Country mein best college kaunsa hai?
+2111:DESC:def: Viscosity kya hoti hai?
+2112:ENTY:cremat: Woh kaunsa sitcom tha jismein Alyssa Milano ne Tony Danza ke saath kaam kiya tha? 
+2113:LOC:country: Nordic desh kaunse hai?
+2114:LOC:other: Fifth Amendment on the American Bill of Rights ke baare mei Internet par mujhe kaha information mil sakti hai?
+2115:LOC:state: Kaunsi U.S. state Illinois ko north mein border karti hai?
+2116:ENTY:cremat: Ek film ka naam batao jismein Jude Law ne acting ki thi?
+2117:NUM:temp: Peachy Oat Muffins ko bake karne ke liye kya temperature hona chahiye?
+2118:ENTY:dismed: Fear of bees ko kya kehte hai?
+2119:ENTY:cremat: Kaunsi Vladimir Nabokov ke novel mein Professor Humbert 12 saal ki ladki ke saath pyaar mein kho jaate hai?
+2120:DESC:def: Green bog kya hota hai?
+2121:LOC:other: Santa Claus ka myth kaha originate hua tha?
+2122:ENTY:other: Chairbound basophic kisse darta hai?
+2123:LOC:city: Logan International Airport kaunsi city ko serve karta hai?
+2124:HUM:ind: Kaunsa wrestling star `` The Incredible Hulk '' ban gaya?
+2125:LOC:other: Reims mein kya tourists ko attract karta hai?
+2126:ENTY:sport: The Cincinnati Kid mein Steve McQueen aur Edward G. Robinson kya game khelte hai?
+2127:ENTY:other: Whitcomb Judson ne 1893 mein kaunsa fastener patent kiya tha?
+2128:DESC:def: France mein auberge kya hota hai?
+2129:HUM:ind: 1965 ke Broadway hit Golden Boy mein star kisne kiya tha?
+2130:LOC:other: Procter & Gamble U.S. mein kaha based hai?
+2131:HUM:gr: William Booth aur his wife Catherine ne kaunsi army ki sthapana ki thi?
+2132:ENTY:substance: Ribavarin mein kya hota hai?
+2133:ENTY:food: `` number one in the sun '' kaunsi soft drink ka naam hai?
+2134:LOC:other: House of Representatives ke email addresses ki list ke web address kya hai?
+2135:HUM:ind: Uska asli naam kya tha?
+2136:DESC:reason: Tumhare ears center of balance kyu hote hai?
+2137:HUM:ind: Toothbrush kisne invent kiya tha?
+2138:ENTY:cremat: Us popular song ka naam kya tha jo Creeps ne gaaya tha?
+2139:LOC:other: Abominable Snowman kaha wander karte hue kaha jaata hai?
+2140:ENTY:dismed: Akele ho jaane ke dar ko kya kehte hai?
+2141:NUM:count: Kitne dots `` because '' ke liye symbol banate hai?
+2142:ENTY:food: Lactobacillus bulgaricus ko dudh mein daalne par kya milta hai?
+2143:ABBR:exp: Jab classifies ads padhte hai, toh EENTY 
+2144:NUM:count: Octopus ke kitne hearts hote hai?
+2145:ENTY:plant: Kaunse plant ki largest seed hoti hai?
+2146:LOC:country: Woh kaunsi country thi jismein se aap Israel ke andar drive kar sakte the 1979 mein?
+2147:ENTY:other: Jab cyclist shout karta hai "Oil" , tab kya aa raha hota hai?
+2148:HUM:ind: Kaunse baseball star ne $1000 a year ka contract turn down kar diya kyuki use laga ki usne use earn nahi kiya tha?
+2149:ENTY:sport: Kaunsa kind of sport hooligans se associated hota hai?
+2150:HUM:ind: Kaunse video game hero ko fans kabhi kabhi Chomper kehte hai?
+2151:NUM:count: Tenpin bowling ball mein kitne holes hote hai?
+2152:ENTY:word: English language mein sanse lamba word kaunsa hai?
+2153:LOC:other: Sabse jyaada gay mard kaunse sheher yaa state mei rehete hai?
+2154:HUM:ind:kounsa tv comedian ka character s that include former movie star Nora Desmond , secretary Mrs. Wiggins and a housewife named Eunice.
+2155:ENTY:animal:`` the bear of beers '' kya hein.
+2156:ENTY:other:ek operating system ka naam batao that runs on IBM-compatible machines .
+2157:DESC:def:`` Justin ' ka matlab kya hein.
+2158:NUM:perc:kitne pratishat of body is muscle.
+2159:ENTY:color:kounsa color of dry wine should be served with veal roasts and chops .
+2160:ENTY:substance:golfball kis cheez se banate hein.
+2161:DESC:def:Amish religion kya hein.
+2162:NUM:money:ek average daycare provider kitna kamate hein in new england.
+2163:HUM:gr:187s Irish terrorist group in Pennsylvania mining areas ka naam kya hein.
+2164:HUM:ind:kisne Ringo Kid in the 1939 film Stagecoach ko play kiya.
+2165:HUM:ind:koun died 1 feet from where John F. Kennedy did .
+2166:DESC:def:`` coppertop '' battery  kya hein.
+2167:ENTY:symbol: The Water Carrier the zodiacal symbol ki scheez ke liye hein.
+2168:ENTY:animal:kounsa animals ko you  find in the stock market .
+2169:DESC:def:colour kya hota hein.
+2170:NUM:date:kab www.questions.com site open hoga.
+2171:ENTY:cremat: Shostakovich ne  Rostropovich  kya likha hein.
+2172:HUM:ind: Nipsy Russell ko  apne birth ke samay first name kya tha.
+2173:DESC:manner:free technical information on Electric Vehicle kaise mujhe milsaktha hein.
+2174:HUM:ind:Beatles mein youngest koun hein.
+2175:DESC:manner:shipyard inspector James J. Kilroy ne kis prakar designate equip.ment as being satisfactory.
+2176:DESC:def: Jellicle Cat kya hota hein.
+2177:LOC:other:best free evidence for debate about Russia mujhe kaha pe milsakte hein.
+2178:LOC:other:Bill Gates of Microsoft ka email id kya hein.
+2179:ENTY:substance:second hardest substance kya hein.
+2180:DESC:reason:kyu several San Diego schools stop serving apples to students.
+2181:LOC:city:kounsa  Russian city boasts the Hermitage Museum.
+2182:NUM:date:Bastille Day kab hein.
+2183:DESC:reason:kya  ek tornado ko turn karta hein.
+2184:NUM:count:kitne shots ek stock m 16 hold kar sakta hein.
+2185:ENTY:color:woh kounse do colour andha hona padta hein jab aap ko protanopia hot a hein.
+2186:DESC:reason:tum log ek contest kyu nahi banate ho jismein ek quetion poocha jaata hein and  whoever finds the answers wins a prize.
+2187:HUM:desc:Coronado  koun hein.
+2188:ENTY:cremat:movie ka naam ky ahein jisme  Sharon Stone aur Arnold Schwarzenegger ne act kiya hein.
+2189:DESC:def:artificial intelligence kya hein.
+2190:ENTY:food: flatfish kya khate hein.
+2191:HUM:ind:first Holy Roman Emperor  ka naam koun hein.
+2192:ENTY:other: What can main  use karsakhu to  remove the stubborn gummed labels from some diskettes 
+2193:NUM:date:kounsa day of the week sees the most fatal car accidents.
+2194:DESC:desc:the origin of the word magic kya hein.
+2195:ENTY:sport:kis sport mein u shag files in.
+2196:DESC:def:white chocolate ky ahein.
+2197:LOC:other:trinidad kaha hein.
+2198:HUM:gr: organization that is presided by a Security Council ka naam kya hein.
+2199:HUM:ind:kisne `` Do ya lo-o-ove me ? Get naked , baby ! ‘’jaise anmol shabd ko bola hein.
+2200:ENTY:food:Spumante kis prakar ka wine hein.
+2201:HUM:ind:koun  portrayed portly criminologist Carl Hyatt on Checkmate.
+2202:ENTY:termeq:I love you  Spanish mein kaise keh sakte hein.
+2203:DESC:def:gina ka matlab  kya hein.
+2204:ENTY:product: Duniya nai sabse advanced handheld calculator kaunsaa hai?
+2205:NUM:speed:light kitna fast hein.
+2206:ENTY:termeq:belt of low pressure around the equator ko kya kehte hein.
+2207:DESC:def:shooting stars koun hein.
+2208:HUM:gr:kinko Chicago Bulls ne 1993 champion shipmein beat kiya hein.
+2209:NUM:date:kab america ka first encyclopedia publish kiya hein.
+2210:LOC:other: tallest building in New York City kya hein.
+2211:DESC:manner:Easter Sunday 's ka date kaise determine karte hein.
+2212:DESC:desc:State of Maryland ka motto kya hein.
+2213:HUM:desc:Desmond Tutu koun hein.
+2214:LOC:other:kaha  pe can I find information on the Narragansett Indians and other tribes in Rhode Island
+2215:ENTY:animal:ek tiger ka naam batao jo extinct ho gaya hein.
+2216:NUM:count:kitne quarters equal a pound .
+2217:ENTY:cremat:kis prakar ke books ko Fodor 's publish karte hein.
+2218:HUM:ind: Rowan and Martin , the stars of TV 's Laugh-In ke first name kya hein.
+2219:NUM:ord:bible mein kounsa chapter mein most versus hein.
+2220:HUM:ind: worst US President ever koun hein.
+2221:HUM:ind:kounsa asian leader hein who was  known as The Little Brown Saint.
+2222:ABBR:abb:abbreviated expression for the National Bureau of Investigation kya hein.
+2223:NUM:speed:kitna tej ek fastest car jaa sakta hein.
+2224:LOC:mount:highest mountain in the world kya hein.
+2225:LOC:other:kounsa arch can u see  from the Place de la Concorde.
+2226:HUM:ind:koun e song ko gaata hein `` Drink to me with thine eyes '' jo  Ben Johnson ka hein. 
+2227:NUM:period:kitna samay tak ek person ko apna hands ko dhona hein before they are clean.
+2228:LOC:other:kis disha mein bic ko turn karna hein jisse flame increse hota hein-clockwise or counterclockwise .
+2229:LOC:country:the wealthiest country in the world kya hein.
+2230:DESC:manner:kis prakar se tumhe ek ka number pata chalta hein agar unka email id pata hoto.
+2231:DESC:manner:kis prakar se tum  play producers aur promoters ko online mein milsakte hein.
+2232:HUM:ind:united kingdom ka monark koun hein.
+2233:ENTY:dismed:fear of passing high objects 
+2234:DESC:desc:jab music rukta hein in agame of musical chairs players kya karte hein.
+2235:HUM:ind:us mein top ten most common girl names kya kya hein.
+2236:DESC:reason:kaala rang kyu west mein mouring ka symbol mana jaata hein.
+2237:ENTY:other:kounsa coin rarest hein.
+2238:ENTY:cremat:kis Judith Rossner  ka novel ko ek Diane Keaton starring film banagya hein.
+2239:LOC:country:kounsa country australia ka largest export market hein.
+2240:LOC:other:kaha pein kentucky horse park located hein.
+2241:ENTY:dismed:fear of parasites kya hoti hein.
+2242:ENTY:sport:kis olympic games nadia comaneci popular ho gayi.
+2243:HUM:ind:data collection in tourism koun karta hein.
+2244:HUM:ind: Virginia chief Powhatan ka daughter ka naam kya hein jis ne John Rolfe ke saath shaadi ki hein.
+2245:LOC:state:kounsa state pecan and peanut growing mein lead karta hein.
+2246:DESC:desc:nilhist ki scheez mein belive karta hein.
+2247:DESC:desc:richard feynman ne kya bola jab unko nobel prize in physics mila .
+2248:ENTY:sport:kis sport mein e numbere  118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ? relevant hein.
+2249:HUM:ind:four famous founders of united artists ka  naam batao.
+2250:ENTY:cremat:kounse do states jo france ke hein jinko france ne doosre desho ko daan diya hein.
+2251:DESC:def:amphibians kya hote hein.
+2252:NUM:count:ek average ejaculatin mein kitne sperm cells hote hein.
+2253:ENTY:product:ek disposable razor ka naam batao ziska cost 19 cents hein.
+2254:NUM:dist:agar tumne ek home run maara hein to tum kitne door baagh sakte ho.
+2255:HUM:ind:kounsa  ek hi  us president jisne ek nazi uniform ko pehna hein. 
+2256:HUM:gr:woodrow wilson ne kis university mein president ki post kiya.
+2257:LOC:other:tropical rain forest distributions kaha hein.
+2258:HUM:ind:odds maker jimmy nyder ka nickname kya hein.
+2259:ENTY:dismed:fear of being loved kya hota hein.
+2260:NUM:other:kitne logo ko randy steven craft ne maarne kiya jaaneka convict kiya hein.
+2261:HUM:title:queen victoria title india ke prakar kya hein.
+2262:DESC:manner:kis reaso mein hydrogen bomb nuclear bomb se alag hein.
+2263:NUM:dist:kitna door ek  man outer space mein jaa sakta hein.
+2264:LOC:other:lincoln ko kaha assasinate kiy agaya hai,
+2265:ENTY:food:kis prakar ka food tuymhein mota karta hein.
+2266:ENTY:dismed:chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body ka naam kya hein.
+2267:NUM:count:us highway death toll 1969 mein kitne hein.
+2268:ENTY:animal:dorsets,lincolns,oxfords and southdowns kis prakar ke  animals hein.
+2269:ENTY:cremat:kounsa songs shortest and longest ever produced.
+2270:ENTY:letter:kounsa letter k letter jo keyboard mein rehta hein uska right mein.
+2271:DESC:desc:hajo ka origin or meaning kya hein.
+2272:ENTY:word:gulf ka plural kya hein.
+2273:HUM:ind:kiske autobiography ko yes i can title diya gaya hein.
+2274:NUM:date:kis saal mein united states ne copyright law ko pass kiya.
+2275:NUM:perc:kitne pratishat americano ko unke apne ghar hein.
+2276:NUM:date:week mein first day kya hota hein.
+2277:LOC:city:president william mckinley ko kis city mein maregaye.
+2278:LOC:city:kounsa city mein worlds longest subway system hein.
+2279:HUM:ind:kisne claim kiya hei ki usne 4,280 buffalos mara as food for the crew building the   kansas pacific railway. 
+2280:DESC:def:bombay duck kya hota hein.
+2281:NUM:count:kitne degrees cooler hein inside of  a cucumber than the air outside.
+2282:HUM:ind:kounsa double talking proffeor holds a doctorate i nothing.
+2283:LOC:city:world mein five most expensive cities ka naam batao.
+2284:HUM:ind:kounsa 19 th century writer ko ek country estate on the hudson dubbed sunny side hein.
+2285:NUM:count:faber mongol pencil yellow paint sein layer karane ka adrust kitna hein.
+2286:DESC:def:virtual IP address kya hota hein.
+2287:HUM:ind:cook on Rawhide ka naam batao.
+2288:LOC:other:chicago kis country mein hein.
+2289:NUM:dist:condor ka wingspan kitna hota hein.
+2290:DESC:desc:kounsa facial feature mein 55 hairs rehte hein.
+2291:HUM:ind:kinka naamm Admiral of the ocean seas and viceroy and govrner general of all islands jo voh discover kar ssakta hein, and also granted10-??of all profits of his voyage .
+2292:DESC:manner:ek computer sein doosre computer mein files keisein transfer kar saktein hein.
+2293:ENTY:termeq:play on word s ka literary term batao.
+2294:ENTY:color:voh gode kownse rang ke thein.
+2295:NUM:money:ek average daycare provider kitna kamata hein new england mein.
+2296:HUM:ind:kounsa author landed a 468 -pound marlin bina harness ke liye in the early 193 ’s.
+2297:NUM:count:kitne americans fought for the british in the american revolution.
+2298:ENTY:other:kis prakar ka education muhjhe chaahiye jisse mein flight attendent ban sakhu.
+2299:ENTY:lang:malta ka do language kya hein.
+2300:NUM:count:kitne oceans hein aur unka naam kya hein.
+2301:DESC:desc:Blackhawk Indian war of 1832 mein kya huya.
+2302:NUM:count:lobster ke kitne legs hote hein.
+2303:DESC:def:latin ante mortem ka meaning  kya hein.
+2304:DESC:def:Shawn naam ka matlab kya hota hai.
+2305:LOC:other:Danube kaha par hai ?
+2306:HUM:ind:U.S history mein konse lawyer ne sabse jyada divorce settlement ,$85 million jeet tha Sheikha Dena Al-Farri ke liye ?
+2307:ENTY:animal:Geese ke group ko kya kehte hai ?
+2308:HUM:ind:March 6,1981 ko kisne apna last newscast kiya tha ?
+2309:NUM:count:``Louie , Louie`` kitne bar record hua tha ?
+2310:DESC:manner:Answers.com KnowPost.com se alag kaisa hai ?
+2311:LOC:other:U.S mein kis jagah ka naam saba se lamba hai?
+2312:NUM:perc:Thacther ke power mein hone ke baad ,Kitne percent log use pasand karte the ?
+2313:LOC:other:Buzz Aldrin kaha par permanent manned space station banana chata hai ?
+2314:ENTY:cremat:Mel Gibson ka first movie konsa tha ?
+2315:DESC:reason:Shea aur Gould ka L.A office band kyu hua ?
+2316:DESC:manner:Mein bank kaisa start karu ?
+2317:DESC:manner:Ouija Boards kaisa kaam karte hai ?
+2318:ENTY:animal:Zorro konsa ghoda chalata tha ?
+2319:DESC:manner:tute hue cork ko bottle se kaisa nekal the hai ?
+2320:LOC:other:Third Eye Blind songs ke sahi tabs mujhe kaha melenge ?
+2321:DESC:manner:Ghar ke heating requirements ko kaisa determine karte hai ?
+2322:HUM:ind:Kaunsa former major-league left-handed baseball pitcher `` Space Man `` ke naam se jana jata tha ?
+2323:ENTY:product:Kaunsa hair product ne hama `` hate that grey , wash it away '' bola tha?
+2324:DESC:reason:chicken ne road cross kyu kiya ?
+2325:HUM:ind:Michelangelo ka last name kya tha ?
+2326:HUM:desc:Barbara Jordan kaun hai ?
+2327:HUM:ind:American presidential election meni democratic nominee kaun tha ?
+2328:ENTY:cremat:Connectiut ke pehle constitution ko kya kehte the ?
+2329:ENTY:event:Dogtown 1899 mein kaunsa historical event hua tha ?
+2330:DESC:def:millennium bug ke bara mein kya kiya ja raha hai ?
+2331:DESC:reason:King Camp Gillette ka claim to fame kya tha ?
+2332:ENTY:dismed:U.S mein sabse common skin cancer kaunsa hai ?
+2333:DESC:def:Olestrea kya hai ?
+2334:LOC:country:bill of rights of cows kaunsa country ke pas hai ?
+2335:NUM:count:bow draw karna mein kitne fingers use karte hai ?
+2336:ENTY:plant:Kin do plants se kapde banate hai ?
+2337:NUM:date:Hurricane Hugo kab tha ?
+2338:ENTY:food:Sabse zyada caffeinated soft drink kauns hai ?
+2339:HUM:ind:Kaunsa president-to-be Pearl Harbor ke baad  enlist kiya gaya Congress ka pehla member tha ? 
+2340:NUM:money:Varian Associates ' vacuum products division ka price kitna tha ?
+2341:NUM:date:``the Great Depresson '' kab tha ?
+2342:ENTY:lang:Brazil mein sabsa zyada bola gaya language konsa hai?
+2343:HUM:gr:Konse college ne sabse zyada winning Super Bowl quarterbacks produce kiya hai ?
+2344:DESC:manner:`` Rubiks 's Cube '' ko solve kaise karte hai ?
+2345:DESC:def:prepared mustard kya hota hai ?
+2346:HUM:ind:kaunse Spanish writer ne ``All that glitters is not gold '' ka warning diya tha ?
+2347:DESC:def:`` antidiestablishmentarianism '' ka matlab kya hai ?
+2348:HUM:ind:kaunsa actor ne John F. Kennedy ke behen se shaadi ki thi ?
+2349:ENTY:dismed:topophobic actor kis se suffer karta hai ?
+2350:HUM:ind:Maria Ybarra ko San Diego council se kisne fire kiya tha ?
+2351:NUM:period:Italian artist Maurizio Pellegrin kitna saal ka hai ?
+2352:ENTY:other:kis tarah ke retrievers hunting mein use karte hai ?
+2353:DESC:reason:Colin Powell kis chiz ke liye jana jata hai ?
+2354:HUM:ind:Masters mein tee off karne wala pehla golfer kaun tha ?
+2355:LOC:city:Puccini ke opera La Boheme ka setting kaunsa city hai ?
+2356:HUM:ind:kaunsa U.S President bee pollen bars munch karne mein fondness dikhata tha ?
+2357:DESC:def:Curies mein kya measure karte hain ?
+2358:HUM:ind:Kaunse employee ka cover Universal Import aur Export ki tarah hai ?
+2359:HUM:ind:kaunse president ke daughter ne Murder in the White house nam ka book likha tha ?
+2360:HUM:ind:kaunsa fictional character `` melancholy Dane '' ke naam se jaani jati hai ?
+2361:ENTY:product:Italy kiska largest producer hain ?
+2362:HUM:ind:Kaunsa longtime game show host Central park mein jogging karte hua 1984 mein mar gaya tha ?
+2363:DESC:def:W.B Yeat ka poem `` The Three Hermits '' ka matlab kya hai ?
+2364:HUM:ind:`` filthiest people alive '' kaun the ?
+2365:ENTY:dismed:Duniya ka sabse deadliest disease kaunsa hai ?
+2366:DESC:def:Spumante kya hota hai ?
+2367:NUM:date:Kaunse saal mein Ireland ne apna pehla woman president elect kiya tha ?
+2368:DESC:def:isthmus kya hota hai ?
+2369:ENTY:animal:fungal infection se marne wali orca ka naam kya tha ?
+2370:LOC:other:Mozambiques kaha par hai ?
+2371:ENTY:animal:Missisipi ka state animal kaunsa hai ?
+2372:DESC:desc:`news' word ka origin kya hai ?
+2373:ENTY:other:Dan Aykroyd aur John Belushi kya ban ne ke liye Saturday Night live choda tha ?
+2374:NUM:count:Normal human prgnancy kitne months last karta hai ?
+2375:DESC:manner:fuel injectors kaisa kam karte hai ?
+2376:DESC:manner:Tumhara school Macy's Thanksgiving Parade mein march kaise kar sakta hai?
+2377:HUM:ind:Disc jockey ``Wolfman Jack '' ka asli naam kya hai ?
+2378:ENTY:veh:1985 mein kaunsa Italian liner hijack hua tha ?
+2379:LOC:city:U.S headquarters of Procter and Gamble ko kaunsa city house karta hai ?
+2380:ENTY:product:kaunse soap ko ``for people who like people '' se tout kiya gaya tha ?
+2381:NUM:money:1991 mein minimum wage kitna tha ?
+2382:ABBR:exp:NAFTA kya hota hai ?
+2383:HUM:ind:silly putty kisne invent kiya tha ?
+2384:HUM:gr:Philadelphia , Pensylvania mein last year kaunsa middle school banaya gaya ?
+2385:HUM:ind:first photograph kisne patent kiya tha ?
+2386:ENTY:techmeth:fireplace mein fire banane ke liye kuch tips kya hai ?
+2387:ENTY:food:manatees kya kahte hai ?
+2388:ENTY:termeq:Latin mein 2 kaisa kehte hai ?
+2389:ENTY:cremat:1920s mein kaunsa songs aur kis tarah ke songs popular the ?
+2390:NUM:count:Soviet Union mein kitna Vietnamese the ?
+2391:ENTY:other:November ka birthstone kya hai ?
+2392:DESC:def:Certified Nurse Midwife kya hota hai ?
+2393:NUM:count:On average moon tak kitne miles hote hai ?
+2394:HUM:ind:private detective Philip Marlowe ko kisne banaya tha ?
+2395:ENTY:cremat:Kaunse Boris Pasternak book ne 5 , 0 copes sell kiya tha fiction best-seller of 1958 ban ne ke liye ?
+2396:DESC:desc:11 tout de suite '' expression ka origin kya hai ?
+2397:ENTY:word:sabse long English word kaunsa hai ?
+2398:DESC:reason:car bra ka purpose kya hota hai ?
+2399:DESC:reason:D.B Cooper kis ke liye jana jata hai ?
+2400:HUM:desc:Colin Powell kaun hai ?
+2401:ENTY:animal:Colt kaunsa species hai ?
+2402:ABBR:exp:PLO ka full name kya hai ?
+2403:LOC:country:Africa ka smallest country kaunsa hai ?
+2404:HUM:ind:NN cyberspace ka term ``in his novel NN Neuromancer ''kisne coin kiya tha ?
+2405:ENTY:event:Bronze Age ke baad kaunsa age tha ?
+2406:HUM:title:Uski profession kya hai ?
+2407:HUM:ind:multicolored game cube jiske 42.3 quintillion potential combinations hai use invent karne vale ka full name kya hai ?
+2408:ABBR:exp:LASER ka matlab kya hota hai ?
+2409:DESC:def:`` Anthony '' naam ka matlab kya hai ?
+2410:HUM:ind:lauren Bacall ka first husband kaun tha ?
+2411:DESC:def:rhomboideus minor kya hai ?
+2412:NUM:count:Bjorn Borg forehand marne mein kitne haath use karta hai ?
+2413:NUM:count:D-Day mein kitne log mar gaye the ?
+2414:HUM:ind:kis U.S Congressman ne `` Keep the faith , baby '' kaha tha ?
+2415:HUM:ind:Scrooge ka character kisne banaya tha ?
+2416:NUM:other:Amherst mein University of Massachusetts ka student population kitna hai ?
+2417:LOC:other:Windsor Castle kaha hai /
+2418:NUM:date:Dow pehle kab pahucha ?
+2419:DESC:reason:Vietnam War mein log recruit kyu kiye gaye ?
+2420:HUM:gr:Winston Churchill kis party ka member tha ?
+2421:HUM:gr:kis American League baseball team ka sabse worst finish 1926 aur 1964 ke bech mein fourth tha ?
+2422:LOC:other:Sare 15 Pokemon ke naam kaha dhund sakta hu ?
+2423:LOC:state:Martha Stuart kis state mein rehti hai ?
+2424:ENTY:animal:Kaunsa killer whale Sea World mein fungal infection se mar gayi ?
+2425:LOC:country:Benelux countries kya hai ?
+2426:LOC:other:Petrified Forest kaha pe hai ?
+2427:ENTY:lang:Sioux konse language mein baat karte hain ?
+2428:LOC:other:Tornado Alley kaha par hai ?
+2429:HUM:ind:`` John Brown 's Body '' ka author kaun hai ?
+2430:HUM:ind:Kaunse American poet ne `` Good fences make good neighbours '' likha tha ?
+2431:LOC:state:U.S ke kis state mein sabse zyada blacks hai ?
+2432:DESC:reason:electric cars northeast mein california se kum effective kyu hai ?
+2433:HUM:title:Mandy Rice-Davies ka occupation kya tha ?
+2434:LOC:city:Maurizip Pellegrin jo city mein tha uska naam kya hai?
+2435:HUM:ind:Sistine Chapel ko kisne paint kiya ?
+2436:HUM:ind:De .Henry Pym ke costumed personas ko name karo.
+2437:ENTY:animal:`` Little rascals '' ka dog kaunse breed ka tha ?
+2438:DESC:desc:Cuba ke living conditions kya hai ?
+2439:ENTY:color:School buses kaunse color ke hai ?
+2440:LOC:other:Internet ka oldest website konsa hai ?
+2441:ENTY:event:January 26 , 1978 mein konse events hua ?
+2442:HUM:ind:Colombus ko America thak kisne follow kin explorers ne follow kiya tha ?
+2443:HUM:ind:Goldie Hawn 's ka current boyfriend kaun hai ?
+2444:HUM:ind:Peter Rose ko betting karne ke liye baseball se ban kisne kiya tha ?
+2445:DESC:def:Seven virtues kya hai ?
+2446:ENTY:termeq:`` Little Rascals '' kis aur naam se jane jate hai ?
+2447:NUM:date:San Fransisco ka fire kab tha ?
+2448:ENTY:dismed:Fear of food kya hota hai ?
+2449:NUM:count:Atlantic City , NJ mein kitna casinos hai ?
+2450:NUM:date:Vietnam War kis sal mein khatam hua ?
+2451:HUM:ind:Richard Nixon ke dho daughters ke naam kya the ?
+2452:ENTY:word:broken glass or sharp rocks embedded in cement on top of a wall ka word kya hota hai ?
+2453:NUM:count: elephant ka chromosome number kya hota hai ?.
+2454:HUM:gr: Rev. Jerry Falwell ne kaunsi organisation found ki ?
+2455:LOC:other: Duniya ki sabse lambi nadi kya hai ?
+2456:ENTY:food: Madonna kaun si soft drink ko advertise karti hai ?
+2457:HUM:gr: Yahoo kaunsi company khareed raha hai aur kitne mein ?
+2458:NUM:date: Berlin ka Bradenburg gate kab khada kiya gaya ?
+2459:NUM:count: Scrabble Crossword Game board mein kitne double-word-score spaces hein ?
+2460:NUM:date: Germany ne Soviet Union ke sath nonaggression pact kab sign kiya ?
+2461:LOC:mount: Duniya ki sabse oonchi railroad kaunse mountain range par hai ?
+2462:DESC:reason: WWI ke Amercian sipahiyon ko '' Doughboys '' kyun kehtey the ?
+2463:HUM:ind: The Little Corporal kisko kehtey the ?
+2464:NUM:count: Garth Brooks ne kitne CDs bechein hain ?
+2465:ENTY:veh: DC comics mein Atari Force ne kaunsi vessel use ki ?
+2466:LOC:other: Lung disease mein specialise karne wale leading medical groups kahaan hain ?
+2467:DESC:manner: Apne 6th grader ke liye online spelling, aur punctuation drills kaise doondh sakta hoon?
+2468:LOC:other: Bharat ki sacred river kaunsi hai ?
+2469:LOC:country: Stefan Edberg ka native desh kaunsa hai ?
+2470:ENTY:body: Humans mein woh kaunsa gland hai jo apne aapko regenerate kar sakta hai ?
+2471:NUM:count: Duniya mein kitne Gutenberg Bibles hein ?
+2472:LOC:country: South America ka sabse bada desh batao .
+2473:ENTY:event: Jan. 1999 mein kaunsa astronomical phenomenon hua ?
+2474:DESC:desc: St. Louis ke Fairground Park ke bare mein mujhe jya bata sakte ho ?
+2475:HUM:ind: American folk hero John Chapman ka nickname kya tha ?
+2476:DESC:desc: Median aur mean mein kya fark hai ?
+2477:ENTY:cremat: April 1998 mein top box office movie kya thi ?
+2478:DESC:reason: Thunder kaise bantey hai ?
+2479:HUM:ind: Photographer Yousuf Karsh ne kis author ko 'the shiest man I ever met ' kaha ?
+2480:ENTY:other: Diameter ke hisaab se, Europe mein sabse badi clock kaunse hai ?
+2481:ENTY:plant: Rum kaunse paudhe se banta hai ?
+2482:LOC:country: Godiva chocolates kaunse desh se hain ?
+2483:HUM:ind: Iss kavita ke kavi kae naam batao 
+2484:ENTY:food: Kaunsa condiment pehle patent medicine ki tarah bikta tha ?
+2485:LOC:state: U.S. ki kaunsa state mein sabse kam baarish hue ?
+2486:DESC:reason: 1929 mein global depression kyun hua ?
+2487:DESC:def: Archy, aur mehitabel kya tha ?
+2488:LOC:city: Texas mein kaunsi city ka naam 'yellow' ke Spanish translation se pada ?
+2489:ENTY:substance: Glowsticks mein kya chemicals hote hain ?
+2490:LOC:country: Nile River kaunse desh mein shuru hue ?
+2491:ENTY:color: Tennis balls kaun se rang ki hoti hain ?
+2492:HUM:ind: Kaunsa barroom judge apne aapko The Law West of the Pecos kehta tha ?
+2493:DESC:desc: Chinese embassy ko marne par NATO ne kya bahana diya tha ?
+2494:HUM:ind: 1994 mein Costa Rica ka President kaun tha ?
+2495:ENTY:sport: The Great Gatsby mein Meyer Wolfsheim ne kaunsa sports event fix kiya tha ?
+2496:LOC:country: Board game Diplomacy mein kis desh ki defensive posotion sabse achchi hai ?
+2497:LOC:country: Khyber pass kaunse do desh share karte hain ?
+2498:HUM:ind: Woh Senate select committee jisne Watergate ki tekikaat ki thi, uska chairman kaun tha ?
+2499:DESC:desc: Braun naam ka origin kya hai ?
+2500:ENTY:sport: Canfield , Klondike aur Spider kis card game ke variations hain ?
+2501:DESC:def: Australia Day kya hai ?
+2502:ENTY:animal: North America ka kaunsa mammal aapne size ke hisaab se sabse lamba jeene waala hai ?
+2503:DESC:def: Chivington Massacre kya tha ?
+2504:HUM:ind: 1980 ki Blue Lagoon, 1982 ki The Pirate Movie aur 1983 ki A Night in Heaven mein kaunse actor ne star kiya ?
+2505:NUM:count: Apne career mein Lou Gehrig ke kitne home run the ?
+2506:LOC:city: Sinn Fein ke headquarters kaun se desh main hain ?
+2507:LOC:other: George Bush ke bare mein information mujhey kahaan se mil sakti hai ?
+2508:HUM:ind: Miss Piggy ki voice kaun hai ?
+2509:ENTY:termeq: Cartoons mein dialogue circle ko kya kehtein hain ?
+2510:DESC:def: GM car Camaro mein , Camaro shabd ka kya matlab hai ?
+2511:HUM:ind: The Miss America Pageant host Bert Parks ko kisne replace kiya ?
+2512:NUM:count: Winslow Homer ki 1982 painting Snap the Whip mein kitne ladke game khel rahaey hain ?
+2513:DESC:def: AIM-54C Phoenix kya hai ?
+2514:NUM:date: Bhedh kab shear hotey hain ?
+2515:ENTY:sport: Chris Jogis kis sport ka top player hai ?
+2516:LOC:other: Duniya ka doosra sabse bada island kaunsa hai ?
+2517:DESC:def: Low island ki definition kya hai ?
+2518:NUM:date: Captain Video kaunsi sadi mein jeeta hai ?
+2519:ENTY:other: Water pollution ke kaun-kaunse se types hain ?
+2520:NUM:count: Har Mercury Flight pe kitne astronauts the ?
+2521:ENTY:food: Kaunsi soft drink mein sabse zyaada caffeine hota hai ?
+2522:ENTY:other: Myrtle Beach ke golf course ka kya naam hai ?
+2523:ENTY:event: 1990s ke significant historical events kya hain ?
+2524:ENTY:cremat: Classical Greek plays ki only extant trilogy ka naam kya hai ?
+2525:LOC:other: Logan Airport kahaan hai ?
+2526:DESC:desc: Neoclassical art aur Romanticism art mein kya fark hai ?
+2527:HUM:ind: U.S. Swimming Hall of Fame mein sabse pehla insaan kaun tha ?
+2528:HUM:ind: Ohio Fats aur Blobbo kis golfer ko kaha gaya hai ?
+2529:HUM:ind: 1 August ko Leno aur Rosemary ka murder kisne kiya tha ?
+2530:NUM:money: 4 saal ke medical school ka average cost kya hai ?
+2531:ENTY:other: Bible ke pehle sentence mein God kya create karta hai ?
+2532:HUM:ind: Inmein se kaunse aadmi Rita Hayworth se married nahi hain ?
+2533:NUM:money: Abhi Cairo se Barbados tak ka fare kitna hai ?
+2534:ABBR:exp: Irish surname mein prefix NN O `` ka kya matlab hota hai ?
+2535:DESC:manner: Oxidation numbers kaise nikaltein hain ?
+2536:LOC:state: Mississippi ka state nickname kya hai ?
+2537:DESC:reason: Black Hills, South Dakota kiske liye famous hai ?
+2538:ENTY:cremat: 1996 mein kaunse boob tube bomb ne astronauts ko prehistoric times me bheja tha ?
+2539:NUM:count: University of Massachusetts kitne students attend karte hain ?
+2540:HUM:ind: World War Two mein "I shall return" kisne kaha tha ?
+2541:ENTY:event: Ireland mein kaunsi holidays celebrate hotein hain ?
+2542:HUM:ind: Butch Cassidey aur Sundance Kid ki companion Etta Place ko kisne portray kiys tha ?
+2543:DESC:def: Greek numerals kya hotein hain ?
+2544:LOC:other: Laos ke capital ke pass ke temple ka naam kya hai ?
+2545:ENTY:dismed: Sone ke dar ko kya kehtein hain ?
+2546:ENTY:sport: Wilbur Reed ne sabse pehle kaunsi auto race teen bar jeetey ?
+2547:ENTY:animal: U.S. mein sabse common breeding birds kya hain ?
+2548:ENTY:event: 1866 mein Confederate veterans' social club ki tarah kya organise hua ?
+2549:DESC:manner: Internet pe criminal records kaise dekhtein hain ?
+2550:LOC:other: Actress Marion Davies ko kahaan bury kiya gaya hai ?
+2551:DESC:desc: Fourteenth Amendment ko use karne ka ek actual case kya hai ?
+2552:HUM:ind: Charlie perfume aurat kaun thi ?
+2553:HUM:ind: "Saturday Night Live" television show pe "Rosanne Rosanna - Dana" ko kisne portray kiya tha ?
+2554:HUM:ind: Freddie Prinze ki death ko le kar kaunse singer ne show business chhod diya ?
+2555:NUM:date: Iraqi troops ne Kuwait ko kab invade kiya ?
+2556:ENTY:termeq: Mark Johnson kiske baare mein baat kar rahe the jab usne kaha "I still can't believe it- we beat the Russians ? "
+2557:ENTY:product: 'Smokey and the Bandit' ki 1999 release mein kaunsi car drive key gayi thi ?
+2558:HUM:gr: Roy Rogers ka backuo singing group kya tha ?
+2559:HUM:ind: Kaunsa mashoor ganewala cowboy California Angels baseball team ko own karta hai ?
+2560:ENTY:cremat: Kaunsi 1915 film sabse pehle 5 million gross karne wali thi ?
+2561:DESC:desc: Term "86" kahaan se aaya ?
+2562:DESC:reason: Kisi ko gudgudi kyun hoti hai ?
+2563:NUM:perc: Kya chance hai 25 mein se 2 logon ka same birthday hai ?
+2564:NUM:count: Har saal kitne Canadians emigrate kartey hain ?
+2565:DESC:reason: San Diego schools ne students menu se apples kyun hata diye ?
+2566:ENTY:instru: Sherlock Holmes kaunsa musical instrument bajata tha ?
+2567:HUM:ind: Gerald Ford ka vice president kaun tha ?
+2568:DESC:def: 'Washed vodka' kya hai ?
+2569:NUM:count: Europe mein kitne languages boli jaatein hain ?
+2570:NUM:date: Desmond Mpilo Tutu ko kaunse saal mein Noble Peace Prize mila ?
+2571:ENTY:termeq: "Drinker's respirator" ko aam taur par kya kehtein hain ?
+2572:HUM:ind: Batteries kisne invent key ?
+2573:DESC:reason: Recipe books mein kyun likha jata hai ki boil karne waqt thande paani se shuru karna chahiye ?
+2574:LOC:other: $200 se saste mein achcha snowboard kahaan mil sakta hai ?
+2575:HUM:title: 1984 mein Suzette Charles ne do mahine ke liye kaun sa title assume kiya ?
+2576:HUM:ind: Peter Sutcliffe ka infamous pseudonym kya tha ?
+2577:ENTY:animal: "Smokey The Bear" ka middle name kya hai ?
+2578:HUM:title: Nicholas Cage ki occupation kya hai ?
+2579:ENTY:cremat: Emma Peel kaunsi British TV series mein thi ?
+2580:LOC:other: London ki kaunsi street British journalism ka ghar hai ?
+2581:ENTY:event: 1889 mein Dogtown sheher mein kaunsi tragedy hue ?
+2582:DESC:def: Immaculate Conception kya hai ?
+2583:ENTY:veh: Saare U.S. Navy aircraft carriers ka naam kya hai ?
+2584:ENTY:other: VHS ka main competition kaunsa format tha ?
+2585:DESC:def: Candlemas Day kya hai ?
+2586:LOC:city: Kaunse sheher main mashoor St. Mark's Square hai ?
+2587:ENTY:termeq: "Quarterly Review of doublespeak" kisko inoperative statement bolta hai ?
+2588:NUM:money: 1991 mein minimum wage kitne thi ?
+2589:LOC:other: Tufts University kahaan hai ?
+2590:DESC:def: Pyrotechnic display kya hai ?
+2591:DESC:manner: Main jobs ke baare mein kaise doondhoo ?
+2592:HUM:gr: Kaunsa Japanese manufacturer dono pianos aur motorcycles ke liye mashoor hai ?
+2593:NUM:other: Argom ki chemical reactivity kya hai ?
+2594:NUM:count: Boeing 737 mein kitne engines hotay hain ?
+2595:DESC:desc: Bowling mein term "The Brooklyn Side" ka kya origin hai ?
+2596:ENTY:dismed: Thand ke dar ko kya kehte hain ?
+2597:NUM:dist: 1930s mein Mao ka Long March kitna lamba tha ?
+2598:ENTY:sport: Kaunse net game mein women world amateur champions ko Uber Cup milta hai ?
+2599:ENTY:animal: Kaunsa char pairon waale praani ko Cornell University student ne "man's best companion in space" bola tha ?
+2600:NUM:weight: Black hole mein teaspoon of matter ka kitna weight hota hai ?
+2601:ENTY:other: 1982 mein British companies ne chai ke 175,000 tons kisme daale ?
+2602:LOC:state: Edmonton kaunse province mein located hai ?
+2603:DESC:manner: Mein kaise pata lagaaon ki 1998 income tax ke Social Security income par kitna income tax lagta hai ?
+2604:HUM:ind: Sonny Liston ne kis ko suceed kiya as the World Heavyweight boxing Champion ?
+2605:ENTY:animal: California ki state bird kya hai ?
+2606:NUM:date: Martin Luther King Jr. ka asli birthday kab aata hai ?
+2607:HUM:gr: The Angel kis kis super-team mein tha ?
+2608:DESC:manner: DC Comics mein Zatanna ne kaisa perform kiya ?
+2609:ENTY:veh: Jacques Cousteau ki research ship ka kya naam tha ?
+2610:HUM:ind: Kis president ne Charles Lindbergh ki epic flight ke baad usko ghar laane ke liye ek cruiser bhijwaya tha ?
+2611:HUM:ind: Kis ki video ka title hai "Shape Up with Arnold" ?
+2612:ENTY:cremat: Kevin Costner ki kis movie mein Sioux Indians ne ek role play kiya tha ?
+2613:NUM:count: James Bond ki kitni novels hain ?
+2614:DESC:manner: "Hooters" girls ke saath date kaise milti hai ?
+2615:ENTY:animal: Kaunsa pakshi tair sakta hai but udd nahi sakta ?
+2616:DESC:manner: Main ek comic character ko kaise le sakta hun jisko maine banaya, copyright aur publish kiya ?
+2617:NUM:volsize: Wildlife aur wilderness value  Alaskan coast pe bachaane ke liye Arctic refuge kitna bada banaya hai ?
+2618:DESC:def: Plc kya hai ?
+2619:NUM:count: Dimaag ko kitni bijli chahiye hoti hai kaam karne ke liye ?
+2620:NUM:count: Ek mile mein kitne acre hote hain ?
+2621:ENTY:cremat: Dickens ki kis novel mein David , Peggy ke liye message carry kar ke jaata hai " Barkis is willin " ?
+2622:DESC:def: Hyperlink kya hai ?
+2623:HUM:ind: Greek goddess Artemis ka judwa bhai kaun hai ?
+2624:DESC:desc: Marijuana kahan se aaya tha ?
+2625:NUM:money: Colombia, South America ki per-capita income kya hai ?
+2626:ENTY:cremat: Kis novel mein Big Brother sabko dekhta hai ?
+2627:NUM:count: 1983 mein Michael Jackson ne kitne Grammy Awards jeete the ?
+2628:DESC:def: Elysium ka kya matlab hai ?
+2629:LOC:other: Internet pe sabse puraani website kaunsi hai ?
+2630:DESC:def: Shalom lya hota hai ?
+2631:ENTY:sport: Tom Wolfe ke "The Pump House Gang" ke favourite sport kya tha ?
+2632:ENTY:substance: Kis organic fuel ko bog-dwellers slane ki tarah use karte hain kaatne ke liye ?
+2633:NUM:period: Manhatten project pe kaam karne waale logon ki average age kya thi ?
+2634:LOC:country: Kis country ko 1976 mein saare Nobel Prizes mile the ?
+2635:DESC:manner: Woodpeckers se kaise chutkaara paa sakte hain ?
+2636:NUM:count: Hendecasyllabic poetry mein kitne syllables use hote hain ?
+2637:ENTY:food: Kaunsi soft drink sabse pehle Old Corner Store, Waco, Texas mein 1885 mein milna start hui thi ?
+2638:LOC:other: Chinese mainland ka kaunsa hissa Britain ke paas hai ?
+2639:HUM:ind: America ka pehla Public Enemy No.1 kaun tha ?
+2640:NUM:count: Har saal 18 saal se neeche ke kitne bache Physical Abuse ka shikaar hote hain ?
+2641:DESC:desc: Thank you notes ka origin kya hai ?
+2642:ENTY:other: Jimmy stewart ne kya invent kiya tha ?
+2643:ENTY:other: Main abhi kis generation mein hun ?
+2644:ENTY:dismed: Fear of hell kya hai ?
+2645:HUM:desc: Dear abby kaun hai ?
+2646:HUM:ind: 24 Sussex Drive , Ottawa mein kaun rehta hai ?
+2647:ENTY:substance: Jell-O kis se banti hai ?
+2648:HUM:desc: Monet kaun tha ?
+2649:LOC:state: Kaunse do states hain jinke flag mein Confederate battle flag incorporated hain ?
+2650:DESC:manner: Panoramic sugar eggs - woh jinke andar scene hota hai , kaise banaye jaate hain ?
+2651:ENTY:food: Kaunsi Southern dish Pig ke intestine se banayi jaati hai ?
+2652:LOC:other: Guam kahan hai ?
+2653:HUM:ind: Famous door-to-door brush salesman ka kya naam tha ?
+2654:DESC:def: Will mein executor kaun hota hai ?
+2655:HUM:gr: Kis background music ke inescapable purveyor ne apni 5th anniversary celebrate ki July , 1984 mein ?
+2656:NUM:count: America mein kitne log kharatte lete hain ?
+2657:HUM:ind: Andy Capp se hamesha kaun rent lene ki koshish karta rehta hai ?
+2658:ENTY:food: Kaunsi soft drink mein sabse zyaada caffeine hoti hai ?
+2659:HUM:ind: Jackie Kennedy ne kise commission kiya tha "The Death of a President" likhne ke liye ?
+2660:ENTY:dismed: Kaunsi drug ko sabse commonly use karte hain AIDS ke treatment mein ?
+2661:NUM:count: Soviet Union ke flag pe kitne stars hain ?
+2662:DESC:desc: Microprocessors aur Microcomtrollers ke beech mein kya difference hai ?
+2663:HUM:ind: Kisne "The Great Society" banaane ki kasam khaayi thi ?
+2664:LOC:other: Reims mein kya kya tourist attractions hain ?
+2665:NUM:dist: Pearl necklaces ki kya lambayi hoti hai ?
+2666:HUM:ind: "Soldiers win the battle and generals get the credit". Yeh kisne kaha tha ?
+2667:DESC:desc: Kya proof hai ki houseplants metabolize carcinogens ?
+2668:DESC:reason: Enola Gay ke co-pilot ko kis cheez ne prompt kiya "My God" ko apne log mein daalne ke liye ?
+2669:NUM:period: Ek murgi ko 19 dozen eggs dene mein kitna time lagta hai ?
+2670:LOC:city: Kaunsi Colorado City ka khud ka ek glacier hai ?
+2671:DESC:desc: "The toast" ki kya history hai ?
+2672:ENTY:event: Pope ki supremacy ke khilaaf protestant revolt ka kya naam tha ?
+2673:DESC:def: Arab strap kya hota hai ?
+2674:NUM:money: Junk mail catalogues ko produce aur send karne mein kitne paise lagte hain (average or whatever)?
+2675:HUM:ind: Iss samay UN ka Secretary general kaun hai ?
+2676:HUM:gr: Orange County , California mein telephone services kaun provide karta hai ?
+2677:LOC:other: Guinea Pigs kahan originate hue ?
+2678:LOC:country: Kaunsi do countries Bay of Biscay ko border karti hain ?
+2679:DESC:reason: Egyptians apni eyebrows ko kyun shave karte the ?
+2680:HUM:gr: Mr. Waverly kis organisation mein agents assign karte the ?
+2681:NUM:date: Slinky kab invent hui ?
+2682:HUM:ind: Scooby-Doo mein chrachters ke kya naam hain ?
+2683:ENTY:dismed: Fear of cold kya hota hai ?
+2684:HUM:title: Eduard Shevardnadze ki soviet union mein kya job thi ?
+2685:DESC:reason: Rust kisse hota hai ?
+2686:HUM:ind: Kaunsa Dick Tracy ka villian hai jo teen baar dikhta hai ?
+2687:ENTY:animal: Steven Spielberg ki movie "Jaws" mein kaunsa monster hota hai ?
+2688:ENTY:color: Arctic Fox ka sardiyon mein kyacolor hota hai ?
+2689:DESC:def: Neil, Mary aur Anthony naamon ka kya matlab hai ?
+2690:LOC:city: kaunsi European capital ne apna 2000 wan birithday 1951 mein manaya tha ?
+2691:DESC:reason: Upper peninsula of michigan mein log "eh ?" kyun bolte hain ?
+2692:ENTY:plant: Vincent van gogh ne kaunsa phool paint kiya tha ?
+2693:LOC:country: You Only Live Twice kis country mein set hua tha ?
+2694:NUM:perc: Thatcher ki 10 saal tak power mein rehne ke baad kya approval rating thi ?
+2695:ENTY:animal: Winnie the Pooh kaunsa janwar hai ?
+2696:DESC:desc: First Funk'N Lata , Brazilian group ka kya sucess tha ?
+2697:DESC:def: Handheld PC kya hai ?
+2698:DESC:desc: John Hinckley ne Jodie Foster ko impress karne ke liye kya kiya tha ?
+2699:HUM:title: Larry King ki kya job hai ?
+2700:NUM:count: Ek tamatar mein kitni calories hoti hai ?
+2701:LOC:state: Kis state mein sabse pehle ek co-ed college establish hua tha ?
+2702:ENTY:event: Kis war mein naval battle hui thi between liners Cap Trafalgar and the Carmania ?
+2703:ENTY:techmeth: Depression ka treatment kaise hota hai ?
+2704:ENTY:dismed: Fear of slime ko kya bolte hain ?
+2705:LOC:country: Latin America mein sabsi badi country kaunsi hai ?
+2706:LOC:other: Kis Hawaain Island pe Pearl Harbor hai ?
+2707:HUM:ind: Yugoslavians kin chartoon characters ko Vlaja, Gaja and Raja ke naam se jaante hain ?
+2708:ENTY:cremat: Marx brothers ki kaunsi movie ek stolen painting par hai ?
+2709:DESC:desc: Josie and Pussycats mein Alexandra ki appearance mein kya unusual tha ?
+2710:DESC:desc: "Mind" word ka origin kahan se hua ?
+2711:NUM:date: Dick Clark ka janam kab hua ?
+2712:ENTY:sport: Kaunsa game fatal hai 21 saal se upar ke sab logon ke liye ? 
+2713:NUM:other: Tuberculosis se marne waalon ka death toll kya hai ?
+2714:DESC:desc: Moon maiden ko kya hua tha ?
+2715:LOC:city: Wiener Schnitzel ko kis city ke liye jaana jaata hai ?
+2716:DESC:def: Urals kya hai ?
+2717:DESC:manner: Poison Ivy se khujli ko kaise rok sakte hain ?
+2718:LOC:other: Kis desert mein sabse zyaada sand dunes hain ?
+2719:LOC:country: Kin do countries mein Sirra Nevada mountains hain ?
+2720:DESC:manner: Aap Apne parents ko kaise bataoge ki aap apne se bade ladke ko date kar rhe ho ?
+2721:NUM:period: Star trek ka TV mission kitna lamba tha ?
+2722:NUM:code: Ek tree plant karwaane ke liye mujhe kis no. pe call karna chahiye ?
+2723:NUM:date: The "Star-Spangled Banner" national anthem kab bana ?
+2724:HUM:desc: Lacan kaun tha ?
+2725:ENTY:techmeth: Ghoda chaalane ke liye chaar natural aids kya hain ?
+2726:LOC:other: Budweiser ke left corner mein kis continent ka naam likha hota hai ?
+2727:HUM:ind: Battle of Gettysburg ke doran Civil War mein Secretary of War kaun tha ?
+2728:HUM:ind: Bobby Fischer ne kisse haraake Worls Chess Championship jeeti thi ?
+2729:DESC:manner: Ghar ki deewaron pe se bees ko kaise exterminate kiya jaata hai ? Kya unke ande winter tak rehta hain ?
+2730:LOC:other: Countries and nations pe statistics aur information kahan se mil sakti hai ?
+2731:ENTY:lang: Ek gaelic language ka naam batao ?
+2732:NUM:date: August 13, 1971 ko kaunsa din tha ?
+2733:LOC:other: Mujhe unn saari companies ki list kahan mil sakti hai jo direct stock purchase plan offer karti hain america mein ?
+2734:DESC:manner: Tum Ek movie transcript kaise bhej sakte ho bollywood ko taaki usko ek movie mein produce kiya ja sake ?
+2735:ENTY:cremat: Kaunsi literary classic is centered on treasure search in gold worth 70,000 pounds ?
+2736:DESC:desc: Blue for boys aur pink for girls ka origin kahan se hua ?
+2737:ENTY:cremat: Michelangelo ki uss painting ka kya naam hai jisme do haathon ko dikhaya gaya hai with their fingers touching ?
+2738:NUM:volsize: Quart kitna hota hai ?
+2739:DESC:def: Hub of London kya hai ?
+2740:ENTY:cremat: Kis film mein Jude Law act kiya gya tha ?
+2741:DESC:reason: Panic attacks kis wajah se hote hain ?
+2742:DESC:def: Sabse pehle golf balls mein kya filling hoti thi ?
+2743:ENTY:dismed: Sigmund Freud Ko kis drug mein interest aaya tha jab woh experiment kar rha tha neurasthenia ke treatment ke liye ?
+2744:LOC:country: Leon Uris ke liye kaunsi country "A Terrible Beauty" thi ?
+2745:DESC:def: Typhoid fever kya hai ?
+2746:LOC:other: Main woh hat kahan khareed sakta hun, jo ki Jay Kay jaisi ho from jamiroquai wears ?
+2747:DESC:def: The twin cities kya hain ?
+2748:ENTY:cremat: Beethoven ki 9th symphony ka naam kya hai ?
+2749:HUM:ind: Randy Craft ke lawyer ka naam kya hai ?
+2750:ENTY:food: Kis breakfast cereal ka motto tha "The best each morning " ?
+2751:ABBR:exp: Ms. , Miss , and Mrs. kis cheez ke liye stand karte hain ?
+2752:LOC:other: Homelite Inc. home page kya hai ?
+2753:ENTY:substance: Charcoal, Sulfur aur saltpeter ko mix karne pe kaunsa explosive banta hai ?
+2754:LOC:other: Lhasa Apso dog kis mountainous region pe paya jata hai ?
+2755:ENTY:dismed: kaunsa cancer AIDS se associated hai ?
+2756:NUM:period: Sun se Earth tak light ko pauchne me kitna time lagta hai ?
+2757:HUM:ind: 39 Stone Canyon Way par kaun rehta hai ?
+2758:NUM:count: isme kitne questions hain ?
+2759:HUM:ind: 1933 mein ayi Aice in Wonderland mein Humpty Dumpty ki acting kisne ki thi ?
+2760:HUM:ind: Karenna Gore kaun hai, Al Gore's ki badi beti ka husband kaun hai ?
+2761:HUM:ind: Teenage Wolf mein title role mein kaun tha ?
+2762:DESC:reason: Martinis mein olives kyun hote hain ?
+2763:NUM:date: kaun se saal mein Hitler power mein aya tha ?
+2764:NUM:date: kaun se saal mein Rossetti ne 'Beata Beatrix' paint ki thi ?
+2765:HUM:gr: Kis record company ne 1978 mein ayi movie The Wiz produce kari thi ?
+2766:LOC:other: mujhe Philippines mein tour karne ke baare mein information kahan se mil sakti hai ?
+2767:ENTY:other: Gas house Gang kya play karta hai ?
+2768:NUM:count: Bill Gates ka ghar kitne square feet ka hai ?
+2769:HUM:ind: Rex Harrison ke bete ka naam kya hai jisne late 1960's ke ek modestly popular TV show mein acting ki thi ?
+2770:DESC:def: sabse bada roman numeral kaun sa hai ?
+2771:ENTY:other: Bridge ki sabse popular form kaun si hai ?
+2772:HUM:ind: stove kisne invent kiya tha ?
+2773:HUM:ind: kaun se comedian ki reputation jokes churane ki hai ?
+2774:LOC:other: mujhe us cyclone ki information kahan se mil sakti hai jo New Jersey mein 8/28/1941 ke din aya tha ?
+2775:NUM:date: Boxing day kis din banaya jata hai ?
+2776:ENTY:cremat: pehle ten pass hone wale amendements kaun se hain ?
+2777:ENTY:dismed: painful wrist syndrome ka dusra naam kya hai ?
+2778:DESC:desc: Sleet aur freezing rain mein kya difference hai ?
+2779:DESC:manner: naya Ford Econoline van F25 V1 engine kaisa hai ?
+2780:HUM:ind: kaun se king ko Magna Carta ke saath agree hone ke liye force kiya tha ?
+2781:HUM:ind: U.S. ka pehle honorary citizen kaun tha ?
+2782:ENTY:sport: Garry Kasparov kaun se game mein bahut acha hai ?
+2783:LOC:other: Richard Nixon kahan the jab Gerald Ford president bane the ?
+2784:NUM:ord: U.S. ki world ranking kya hai area ke terms mein ?
+2785:ENTY:cremat: Ian Fleming ne kaun si novel mein James Bond ko introduce kara tha ?
+2786:NUM:perc: 1992 mein M3 growth ka target rate kya tha ?
+2787:HUM:gr: kaun si team ko uske frustated fans 'dem bums' kehte hai ?
+2788:HUM:ind: kaun scholar se scholar ke chinese aur japanese literal translations pe Ezra Pound depended hai ?
+2789:NUM:date: Israel ne kab Gaza strip aur Jericho ko PLO kab diya ?
+2790:DESC:desc: Catholic aur Methodist religions mein kya major differences hain ?
+2791:HUM:ind: us On Stage character ka kya naam hai jiska face kabhi nahi dekha gya ?
+2792:NUM:count: Hydrogen aur Oxygen ke mix hone par kitni energy release hoti hai ?
+2793:HUM:gr: kaun se Internet Buisness mein jana sabse acha hai ?
+2794:DESC:def: Venus Retrograde ka matlab kya hota hai ?
+2795:HUM:ind: " world's oldest teenager " se kaun jana jata hai ?
+2796:LOC:other: world ki largest breweries kaun si hain ?
+2797:DESC:def: Las Vegas ka matlab kya hai ?
+2798:DESC:def: 'meta' ka matlab kya hota hai ?
+2799:ENTY:other: clouds hawa mein kaise rehte hain ?
+2800:ENTY:termeq: four-sided figure ke liye kya term hai ?
+2801:ENTY:instru: Ray Charles kaun sa instrument bajata hai ?
+2802:LOC:country: kaun si country aur western singer The Silver Fox se jaane jate hain ?
+2803:LOC:other: kaun si building 1-dollar bill ke peeche depicted hai ?
+2804:DESC:def: graduate school kya hota hai ?
+2805:DESC:desc: New York-style aur Chicago-style pizza main kya difference hai ?
+2806:HUM:ind: kaun si baseball team ka owner aur sailor The Mouth of the South ke naam se jana jata hai ?
+2807:ENTY:sport: horse racing mein kis type ki betting hoti hai ?
+2808:ENTY:product: Bat Masterson kis type ki hat pehnta hai ?
+2809:HUM:ind: Patricia Hearst ke saath kaun tha jis raat woh kidnap hui thi ?
+2810:HUM:ind: Viking Prince ka first name kya hai ?
+2811:ABBR:exp: cwt. ki full form kya hoti hai ?
+2812:ENTY:other: kis dodrant ke commercial mein tenants ke adjoining medicine cabinets hote hain ?
+2813:LOC:other: Rider College kahan hai ?
+2814:HUM:ind: kis boxer ki life story ka title Raging Bull hai ?
+2815:DESC:reason: kis reason se San Diego mein kuch schools ne apples serve karna band kar diya ?
+2816:HUM:ind: kis ne listners ko advise kiya ki 'see the U.S.A in your Chevrolet' ?
+2817:LOC:other: pehla restaurant kahan khula tha ?
+2818:LOC:other: mujhe CTBT ka pura written draft kahan milega ?
+2819:NUM:count: civil war ke time kitne horse mare the ?
+2820:NUM:count: ek average dairy cow ek din mein kitna waste produce karti hai ?
+2821:HUM:ind: kaunsa Nibel laureate Philippines se expell kar diya gya tha East Timor ki conference se pehle ?
+2822:HUM:ind: kis women ne sabse jyada multiple births diye ?
+2823:NUM:count: original GE College Bowl clock pe kitne minutes the ?
+2824:NUM:period: ek male ko average kitna time lagta hai ejaculate karne mein ?
+2825:LOC:other: International Court of Justice ki webiste ka naam kya hai ?
+2826:LOC:other: duniya ke 10 mien se 8 highest mountains kahan paye jate hai ?
+2827:LOC:other: mein perpetual calendar ko kahan dekh sakta hun ?
+2828:NUM:count: moon pe kitne astronauts ja chuke hain ?
+2829:NUM:date: kaun se saal mien Bounty mutiny hui thi ?
+2830:ENTY:substance: kaun sa substance food ko uska taste deta hai ?
+2831:DESC:manner: tum website ko kaise reference kare ho ?
+2832:DESC:def: pandoro kya hai ?
+2833:ABBR:exp: ZIP ki full form kya hoti hai ZIP code mein ?
+2834:HUM:ind: kaunse Bourbon king ko French throne wapas mil gya tha during Napoleaon 's abdiction ?
+2835:LOC:city: kaunsi city mien university of Minnesota payi jati hai ?
+2836:DESC:manner: mein tile floor kaise install karun ?
+2837:ENTY:techmeth: kapdon se nail polish hatane ka sabse asaan aur tez tarika kya hai ?
+2838:DESC:reason: zipper kyun invent hua tha ?
+2839:ENTY:other: industrilaized countries mein No. 1 killer kya hai ?
+2840:ENTY:animal: four famous cartoon cats ke naam batao ?
+2841:HUM:ind: Henry VIII aur Anne Boleyn ki kaun si daughter England ki queen bani ?
+2842:DESC:manner: stat kaise use hone laga as expression for quickly ?
+2843:HUM:gr: U.S. college football teams ka sabse common nickname kya hai ?
+2844:DESC:desc: U.S. Supreme Court Justice Thurgood Marshall ka distinction kya hai ?
+2845:LOC:other: internet pe kaun si site sabse jyada useful hai ?
+2846:LOC:mount: duniya ki sabse highest peak kaunsi hai ?
+2847:DESC:def: World War II ki battleship pe Mae West kya tha ?
+2848:DESC:def: cosmology kya hoti hai ?
+2849:HUM:ind: kaun comedienne ne Dwight D. Eisenhower 's ke first inaguration mein apne first child ko birth de ke upstage kiya tha ?
+2850:DESC:def: amicable numbers kya hote hain ?
+2851:NUM:date: kaun se Olympic Games mien Nadia Comaneci popular hui thi ?
+2852:LOC:other: publisher William Randolph Hearst ne jo Hearst Castle banawaya woh kahan hai ?
+2853:LOC:city: Great Lakes pe U.S. ki city kaunsi hai ?
+2854:HUM:ind: Desmond and Molly Jones ke bare mein kisne gaya ?
+2855:ENTY:cremat: kaunsi magzine hume cream deti hai par skim nahi ?
+2856:ENTY:techmeth: '' cold fusion '' kya produce karta hai ?
+2857:HUM:ind: kis costume designer ne decide kiya tha ki Michael Jackson ko keval ek glove pehna chayiye ?
+2858:ENTY:other: '' To be , ro not to be , that is the question.. '' mein Shakespeare ne kya meter use kara ?
+2859:NUM:count: 35-millimeter film role mein sproket holes ki kitni rows hoti hain ?
+2860:NUM:count: world ki goat population kitni hai ?
+2861:HUM:gr: TV 's Superman ki original sponsor kaun si company thi ?
+2862:ENTY:termeq: Czech kya term use karte hain pole ko describe karne ke liye ?
+2863:LOC:other: Naples aur Algiers ko kaun sa sea seperate karta hai ?
+2864:NUM:count: New Jerseay mein kitne lawyers hain ?
+2865:ENTY:substance: Seawater mein most common elements kaun se hain ?
+2866:DESC:desc: Finnish music personality Salonen 's ki appearance ko decribe karo ?
+2867:DESC:desc: ethnic category '' caucasian '' ka origin kya hai ?
+2868:DESC:def: stratocaster kya hota hai ?
+2869:ENTY:other: cosmology kis tarah ki science hai ?
+2870:HUM:ind: jo blind sculptress Fantastic Four 's Thing se pyaar karti hai uska naam kya hai ?
+2871:ENTY:substance: second-lightest element ka naam kya hai ?
+2872:ENTY:termeq: ballet meinn ''twirl'' kya hota hai ?
+2873:ENTY:product: daminozide ka brand kya hai ?
+2874:ENTY:termeq: Zimbabwe ka former naam kya hai ?
+2875:HUM:ind: kis National Basketball Association superstar ne apni story Giant Steps mein batayi ?
+2876:ENTY:animal: kaun se animals ne The Amazing Three masquerade kiya ?
+2877:DESC:manner: bikini bathing suite ko uska naam kahan se mila ?
+2878:NUM:date: Fraze ko apna pehla patent pull-tab can ke liye kab mila ?
+2879:NUM:count: five-team round-robin tournament mein kitne games khele jate hain ?
+2880:HUM:ind: pehli polio vaccine kisne develop ki thi ?
+2881:HUM:ind: pehla gas engine kisne banaya tha ?
+2882:LOC:country: kis country ne Rubens, Van Dyck aur Bruegel ko as a citizens claim kiya ?
+2883:ENTY:event: 1936 se 1939 tak kaun si civil war ladi gyi thi ?
+2884:NUM:count: tumhare database pe kitne questions hain ?
+2885:DESC:manner: clouds kaise bante hain ?
+2886:LOC:other: mujhe Individuals with Disabilities Education Act ke legal cases kahan find kar sakta hun ?
+2887:HUM:ind: Tex Avery ne MGM pahuchne pe pehla character kaun sa banaya tha ?
+2888:NUM:date: Triangle Shirtwaist fire kab thi ?
+2889:HUM:ind: kaun asian spiritual aur political leader ke marriage 13 saal ki age pe ho gyi thi ?
+2890:LOC:other: Ocho Rios kahan hai ?
+2891:DESC:def: P-32 ki half life kitni hai ?
+2892:LOC:other: Mauritania ke border pe kaun sa ocean hai ?
+2893:DESC:reason: kitchen mein pressure cooker kaise time bachata hai ?
+2894:DESC:reason: criminal case ke liye jury mein 12 log kyun hote hain ?
+2895:DESC:desc: Christian Scientists kya believe karte hain ?
+2896:ENTY:event: kis World War I battle mein 6 , 0 troops mar gye the ?
+2897:LOC:country: Kosovo kis country ka part hai ?
+2898:LOC:city: Kentucky Horse Park kis city ke paas hai ?
+2899:ENTY:product: kaunsa computer operating system jyada tak computers pe hai ?
+2900:LOC:other: Bill Gross ka email address kya hai ?
+2901:DESC:desc: Unemployment ka economic impact kya hota hai ?
+2902:ABBR:exp: D.C. ki full form kya hai Washington , D.C. mein ?
+2903:ENTY:animal: Kaunse animals food ke bina sabse jyaada rehe sakte hai?
+2904:HUM:ind: Kaunse english queen ke satraa bacche the ?
+2905:NUM:other: Las Vegas, N.M ki approximate population kya hai?
+2906:NUM:money: President ko kitni pay milti hai?
+2907:HUM:ind: Kaunse do baseball players ne battery banayi?
+2908:ENTY:letter: Salvador dali ke signature mai sabse badaa letter kaunsa hai?
+2909:ENTY:termeq: Irate car owners Iron oxide ko kya bulaate hai?
+2910:NUM:perc: Do se gyaara saal ke bachonmai kitne percentage log 'The Simpsons' dekhte hai?
+2911:LOC:state: Alaska chodke U.S. kaa sabse northernmost state kaunsa hai?
+2912:LOC:other: New york mai kisi bhi art gallery kaa naam batao.
+2913:HUM:ind: Viagra kaun bechtaa hai?
+2914:ENTY:instru: Prewitt ne kaunsa musical instrument bajaaya James Jones's ke From Here to Eternity mai?
+2915:DESC:def: Home Rule Act kya hai?
+2916:LOC:other: British Monarchs kaunse building mai crowned hai?
+2917:DESC:def: Bellworts kya hote hai?
+2918:HUM:desc: Darius kaun hai?
+2919:ENTY:cremat: Kaunse movie mai Anna Anderson ek Russian Czar ki beti thi?
+2920:HUM:ind: Dita Beard kiskeliye kaam karti thi?
+2921:ENTY:animal: Coot kis kind kaa creature hai?
+2922:HUM:gr: Woodrow Wilson kaunse University kaa president tha?
+2923:LOC:country: Kaunse country ne Libya ke Turks ke khilaaf sabse pehele airplanes use kiye, war mai weapons ki tarah?
+2924:HUM:gr: Woodrow Wilson kaunse University kaa president tha?
+2925:ENTY:dismed: Fear of disease kya hota hai?
+2926:ENTY:food: Fray Bentos kaunse kind of meat se synonymous hai?
+2927:ENTY:other: Mr. Magoo General Electric ke liye TV pe kya flog kar rahe the?
+2928:DESC:desc: Canadian National Anthem ke words kya hai?
+2929:ENTY:termeq: Jewish Alphabet kaa naam kya hai?
+2930:HUM:ind: Robin Williams ke 'Dead poets society' mai schoolteacher
+2931:NUM:code: Columbia Tristar ka phone number kya hai?
+2932:HUM:title: Paach positions batao jo presidency ke line of succession mai hai
+2933:HUM:ind: Original seven mercury program ke kis astronaut ne ek bhi Mercury flights pe shuttle nahi udaayi?
+2934:HUM:ind: 165 Gunpowder plot mai sabse best known villian kaun hai?
+2935:LOC:city: Burkina Faso kaa capital kya hai?
+2936:LOC:other: Bolivia kaunse continent pe hai?
+2937:DESC:reason: 1967 mai Muhammad Ali ko apne boxing ka title strip karke usse boxing karne se ban kyu kiya gaya?
+2938:HUM:ind: Hitler aur Stalin, inn donomaise jyaada logonko kisne maara tha?
+2939:DESC:reason: Shea & Gould ne apna L.A. kaa office kyu band kar diya?
+2940:ENTY:animal: Kaunsa ekmeva mammal hai jo jump nahi kar sakta hai?
+2941:LOC:state: Kaunse U.S. state mai sabse jyaada blondes hai?
+2942:ENTY:event: Kaunse war mai Parrot's beak aur Black virgin ke battles hue tha?
+2943:NUM:count: 1969 mai U.S. highway mai accidents kaa death toll kya tha?
+2944:DESC:def: Kelly, iss naam kya matlab hota hai?
+2945:DESC:def: Phalanx kya hota hai?
+2946:HUM:ind: Kaunsa mustachioed comedian Frankie in North to Alaska mai portray kiya gaya tha? 
+2947:NUM:money: Har ek utility Monopoly mai kya cost karta hai?
+2948:HUM:ind: Kaunse actor cum Word War II airman ke sir ke upar $5000 ki bounty Hermann Goering ne rakhi thi?
+2949:ABBR:exp: Hum e.g. kis cheez ke liye use karte hai?
+2950:ENTY:dismed: Aise kaunse medical condition mai Baby brain ke bina born hota hai?
+2951:DESC:manner: Storms kaise bante hai?
+2952:HUM:desc: Nicolo Paganini kaun hai?
+2953:LOC:city: Kaunsa city kabhi kabhi The Insurance capital of the World keheleta hai?
+2954:ENTY:animal: Sheila Burnford ki 'The Incredible Journey' mai vo teen jaanwar the?
+2955:HUM:ind: Hammer Studios' ke films mai Dracula kisne portray kiyaa tha?
+2956:ENTY:other: Ancient World ke seven wonders mai se koi ek batao.
+2957:NUM:date: Peheli machli earth pe kis kaal mai form hui hogi?
+2958:HUM:ind: President kaa favourite biblical quotation 'Come now, and let us reason together' tha.
+2959:NUM:count: Empire State Building ke top floor pohochnekeliye kitne elevators lagte hai?
+2960:HUM:gr: Kaunsi company Soviet Georgia gayi thi ek Ads ki series film karneke liye?
+2961:LOC:country: Sir Edmund Hillart kaunse country mai born hue the?
+2962:ENTY:animal: Infant ke seal ko kya bulaate hai?
+2963:DESC:desc: 'Say goodnight, Dick' ke liye proper Laugh-In response kya hogaa?
+2964:LOC:city: John F. kennedy kaunse city ke president ke liye nominate hue the?
+2965:NUM:period: Dog kitne der ke liye sote hai?
+2966:ENTY:cremat: 1963 mai Joseph L. Mankiewicz ki kaunsi film kaa cost $28 million tha?
+2967:HUM:gr: Kaunsi Japanese Electronics company ek coastal city pe based tha jo Tokyo ke northeast hai.
+2968:NUM:money: Kis jagah pe agar aapkepaas kutta hai apke saath beach pe toh fine lagtaa hai aap pe?
+2969:LOC:other: Battle of the Bulge kahape hua tha?
+2970:NUM:count: California year 2000 mai kaisi ho sakti hai?
+2971:HUM:ind: Kaunse mystery write ne ye likha tha '' ...the glory that was Greece , and the grandeur that was Rome ''?
+2972:LOC:state: * The Grapes of Wrath mai kaunsa state jo milk aur honey se bharaa hua reheta tha desination tha? 
+2973:LOC:other: Japan ki tallest building kaa naam kya hai?
+2974:LOC:other: Sinn Fein's headquarters kaahape hai?
+2975:ENTY:food: Li 'l Abner ki favorite Indian drink kaa naam batao.
+2976:ENTY:event: 1830's ke important events kaunse the?
+2977:NUM:date: Iraq vaalone Kuwait pe attack kis din chaalu kiya tha?
+2978:ENTY:letter: Rwanda ke flag pe kaunsa letter jadaa hua hai?
+2979:ENTY:other: Ye 8 ne kya CD NNS VBP TO VB NNP POS NN.
+2980:DESC:def: God kya hai?
+2981:LOC:country: Kaunse country kaa northernmost city Darwin hoti hai?
+2982:LOC:other: Olympia, Washington ne kaunsa sound overlook kar diya tha?
+2983:ENTY:cremat: Kaunse TV show ne Katy Holstrum aur Congressman Glen Morley ke lives ko chronicle kiya tha?
+2984:LOC:city: Kaunsa Kentucky city khudko 'The Horse Center of America' bol sakti hai?
+2985:NUM:count: Trivial Pursuit ke game board pe kitne penny-farthings hote hai?
+2986:ENTY:substance: Sun pe sabse abundant element kaunsa hai?
+2987:LOC:country: Kaunsa European country city of Furth ke baarime boast karta hai, jidhar Rednitz aur Pegnitz converge karti hai?
+2988:LOC:state: Kaunsa U.S. state mai Dixville Notch hai?
+2989:LOC:other: 1797-185 ke beechme Cisalpine Republic kaahape tha?
+2990:LOC:other: World mai sabse badaa shopping mall kaunsaa hai?
+2991:HUM:ind: Dostoevski ke 'The Idiot' mai protagonist kaa naam kya tha?
+2992:ENTY:other: Baltic Avenue and Reading Railroad ke beechme kaunsa penalty space lie karta hai on a Monopoly board?
+2993:HUM:ind: Kaunse presidential press secretary ne Watergate ko third-rate burglary attempt bolke dismiss kar diya?
+2994:DESC:def: Meerkat kya hota hai?
+2995:HUM:desc: Jean Nicolet kaun tha?
+2996:ENTY:animal: Winnie the Pooh kaunse kind kaa jaanwar tha?
+2997:HUM:ind: Inmese kaun authors hai?
+2998:ENTY:word: B letter ke liye international radio code kya hai?
+2999:HUM:ind: Original Humpty Dumpty kaun tha?
+3000:DESC:def: Cache memory kya hoti hai?
+3001:ENTY:termeq: Aspartam ko aur kya bulaate hai?
+3002:LOC:other: Orange Bowl kidhar located hai?
+3003:NUM:date: President Nixon kaa Birthday kab hai?
+3004:DESC:desc: 'You're darn tootin' iss midwest slang kaa origin kya hai?
+3005:HUM:ind: Kiska cupboard bare tha?
+3006:LOC:other: Seven seas kaun kaunsi hai?
+3007:ABBR:exp: IBM kis cheez ko represent karta hai?
+3008:DESC:desc: Jazz aur Blues mai kya difference hota hai?
+3009:DESC:def: C Programming Language kya hoti hai?
+3010:HUM:ind: Popeye ke adopted son kaa kya naam hai?
+3011:HUM:ind: Vacuum cleaner kisne invent kiya tha?
+3012:DESC:def: 'Borrow pit' kya hota hai?
+3013:HUM:ind: Kaunsa 2th-century fictional character Pencey Prep School attend karta hai?
+3014:NUM:count: USA mai kitne log bolte hai ki information kaa number one source unka newspaper hai?
+3015:HUM:ind: Shakespeare ka Antonio mai vo kisse 3000 ducats borrow karta hai?
+3016:LOC:country: Kaunsi country 'Big Bear' ke naam se jaani jaati hai?
+3017:ENTY:food: Kaunsi cheez aapke muh mai melt ho jaata hai par haat mai nahi?
+3018:NUM:count: 'Q.I.D' mark kiya hua prescription din mai kitni baar lenaa chahihe?
+3019:DESC:desc: Atom kaa origin kya hai?
+3020:HUM:ind: Voyager kaa project manage kaun hai?
+3021:HUM:gr: Kaunsa radio station Jim Bohannon Radio Talk show air karta hai?
+3022:HUM:ind: Kaunse do commanders ne El Alamein ke battle mai forces ko direct kiya tha?
+3023:HUM:ind: 'The Muppets' kaa creator kaun hai?
+3024:DESC:manner: yahoo.com se aol.com pe kisiko email karna ho toh kaise karte hai?
+3025:HUM:ind: The Empire strikes back, Princess Leia ke 'I love you' confession pe kaun 'I know' bolke reply karta hai?
+3026:DESC:def: Ella iss naam kaa meaning kya hai?
+3027:LOC:other: Rockettes ka home kya hai?
+3028:LOC:other: 1642-1649 mai English Civil War ke baarime sab information pata karna ho toh kahase pata karte hai?
+3029:HUM:gr: Spumante bananevaale firm kaa naam kya hai?
+3030:ENTY:sport: Largest field pe kaunsa sport khelaa jaata hai?
+3031:HUM:ind: 1967 mai best actor ke liye Academy Award kisne jeeta tha? 
+3032:ENTY:other: After death kya hota hai?
+3033:HUM:ind: Space mai udnevaala pehela private citizen kaa naam kya tha?
+3034:HUM:ind: Football star Elroy Hirsch kaa nickname kya tha?
+3035:HUM:ind: Kaunsa singer 'Oh Boy' gaata tha?
+3036:NUM:count: Americans kitna pizza tha 
+3037:LOC:other: USA journal kaa website kaa naam kya hai ?
+3038:HUM:gr: Blood and fire mai army kaa motto kya tha ?
+3039:ENTY:other: 1963 mai Ermal Fraze ko kis kind kaa patent mila ?
+3040:DESC:desc: Jab aap ek seashell aapne kaan pe lagate ho toh kaise aavaze aati hai ?
+3041:DESC:reason: Haunted houses itne popular kyu hote hai ?
+3042:ENTY:other: Kaunse gender mai thighs jyaada badi hoti hai ?
+3043:LOC:state: Kaunsa U.S. state ke paas second-longest coastline hai ?
+3044:LOC:state: Kaunse state mai Buffalo Bill Historical Center hai ?
+3045:NUM:speed: Cheetahs kitne fast daud sakte hai ?
+3046:ENTY:other: Ray Bradbury kaa illustrated man kis cheez se illustrated hai?
+3047:NUM:speed: Ek 45MHz processor kitna fast hota hai?
+3048:ENTY:other: December 21, 1913 mai 
+3049:HUM:ind: Alexandre Dumas ne kis count ke baarime likha tha?
+3050:NUM:perc: Janam dete vakt, Twins honeke odds kya hai?
+3051:LOC:other: Pennsylvania mai sabse badaa natural lake kaunsa hai?
+3052:NUM:dist: London UK California se kita durr hai?
+3053:ENTY:animal: Odin ke raj ne do rahasmay ravens ka nam bataye.
+3054:ENTY:animal: Winnie the Pooh ki jati kya thi?
+3055:DESC:def: HIV virus kya hota hai?
+3056:NUM:count: benny carter kitne sal ka hai
+3057:ENTY:cremat: Kaunse Hermann Hesse ke book ne apna naam ek rock group ko diya?
+3058:LOC:other: yeh santa fe trail kha shuru aur khatam hoti hai.
+3059:ENTY:cremat: konsi kitab Future shock ki janch karti hai?
+3060:ENTY:animal: konse african janvar big five kehlate hai
+3061:ENTY:letter: yeh latin varnmala kya hai? 
+3062:ENTY:dismed: mendhako ka dar kya hai
+3063:LOC:city: canada me sabse kam populated sahar konsa hai
+3064:NUM:period: stevie wonder kitne sal ka hai.
+3065:HUM:ind: pehla taiwani pradhanmantri kon tha.
+3066:HUM:ind: luke skywalker ke pitaji ka nam kya tha
+3067:ENTY:other: madhyashak lalsa kya hoti hai?
+3068:DESC:def: weapon system ki paribhasha kya hai.
+3069:DESC:desc: Christopher aur Shakespeare ka angrezi sahitya me kya uplabdhi hai.
+3070:ENTY:food: kam ke samay ,nero wolfe ka pasandida pey konsa hai. 
+3071:HUM:gr: pehli personal computer company konsi thi
+3072:ENTY:techmeth: ek barbeque start karne ka sabse acccha tarika konsa hai.
+3073:HUM:desc: jane Goodall kon tha.
+3074:DESC:reason: Atm Machines pe braille mai kyu likhi hoti hai?
+3075:LOC:other: Isle of man kha hai?
+3076:ENTY:cremat: Aaron Hass ne konsi kitab likhi thi.
+3077:NUM:other: Jab Mount Pinatubo erupt hua tabhi death toll kya tha?
+3078:NUM:date: millennium ki offfcially shuruat kab hui thi.
+3079:HUM:ind: Garfield namak comic strip kisne banayi thi.
+3080:HUM:ind: konsa vietanami aatankvadi aaj UN delegate hai Doonesbury me.
+3081:DESC:def: asliyat me time processing kya hai.
+3082:LOC:other: pahadi parvato par ki uchayi kalpanik rekha  ko kya kehte hai?
+3083:LOC:country: Lagos kiski rajdhani hai.
+3084:LOC:other: Ray Bradbury namak itihash kha hua tha?
+3085:HUM:ind: Rush ka abhi rastrapati aur pradhani kon hai.
+3086:HUM:ind: 985 ke ass pass ek viking colony kisne basayi thi.
+3087:ENTY:symbol: Little Rascal namak kutte ko pehchan ka chinh kya hai. 
+3088:NUM:other: El paso,Texas ka latitude aur longitude kya hai.
+3089:LOC:other: cystic fibrosis ki jankari kha mil sakti hai?
+3090:LOC:other: Honecker rule kha hua tha?
+3091:DESC:def: equivalence states ki theory kya hai.
+3092:ENTY:other: a philatelist kya jama karta hai.
+3093:NUM:period: ek bandar ki average aayu kitni hoti hai?
+3094:NUM:count: UN me kitne rajya hai.
+3095:HUM:ind: chawal ke khet ke sath kaiyo ki painting banate banate kisne khudko goli mar li thi?
+3096:DESC:desc: jab sodium ko pani me rakhte hai toh kya hota hai?
+3097:DESC:def: UOL ka matlab kya hota hai?
+3098:HUM:ind: Harry Truman jab the tab kaunsa future president senate majority whip bane the?
+3099:HUM:ind: Central park ka architect kon tha?
+3100:ENTY:product: IBM  ke dwara sanchlit machine me kitne OS kam karte hai.
+3101:NUM:dist: ice hockey khel me goal ke dimensions kya hote hai?
+3102:NUM:date: CNN pehli bar kab broadcast hua tha?
+3103:ENTY:symbol: Country recession mai jaaneke signs kya hote hai?
+3104:DESC:def: Circumorbital hematoma kya hota hai?
+3105:LOC:country: Kaunsi african country Ouagadougou se govern hoti hai?
+3106:HUM:ind: Our Miss Brooks mai title character kaa Christian name kya tha? 
+3107:HUM:ind: Kaunse hard-of hearing artist ne Sunflowers paint kiye the?
+3108:HUM:gr: Yankee's frequent enemies kaun the ?
+3109:HUM:ind: Sons and Lovers kisne likha?
+3110:ENTY:termeq: ''Caliente'' word kaa English translation kya hai?
+3111:ENTY:techmeth: Kaunsa handicraft mai hum warp aur waft ko interlace karte hai?
+3112:LOC:city: Kaunsa French seaport 'The Home of Wines' ke naam se jaana jaata hai?
+3113:NUM:period: Sunlight ko Earth pohochnekeliye kitna time lagtaa hai?
+3114:NUM:count: Ek second mai kitne milliseconds hote hai?
+3115:HUM:ind: Kaunse Cherokee Indian ne ek jhaad ko apna naam de diya tha?
+3116:NUM:date: Malaysia mai camcoders kisne introduce kiye the?
+3117:NUM:perc: Quadruplets concieve karnekaa chance kya hota hai?
+3118:HUM:ind: Leave It to Beaver kaa star kaun tha?
+3119:LOC:country: Kaunse countries mai sabse jyaada bade armed forces hai duniya mai?
+3120:HUM:ind: William F. Cody kaa better-known name kya hai?
+3121:DESC:manner: Mai apna biceps' kaa size kaise increase karu?
+3122:HUM:ind: Richard Nixon ne apna resignation kisko tender kiya?
+3123:HUM:desc: Thucydides kaun tha?
+3124:DESC:manner: Strontium kaise purify kiya jaata hai?
+3125:HUM:ind: Hollywood Boulevard pe kis rock n' roll star kaa ''star'' hai
+3126:DESC:reason: Tonsils kis cheez ke liye hote hai?
+3127:ENTY:substance: Kaunse molecules mai fluorine, sodium aur magnesium hota hai?
+3128:ENTY:sport: Mayans jo ball game khelte the uskaa naam kya tha?
+3129:ENTY:cremat: The Moon's Balloon ke sequel kaa naam kya tha?s
+3130:NUM:money: Australian se American mai paise convert karnekaa exchange rate kya hota hai?
+3131:DESC:desc: 'Posh' word kaa origin kya hai?
+3132:DESC:manner: Ek female ne sexual intercourse kiya hai ye kaise bataa sakte hai?
+3133:NUM:count: 1972 mai Richard Nixon ne kitne states carry kiye the?
+3134:ENTY:techmeth: Bert Loomis ne kaunsa basketball maneuver invent kiya tha?
+3135:ENTY:cremat: Jin logonko padhna pasand nahi hai unkeliye kaunsi book padhnekeliye achi hoti hai?
+3136:NUM:count: Ek guinea mai 2 se kitne jyaada shilling hote hai?
+3137:ENTY:food: Tarantula kya khaata hai?
+3138:ENTY:color: Teen secondary colors kaun kaunse hote hai?
+3139:DESC:def: ''Sabrina'' iss naam kaa kya matlab hota hai?
+3140:HUM:ind: Boston Pops ke conductor kaa role Arthur Fiedler ke zamane ke baad kisne liya?
+3141:ENTY:event: World War II ke baad jo trials hue the unhe kya bolte the?
+3142:DESC:def: Hebephrenia kya hoti hai?
+3143:HUM:ind: War criminal honeke liye Phaasi denese pehele Kaunse Nazi Leader ne aatmahatya jail mai kar li thi?
+3144:ENTY:event: March 27 iss din par kaunse famous events hue hai?
+3145:HUM:gr: Kaunsi company ne ''The world's biggest toy store'' hone kaa claim kiya tha?
+3146:NUM:other: Jack Daniel's ke black label vaali bottle kaa brand number kya hota hai?
+3147:ENTY:termeq: Mere first cousins ke beta yaa beti ko mai kya bolunga?
+3148:DESC:reason: Civil War ke causes kya the?
+3149:DESC:def: Maid-Rites kya hote hai?
+3150:LOC:city: The Night Stalker mai Dracula ne kis city ko terrorize kiya tha?
+3151:DESC:manner: Aap usse kaise prevent kar sakte ho?
+3152:DESC:def: Andrew and Christina ye naamonka matlab kya hai?
+3153:ENTY:food: Frank Mars aur uske wife ne kaunsa chocolate bar banaaya tha jise aksar Milky Way with peanuts bulaaya jaata hai? 
+3154:HUM:ind: Kaun Fastest guitarist hai?
+3155:ENTY:other: Camels apne humps mai kya store karte hai?
+3156:ENTY:veh: Second space shuttle kaa naam kya hai?
+3157:LOC:other: Orthopedics ke liye sabse best hospital kaunsa hai country 
+3158:DESC:def: Perfect tenses kya hote hai?
+3159:DESC:def: Fifth sense ko commonly kya consider karte hai?
+3160:ENTY:termeq: East Germany ke liye dusra naam kya hai?
+3161:ENTY:cremat: America mai Second-biggest-selling magazine kaunsi hai? 
+3162:HUM:ind: Norway Nazis ko kisne betray kiya?
+3163:HUM:ind: Doodyville Orphans' Fund ko donate kiye hui toys kisne le liye aur khudke paas rakh liye? 
+3164:DESC:def: Bourdon Tube kya hota hai?
+3165:ENTY:sport: Wisconsin Badgers kaunse kind of sports team hote hai?
+3166:HUM:ind: Picts kaun hote hai?
+3167:DESC:desc: Caroll Baker, Tammy Grimes, Debbie Reynolds, and Judy Garland inn sabme kya cheeze common thi?
+3168:DESC:def: Film Noir kya hota hai?
+3169:HUM:ind: Camp Swampy in comic strips pe kauns stationed hai?
+3170:NUM:date: Kis saal mai China aur Republic of Korea ne diplomatic relations establish kiye?
+3171:DESC:reason: Kis cheez ke vajese Tuberculosis hoti hai?
+3172:NUM:dist: Giraffe kitna lambe hote hai?
+3173:HUM:ind: Kaunsa actor jisne Santa Claus jaise dress up kiya tha aur unka once-a-year affair tha actress Shelley Winters ke saath har Christmas bohot saare saalonkeliye?
+3174:ENTY:animal: Sidewinder naam ke heat-seeking missile kaunse janwaar pe based tha?
+3175:NUM:period: Stanley ko livingstone dhundneke liye kitna time laga tha?
+3176:NUM:count: Nation ke bacchome do se gyaara ke umar mai kitne pratishak log 'The Simpsons' dekhte hai?
+3177:LOC:other: Sheboygan kaunse lake pe hai?
+3178:DESC:def: Baseball team ke firemen kaun hote hai?
+3179:ENTY:dismed: Color ke fear ko kya bolte hai?
+3180:ENTY:veh: Kaunse Nantucket shipwreck ne apne 52 log jo usme the usse jyaada divers ko maar daala jab vo dub gayi?
+3181:ENTY:animal: Earth pe do sabse bade birds kaunse hai?
+3182:ENTY:cremat: Edith Wharton ke ''Old New York'' mai kaunsi chaar stories thi? 
+3183:LOC:other: North America mai sabse badaa lake kaunsa hai?
+3184:NUM:count: Smoking ke vajese 1997 mai kitne log mar gaye?
+3185:ENTY:dismed: Chronic Constipation kis cheez kaa symptom hai?
+3186:HUM:ind: Ursula Andress dekhneke baad The Look of Love kisne likhi thi? 
+3187:HUM:ind: 1972 ke olympics jitne vaala American swimmer jisne saat gold medals jite the uska naam kya tha?
+3188:HUM:ind: Earth pe sabse badaa show honekaa claim kaun karta hai?
+3189:DESC:def: Head Start kya hota hai?
+3190:HUM:ind: Television magazine ne kaunse honeymooner actress 
+3191:DESC:reason: Navy mai Board submarines pe mahilaye kyu nahi kaam kar sakti hai?
+3192:ENTY:other: Yalta Conference kis cheez ko lead karta hai?
+3193:ENTY:animal: The Mortgage Lifter kaunse dog ko dub kiya tha?
+3194:DESC:def: Saltpeter kya hota hai?
+3195:DESC:desc: J.D. and LL.M. mai difference kya hota hai?
+3196:HUM:gr: 'Last chance for Animals' kis kind kaa organization hai?
+3197:HUM:ind: Medieval Guild kaa role kya tha?
+3198:HUM:ind: Silly putty kisne invent kiya tha?
+3199:ENTY:other: Peachy Oat Muffins bake karnekeliye oven kis setting pe set honaa chahihe?
+3200:DESC:manner: Koi federal agent kaise ban sakta hai?
+3201:HUM:ind: Paper Clip kisne invent kiya tha?
+3202:HUM:ind: Lauren Bacall ke husband Humphrey Bogart marneke baad unhone kisse shaadi ki thi?
+3203:NUM:count: Apne 16 saalon ke National Basketball Association career mein John Havelick kitni baar all-star team ke member reh chuke hai ? 
+3204:LOC:city: Woh kaunsi city ya state hai jisme sabse zyaada gay aadmi rehte hai ? 
+3205:NUM:period: Shea and Gould ke paas Los Angeles mein kab tak office tha jiske pehle unhone use band kar diya ? 
+3206:ENTY:word: Kaunsa shabd Bible mein 46,227 times aata hai ? 
+3207:DESC:manner: Aap kis tarah khush ho sakte ho? 
+3208:DESC:manner: Kisi ko organ donor banne ke liye kya karna padega ? 
+3209:NUM:date: Kaunse saal mein Degas ne bronze sculpture "  Fourth Position Front " tayar kiya ? 
+3210:HUM:ind: Kaunse composer ko Franklin D. Roosevelt ne Medal of Honor award kiya ? 
+3211:NUM:count: Kitne URL extensions hai ? Aur woh kya kya hai ? 
+3212:NUM:period: Intercourse ke kitne baad pata kar sakte hai ki aap pregnant ho ya nahi ? 
+3213:ABBR:exp: U.S.S.R. kiske liye stand karta hai ? 
+3214:HUM:ind: Fantastic Four , Hulk , aur Thor ko kisne banaya ? 
+3215:ENTY:dismed: Fear of gravity kya hai ? 
+3216:HUM:ind: " Canon in D Major " ka composer kaun hai ? 
+3217:DESC:desc: Rocky Marciano ne apne pro boxing career mein kya nahi kiya ? 
+3218:LOC:other: Saare European aur American eels kaha paida hote hai ? 
+3219:HUM:ind:  " Far from the madding crowd "  novel ka author kaun tha ? 
+3220:DESC:def: ' Graphic details ' ki definition kya hai ? 
+3221:ENTY:product:  " America 's recessed-filter cigarette " kya tha ? 
+3222:ENTY:animal: Scooby Doo kis tarah ka dog hai ? 
+3223:DESC:reason: Appendix ka function kya hai ? 
+3224:HUM:ind: Kaunsa department store heir ek three-man safe ko Andrea Doria ke underwater wreckage se raise karne ke liye responsible hai ? 
+3225:ENTY:other: Kaunse sex mein leprosy contract karne ki shamta duguni hai ? 
+3226:LOC:city: Woh sabse pehla town kaunsa tha jo Vermont mein chartered hua ? 
+3227:LOC:state: Kaunse state mein sabse lambi Great Lakes shoreline hai ? 
+3228:LOC:state: Kaunsa U.S. state G se end hota hai ? 
+3229:NUM:count: Kitne variety ke twins hote hai ? 
+3230:DESC:def: Cartesian Driver kya hai ? 
+3231:LOC:other: US mein largest libraries kaunse hai ? 
+3232:NUM:count: Falklands mein kitne log rehte hai ? 
+3233:HUM:ind: Camp David kiske liye name kiya gaya tha ?
+3234:ENTY:cremat: Kaunse document ki copy President Andre Johnson chahte the ki unke marne ke baad unke sir ke niche rakhi jaaye ? 
+3235:HUM:ind: Kisne " a man without a face " portray kiya usi same naam ki movie mein ? 
+3236:DESC:desc: 1899 mein dogtown mein kya hua tha jisse us saal ko yaad rakha gaya ? 
+3237:ENTY:other: Braise Pascal ne perpetual motion ki search mein kaunsa wheel invent kiya ? 
+3238:NUM:money: 1991 mein kitna paisa minimum wage tha? 
+3239:NUM:date: Kaunse saal mein cans par pull-tab opener ka sabse pehle patent paaya gaya ? 
+3240:LOC:country: Kaunse country mein sabse zyaade dams hai ? 
+3241:NUM:money: Regular price kya hai ? 
+3242:LOC:other: Kaunse Metropolis landmark ko sabse pehle 1940's ke Superman cartoons mein introduce kiya gaya ? 
+3243:LOC:other: Mozambique ko koi kidhar dhundh sakta hai ? 
+3244:DESC:manner: Anorexia ko aap kaise recognize karte ho ? 
+3245:ENTY:cremat:  Kaunsa Mary Tyler Moore Show regular duniya mein Tadeus Wladyslaw Konopka ki tarah aaya ? 
+3246:LOC:city: US Declaration of Independence kaunse city mein located hai ? 
+3247:DESC:def: Largest variety of cactus kaunsi hai ? 
+3248:HUM:ind: Pehli World Series kisne jeeti ? 
+3249:ENTY:cremat: Aaron Hass ne kya likha ? 
+3250:HUM:desc: Samuel Pickering kaun hai ? 
+3251:HUM:gr: Animated sky hawks ka business kya tha ? 
+3252:HUM:ind: " I never met a man I didn't like " kehne ka credit kisko diya gaya tha ? 
+3253:ENTY:other: Dungri, a suburb of Bombay ke liye kya overalls named hai ? 
+3254:DESC:reason: Rooftops ek bade rainstorm ke baad steam kyu dete hai ? 
+3255:LOC:country: Jackson Pollock kis nationality ka tha ? 
+3256:NUM:count: Earth ka kitna surface permanently frozen hai ? 
+3257:ENTY:other: New Krypton aur Daxam mein kya connection hai ? 
+3258:NUM:date: Queen Victoria kab paida hui thi ? 
+3259:NUM:count: Abraham Lincoln ke assassination ke liye kitne logo ko execute kiya gaya ? 
+3260:DESC:desc: Jab ek Las Vegas blackjack dealer 16 saal ka ho jaata hai, tab use kya karna chahiye ? 
+3261:LOC:other: Reims mein dekhne laayak kya hai ? 
+3262:ENTY:other: Ileana Cotrubas kis type ki performer hai ? 
+3263:NUM:date: Yemen kab reunified hua ? 
+3264:ENTY:food:  Kaunse line of candy products mein Super Skrunch aur Peanut Butter maujud the ? 
+3265:DESC:reason: Anglican church Vatican church se split kyu hua ? 
+3266:HUM:gr: Kaunse organisation mein Security Council hoti hai ? 
+3267:DESC:manner: Mai kaise un different organs ka price find karu jo donate kiye gaye hai ? 
+3268:HUM:ind: Kaunse Mexican leader ko 1923 mein goli maar di gayi thi ? 
+3269:ABBR:exp: NECROSIS ka kya matlab hai ? 
+3270:DESC:def: Magnetar kya hai ? 
+3271:ENTY:event: Kentucky mein March 21, 1891 ko kaunsa feud shaadi mein end hua ? 
+3272:ENTY:color: Coho salmon ke har ek side ke along stripe ka kya color hai ? 
+3273:NUM:money: Federal minimum wage kya hai ? 
+3274:ENTY:termeq: Mississippi ko kya nickname diya gaya hai ? 
+3275:NUM:other: 1965 aur 1990 saalo ke unemployment statistics kya hai ? 
+3276:LOC:other: Santa Lucia kidhar hai ? 
+3277:HUM:ind: Kaunse female painter ne primitives of rural New England life ko produce kiya tha ? 
+3278:HUM:ind: Tv muppets show mein dikhaye jaane waale do old men ke naam kya hai ? 
+3279:ENTY:event:  Kaunsi war mein Parrot' s Beak aur Black Virgin par battle hui ? 
+3280:DESC:desc: Madrid mein taxi ko bulane ke liye kya chillana padta hai ? 
+3281:NUM:other: Shuttle boosters ka horsepower kya hai ? 
+3282:NUM:date: Apartheid kaunse saal mein shuru hua tha ? 
+3283:HUM:ind: Big Ben ko kisne banaya ? 
+3284:LOC:city: Kaunsi city City of OZ mein paayi jaati hai ? 
+3285:DESC:desc: Ek samay ki popular Yale Lock Company ko kya hua ? 
+3286:HUM:gr: Aisi Marvel team ka naam batao jo DC's Justice League of America ke upar loosely based ho. 
+3287:ENTY:other: 16th-century Aztec athlete ko ring ke through rubber ball daalne par kya mila ? 
+3288:LOC:state: Kaunsa populous state 49,576 miles cover karta hai ? 
+3289:HUM:gr: Kaunsi football team ko Knute Rockne ne ek power mein build kiya ? 
+3290:LOC:state: Kaunse state mein 11 million gallon ki oil spill hui thi ? 
+3291:NUM:date: Aldous Huxley ne "  Brave New World "  kab likhi thi ? 
+3292:LOC:country:  Kaunsi country ko ancient Romans Hibernia ke naam se refer karte the ? 
+3293:HUM:gr:  Woh kaunsa high-risk business venture tha jismein Jimmy the Greek ne bet kiya aur kho diya ? 
+3294:ENTY:food: The Master Spice ko chefs kya bulate hai ? 
+3295:ABBR:abb: General Motors ka abbreviation kya hai ? 
+3296:DESC:def: Devo hat kya hoti hai ? 
+3297:NUM:period: Sabse lamba hiccup attack kitna lamba tha ? 
+3298:ENTY:other: Medieval warfare mein kis tarah ke weapons use hue the ? 
+3299:NUM:count: Tokyo mein kitne log rehte hai ? 
+3300:HUM:ind: Kaunsi fruit-topped actress ko The Brazilian Bombshell ke naam se jaana jaata tha ? 
+3301:ENTY:animal: Birds kiske descendants hai ? 
+3302:HUM:gr: Jab Tutankhamun exhibit U.S. mein display par tha , tab kaunsi moving company ne use transport kiya tha ? 
+3303:ENTY:cremat: Kaunsi Kevin Costner movie mein Sioux Indians involved hai? 
+3304:HUM:ind: My Favorite Martian mein title role kisne play kiya tha ? 
+3305:DESC:manner: Scientific calculator kaise work karta hai ? 
+3306:ENTY:dismed: Fear of fur kya hai ? 
+3307:HUM:ind: Scrabble game kisne invent kiya tha ? 
+3308:ENTY:other: Cowboys of the old West ke liye " pothooks " unke attire ka kaunsa part tha ? 
+3309:NUM:date: Humans ne seriously history likhna sabse pehle kab shuru kiya ? 
+3310:DESC:reason: Hume school kyu jaana padta hai ? 
+3311:DESC:def: Toulmin Logic kya hai ? 
+3312:ENTY:other: Corgi kya kind of cheez hai ? 
+3313:LOC:city: U.S. mein kaunsi city hai jisne recently sabse zyaada growth experience ki ? 
+3314:DESC:def: Dangling participle kya hai ? 
+3315:LOC:other: Kaunsi Tokyo Street department stores aur nightclubs se bhari hui hai? 
+3316:NUM:period: Stone Age ke dauraan average life expectancy kya thi ? 
+3317:HUM:ind: Jab Mighty Mouse conceive hua tha, uska original naam kya tha ? 
+3318:DESC:desc: Peace symbol ka origin kya hai ? 
+3319:HUM:gr: Kaunse group ne movie Rock Around the Clock mein abhinay kiya tha ? 
+3320:NUM:count: Queen Victoria ke reign mein kitne U.S. presidents ko assassinate kiya gaya ? 
+3321:NUM:date: Pehla flush toilet kab invent kiya gaya tha ?
+3322:HUM:ind: New Star Wars prequel mein Nathan Hamill ka role kya hai ? 
+3323:NUM:count: Crokinole ke four-handed game mein har ek player ke paas kitni disks hoti hai ? 
+3324:NUM:period: Sun kitna old hai ? 
+3325:NUM:perc: Do aur gyarah saal ki umr ke beech kitni sankhya mein bacche ' The Simpsons ' dekhte hai ? 
+3326:DESC:manner: Mai Massachusetts ke human resource departments ke fax aur email addresses ki list kaise find karu ? 
+3327:DESC:manner: Mai apne Congressman ko kis tarah likhu ? 
+3328:NUM:count: Kitne saal pehle Led Zeppelin ne apna aakhri album release kiya tha ? 
+3329:ENTY:termeq: Group of geese ke liye kya term us karte hai ? 
+3330:NUM:count: Randy Craft ko kitne logo ki hatya ka doshi paaya gaya tha ? 
+3331:ENTY:event: Us famous battle ka naam kya tha jo Texas aur Mexico ke beech mein hui ? 
+3332:LOC:country: Aap kaunsi country mein ho agar aap Wu dialect mein woo karte hai ?
+3333:ENTY:termeq: Us Poker Hand ko kya kehte hai jismein paanch cards same suit ke ho ? 
+3334:HUM:ind: Kaunse New York Yankee ko The Iron Horse ke naam se jaana jaata hai ? 
+3335:HUM:ind: Kise The First Lady of the American Stage consider kiya jaata hai ? 
+3336:HUM:ind: " Neither a borrower nor a lender be " kisne likhi thi ? 
+3337:DESC:def: Moxie kya hai ? 
+3338:ENTY:cremat: Sabse pehli Sam Spade novel kaunsi thi ? 
+3339:ENTY:cremat: Patti Page ne 1950 mein logo ko kis song par dance karaaya tha ? 
+3340:HUM:ind: Hitler ke badnaam Gestapo ka mukhya kaun tha ? 
+3341:LOC:city: Woh kaunsa South American city hai jismein Copacabana Beach aur Ipanema maujud hai ? 
+3342:LOC:city: Woh kaunsa German shehar hai jise Italians "The Monaco of Bavaria" kehte hai ? 
+3343:LOC:other: Woh kaunsa island group hai jismein Jersey, Guernsey, Sark aur Harm maujud hai ? 
+3344:ENTY:dismed: Strong light ke dar ko kya kehte hai ? 
+3345:HUM:ind: Us insaan ko kya kehte hai jise aag pasand ho ? 
+3346:LOC:other: Helium kidhar discover hua tha, jisse uska naam waisa rakha gaya ? 
+3347:ENTY:techmeth: Dar ko overcome karne ka sabse accha tareeka kya hai ? 
+3348:HUM:gr: Koi South African diamond producer ka naam batao. 
+3349:HUM:ind: Kisne musical plea Be True to Your School  banaya ? 
+3350:HUM:ind: Kaunsa French designer ne declare kiya ki 
+3351:NUM:date: Shakespeare ke Midsummer Night's Dream ki setting kaunse mausam mein hui hai ? 
+3352:HUM:gr: Us band ka naam batao ko 1960's mein famous tha . 
+3353:HUM:ind: Kis comedian ko obscene gesture ke liye Ed Sullivan Show se ban kiya gaya tha ?
+3354:LOC:country: Kaunsi conutry mein Edgar Allan Poe 's The Pit and the Pendulum set ki gayi hain ?
+3355:HUM:ind: Kis Apollo 11 astronaut ne store mind kiya tha jab Armstrong aur Aldrin history bana rahe the ?
+3356:NUM:money: Cairo se Barbados ka current ticket kitna hain ?
+3357:LOC:mount: Duniya ki doosri sabse oonchi parvat choti kaunsi hain ?
+3358:HUM:ind: Kaunsi Good Little Witch Casper ki girlfriend hain ?
+3359:ENTY:cremat: Tennessee Williams ke kaun se play mein ek charachter ki hatya ek mob of starving children karte hain ?
+3360:HUM:ind: Frederick I , Holy Roman Emperor and King of Germany ka nickname kya tha ?
+3361:ENTY:event: Potsdam Conference kis jung ka nateeza tha ?
+3362:ENTY:dismed: Duniya ki sabse common non-contagious disease kaunsi hain ?
+3363:NUM:date: Kis month, date, aur year mein Charles I mara tha ?
+3364:NUM:count: Ek gallon paani kitni cubic feet space occupy karta hain ?
+3365:DESC:def: New militrary recruits ko kaunsi hair style milti hain ?
+3366:LOC:other: Duniya ki sabse badi cathedral kaunsi hain ?
+3367:DESC:desc: Environment par nitrates ka effect kya hain ?
+3368:DESC:def: Nitrox diving kya hain ?
+3369:LOC:country: 'A' se shuru hone waali teen European countries kaunsi hain ?
+3370:DESC:desc: Long March mein kya hua tha ?
+3371:ENTY:event: Hitler ke Bavarian government ko overthrow karne ke unsuccessful attempt ka kya naam tha ?
+3372:DESC:manner: Online spelling kaise dhoond sakte hain ?
+3373:NUM:count: Ek pasture mein kitne earthworms hote hain ?
+3374:HUM:ind: Stonehenge kisne banaya tha ?
+3375:NUM:other: American workers ka average hourly rate kitna hain ?
+3376:ENTY:sport: Kis sport mein snatches and clean jerks aate hain ?
+3377:HUM:ind: The National Review ka founder aur editor kaun hain ?
+3378:NUM:date: Berlin Wall kis saal mein bani thi ?
+3379:HUM:ind: West Virginia ka fehla governor kaun tha ?
+3380:LOC:other: World ka sabse lamba suspension bridge kaunsa hain ?
+3381:LOC:city: Kis city mein world ki sabse badi bowling alley hain ?
+3382:NUM:date: Jean Aeul apni next book kab publish kar rahi hain ?
+3383:HUM:ind: Kaunsa ka famous soldier Europe mein paida hua , Asia mein mara aur Africa mein dafnaaya gaya ?
+3384:ENTY:food: Jab relax karne ka time ho, tab kaunsi beer clear stand karti hain ?
+3385:HUM:gr: Potlatch ka idea kis culture nen develop kiya ?
+3386:HUM:gr: Kaunsi baseball team Minnesota Twins bani ?
+3387:ENTY:instru: Jimi Hendrix kaunsa guitar bajaata tha ?
+3388:LOC:city: Kin pehli teen cities ki population ek million se jyaada hui thi ?
+3389:LOC:other: Castor aur Pollux kis constellation mein aate hain ?
+3390:NUM:count: Ek mile mein kitne meters hote hain ?
+3391:DESC:def: Gas release event kya hota hain ?
+3392:ENTY:cremat: James Michener ki kaunsi book ka subtitle Spanish Travels and Reflections hain ?
+3393:LOC:other: London ka kaunsa famous criminal court ek samay par ek feudal castle tha ?
+3394:NUM:count: Ek gram mein kitne milligram hote hain ?
+3395:ENTY:other: Kaunsa stringe weapon bolt fire karta hain ?
+3396:LOC:other: Use title kaha se mila ?
+3397:LOC:other: 5 to 6 letter worlds ki large list kaha mil sakti hain ? 
+3398:HUM:ind: Michael Jackson ka middle name kya hain ?
+3399:HUM:ind: Atlantic ke across solo fly karne waali pehli women kaun thi ?
+3400:NUM:period: Human gestation kitna lamba hota hain ?
+3401:DESC:def: " Semper Fidelis " ka kya matlab hota hain ?
+3402:ENTY:product: 1942 mein hepcats ne kaunsa suit pehna tha ?
+3403:LOC:other: Mother Angelica kaha rehti hain ?
+3404:DESC:manner: Main apna Moon sign kaise dhoond sakta hoon ?
+3405:DESC:reason: Candle ko wick ki jaroorat kyun hoti hain ?
+3406:ENTY:instru: Musician Ray Charles kaunsa instrument bajaata hain ?
+3407:DESC:desc: Witches Macbeth ko kaunsi teen prophecies sunaati hain ?
+3408:NUM:other: Mississippi ki population kitni hain ?
+3409:HUM:ind: Dominos Pizza chain kisne shuru ki thi ?
+3410:ENTY:cremat: Steven Spielberg ka dog kis film mein main character ka dog hota hain ?
+3411:ENTY:dismed: Contraceptives ke different kinds kya hain ?
+3412:NUM:period: Jeremy Piven kitna old hain ?
+3413:DESC:desc: Yo-yos ki kya history hain ?
+3414:HUM:ind: Kis NBA player ki jersey number 0 thi ?
+3415:HUM:gr: One-pound kiss kaunsi chocolate company deti hain ?
+3416:DESC:manner: ' qigong ' ko kaise pronounce karte hain ?
+3417:ENTY:other: Coprolite kiske fertilize hone par banta hain ?
+3418:NUM:count: Rubiks's cube mein kitne coloured squares hote hain ?
+3419:LOC:other: Mayo Clinic kya hain ?
+3420:LOC:other: Kis Caribbean isand ko kai baat Little England bhi bolte hain ?
+3421:LOC:other: Amsterdam kaha hain ?
+3422:LOC:other: ' Getting Married Today ' from the musical ` Company ' ke lyrics kaha se mil sakte hain ?
+3423:ENTY:word: " knows all " ka doosra word kya hain ?
+3424:HUM:ind: Kis famous movie star ne Provo Canyon , Utah mein sewer commissioner ka role kiya tha ?
+3425:LOC:city: Kaunsi Australian city America's Cup ki home bani ?
+3426:ENTY:termeq: Aspartame ka doosra naam kya hain ?
+3427:DESC:def: Pasta kya hain ?
+3428:HUM:ind: Randy Craft ka lawyer kaun hain ?
+3429:ENTY:color: " ash " ka colour kya hain ?
+3430:HUM:gr: Best distance education university ya college kaunsa hain ?
+3431:LOC:other: Grand Coulee Dam kis river par hain ?
+3432:NUM:other: Quadruplets kitni often paida hote hain ?
+3433:DESC:manner: Psorisis kaise disappear hota hain ?
+3434:NUM:count: Kitne presidents 4th of July ko mare hain ?
+3435:ENTY:color: French flag mein kaunse teen colours hain ?
+3436:DESC:desc: Bermuda Triangle ke peeche kya mystery hain ?
+3437:ENTY:other: Duniya ke seven wonders kaunse hain ?
+3438:ABBR:exp: CNN ka full form kya hain ?
+3439:HUM:ind: Jise aag pasand ho use kya kehte hain ?
+3440:HUM:ind: Lust for Life mein Vincent Gogh ka role kisne kiya tha ?
+3441:ENTY:other: Adult mein kya kya hota hain ?
+3442:LOC:other: Kis site se Heretic 2 reliably download kar sakte hain ?
+3443:DESC:def: Neurosurgeon kaun hota hain ?
+3444:ENTY:sport: Kis baseball outcome ke liye 1879 mein nine balls , 1880 mein eight balls aur 1881 mein seven balls ki jarroorat hoti thi ?
+3445:DESC:def: Amaretto biscuits kya hain ?
+3446:ENTY:dismed: North Pole mein kaunsa common ailment nahi hota hain ?
+3447:NUM:date: Vernal equinox se kansa season shuru hota hain ?
+3448:HUM:ind: Comic books mein Time Master kaun hain ?
+3449:ENTY:animal: Roy Rager ke kutta ka naam kya tha ?
+3450:ENTY:cremat: Innocent ko bachane ke liye ki TV series ne naam badla tha ?
+3451:LOC:other: Cable cars 1873 mein Clay Street mein kaha pehle roll down ki thi ?
+3452:LOC:other: George Lucas ka email address kya hain ?
+3453:DESC:manner: Acchi massage kaise de sakte hain ?
+3454:HUM:ind: Father of Computer kaun hain ?
+3455:DESC:desc: " jiggy " ka as in getting " jiggy " with mein kya origin hain ?
+3456:DESC:desc: a.m aur p.m. ka kya origin hain ?
+3457:DESC:def: Cosmology ki definition kya hain ?
+3458:ENTY:animal: Cracker Jack Box par bane kutte ka kya naam hain ?
+3459:DESC:def: Manifest aur latent function theories kya hain ?
+3460:ENTY:cremat: Kaunsi William Styron ki book black preacher jo ek slave revolt lead karta hain ke baare mein hain ?
+3461:ENTY:symbol: Nitrogen ka chemical symbol kya hain ?
+3462:HUM:ind: `` Old soldiers never die ; they just fade away '' kisne kaha tha ?
+3463:HUM:gr: Kis National League baseball team ne apne pehle 2 second mein 72 third baseemen employ kiya tha ?
+3464:DESC:def: Hot-rodder ke liye snowball kya hain ?
+3465:NUM:dist: Tyrannosaurus Rex ke teeth kitne lambe the ?
+3466:DESC:desc: Ozymandias ka origin kya hain ?
+3467:HUM:ind: Kis ek insaan ne Olympic decathlon do baar jeeti hain ?
+3468:LOC:city: Kaunsi Kenyan city East Africa ki safari center hain ?
+3469:DESC:reason: Men snore kyun karte hain ?
+3470:DESC:reason: " rolling thunder " kyun hota hain ?
+3471:HUM:ind: Miss India 1994 ka kya naam hain ?
+3472:LOC:state: Kin chaar U.S. states mein active volcanoes hain ?
+3473:DESC:desc: John Le Carre 's A Small Town in Germany ki setting kya hain ?
+3474:DESC:desc: Echidna kaisa dikhta hain ?
+3475:DESC:desc: Universe ka secret kya hain ?
+3476:HUM:ind: Moon par chalne waale doosre insaan ka kya naam tha ?
+3477:HUM:ind: Kis major Victorian novelist ne jitna time post office mein bitaaya utna hi writing mein bhi ?
+3478:DESC:reason: 25th anniversary session of the United Nations General Assembly ka adjournment kis wajah se hua tha ?
+3479:HUM:gr: Pittsburgh ki major league baseball team ka kya naam hain ?
+3480:ENTY:termeq: Red Cross ke Islamic counterpart ka kya naam hain ?
+3481:NUM:date: Kis saal ke Olympic mein Jisme Nadia Comaneci popular hui thi ?
+3482:ENTY:substance: Glass kisse bana hota hain ?
+3483:DESC:manner: Lee Harvey Oswald ne rifle kaise khareedi ?
+3484:DESC:manner: Main Elvis Presley jaisa kaise gaa sakta hoon ?
+3485:LOC:other: Biggest Indian airports kaunse hain ?
+3486:ENTY:cremat: Bird's nests aur birds in Christmas tree  ke regarding kaunsi folklore story hain ? 
+3487:LOC:other: Size ke order mein , duniya ke sabse bade teen oceans kaunse hain ?
+3488:HUM:ind: Pope kaun hain ?
+3489:LOC:other: Laundry detergent ke baare mein Internet mein kaha se dhoond sakta hoon ? 
+3490:ENTY:termeq: La Manche ko french kya bulaate hain ?
+3491:ENTY:techmeth: Ek lake mein approx number of fishes asaani se kaise pata laga sakte hain ?
+3492:DESC:manner: Cache ko clean kaise karte hain ?
+3493:ENTY:veh: Aristotle Onassis ki yatch ka kya naam tha ?
+3494:ENTY:dismed: Gande rehne ke dar ko kya kehte hain ?
+3495:ENTY:animal: Spielberg ki " Jaws " mein kaunsa animal aata hain ?
+3496:DESC:def: Red Planet kaunsa hain ?
+3497:NUM:count: The Shea & Gould law firm ka L.A. mein kitne saal tak office tha ?
+3498:HUM:ind: America ka sabse common surname kaunsa hain ?
+3499:NUM:period: Ek typical American ko 23 quarts ice cream khaane mein kitna time lagta hain ?
+3500:DESC:desc: Fruit aur vegetable mein kya difference hain ?
+3501:ENTY:plant: Kaunsa tree Lebanon flag grace karta hain ?
+3502:DESC:def: Tumbled marble kya hain ?
+3503:ENTY:techmeth: IT User Satisfaction Level kin kin tareekon mein measure kar sakte hain?
+3504:LOC:city: Athens of Switzerland kis city ko kehete hian?
+3505:LOC:other: Bocci kahan originate hua?
+3506:DESC:manner: Light space me travel kaise karti hai agar space me koi medium nahi hota ki light 'wave' ya 'pulse' ki travel kar sake?
+3507:DESC:def: Valdez Principles kya hote hain?
+3508:DESC:manner: Red wine ke daag easily kaise remove karen t-shirts me se?
+3509:DESC:manner: MLA style bibliographies kaise likhen ek Internet source ke liye?
+3510:HUM:desc: Imam Hussain Ben Ali kaun hai jisme Shia log believe karte hain?
+3511:DESC:desc: 'Assassinate' word ka origin kya hai?
+3512:LOC:other: Bob Barr, Georgia ka representative ke baare me information kahan se dhoond sakte hain?
+3513:NUM:other: VHF ki frequency kya hoti hai?
+3514:DESC:desc: 1 se 10 tak ke Arabic Numerals kya hain?
+3515:ENTY:other: Police waala Monopoly ke Canadian edition me kya banta hai?
+3516:NUM:count: Ek presidency jeetne ke liye kitne electoral votes lagte hain?
+3517:DESC:def: Digitalis kya hai?
+3518:ENTY:plant: Nero Wolfe kis tareeke ke phool raise karta hai?
+3519:ENTY:substance: Late 16th century me kis cheez se paper banta tha?
+3520:HUM:desc: William Henry Harrison kaun tha?
+3521:DESC:desc: 1945 ki Yalta Conference ka outcome kya tha?
+3522:DESC:def: 'Flintknapping' kya hai?
+3523:ENTY:color: Contact lenses ka sabse popular color konsa hai?
+3524:LOC:city: Dicken ki ATale of Two Cities me kaun kaun si cities thi?
+3525:DESC:reason: Mooh me Cancker sores kis cheez se hote hain?
+3526:NUM:date: Tem Commandmente movie konse year me aayi thi?
+3527:ENTY:animal: World ki sabse tez fish konsi hai?
+3528:ENTY:color: Kremlin ki Castellated walls kis color ki hain?
+3529:ENTY:event: February ke 21-27 tak ke hafte me kya celebrate hota hai?
+3530:ENTY:other: Bureaucracy se business aur government ko kya damage hota hai?
+3531:LOC:country: Kis desh ke math students best hote hain?
+3532:NUM:date: De Beers company kab bani thi?
+3533:ENTY:cremat: Ek Old West gambler ke liye ek California prayer book kya thi?
+3534:HUM:ind: Apna khud ka network TV show shuru karne waala pehela black performer kaun tha?
+3535:ENTY:termeq: Aspartame ka doosra naam kya hai?
+3536:DESC:desc: John F. Kennedy ke hisab se uski sabse badi galti kya thi office mein?
+3537:ABBR:abb: Trinitrotoluene ka abbreviation kya hai?
+3538:ENTY:animal: Birds, mammals, etc. me se world ka absolute fastest moving creature konsa hai?
+3539:NUM:date: Bastille Day ki date kya hai?
+3540:ABBR:exp: IOC kis cheez ki abbreviation hai?
+3541:DESC:reason: Un ladkiyon ka proud claim kya hai jinhone Kappa Alpha Theta banaya tha?
+3542:ENTY:product: Konse do products tiger ko apne symbol ki tarah use karte hain?
+3543:LOC:other: Freidreich Wilhelm Ludwig Leichhardt , Prussian born explorer , kis school me jaata tha?
+3544:ENTY:color: Kis color ki eyes light se sabse jyada sensitive hoti hain?
+3545:NUM:count: Ek pregnant mother ko daily kitna folic acid lena chahiye?
+3546:HUM:gr: Konsi company apne naa jaane-maane spokespeople ko use karte hain apne product ko promote karne ke liye?
+3547:ENTY:dismed: Katharine Hepburn ko konsi beemari hai jisse uski aawaz shake hoti hai?
+3548:DESC:desc: FCC chairman Newton Minow ne TV ko May 9, 1961 pe kya bola tha?
+3549:NUM:count: 16oz coffee mein kitna caffeine hota hai?
+3550:ENTY:termeq: Chhote treee ugane ke art ko kya kehete hain?
+3551:LOC:country: South America ki konsi do countries landlocked hain?
+3552:DESC:def: Tiffany ka matlab kya hai?
+3553:DESC:reason: Magnets attract kyun hote hain?
+3554:DESC:manner: Ek Chinese person ko address kaise karte hain?
+3555:DESC:def: Thalassmia ka matlab kya hai?
+3556:NUM:code: Columbia Tristar ka phone number kya hai?
+3557:DESC:manner: Ek bande ko impress kaise karte hain?
+3558:ENTY:techmeth: "Cold fusion" se kya create hota hai?
+3559:NUM:date: Princess Diana aur Prince Charles ki shaadi kab hui thi?
+3560:ENTY:other: Pearl ki value kaise determine hoti hai?
+3561:LOC:country: Hitler konsi country me rule karta tha?
+3562:ENTY:veh: Spanish-American war kis American ship ke doobne se hui thi?
+3563:HUM:ind: The Wild Bunch kisne direct kari thi?
+3564:ENTY:other: Jolly Roger pe kya emblazoned hain?
+3565:LOC:city: Orange Bowl kis city me hai?
+3566:DESC:def: Alveoli kya hote hain?
+3567:HUM:ind: Allen Stewart Konigsberg konsa comedian tha?
+3568:NUM:count: Kitne Leos Pope rehe chuke hain?
+3569:LOC:state: Herbert Hoover kis state me paida hua tha?
+3570:ENTY:cremat: Neal, ek martini-drinking St. Bernard kis TV series me aaya tha?
+3571:ENTY:other: Kis cheez me crack aa gaya tha jab 1835 me U.S. Chief Justice John Marshall ki death toll ho rahi thi?
+3572:NUM:count: Old King ke paas kitne fiddlers the?
+3573:HUM:ind: Kis poet ne likha tha 
+3574:DESC:def: Ethylene kya hota hai?
+3575:ENTY:cremat: Kis Irwin Allen bomb ki wajah se Richard Widmark ne kaha tha ki wo pehela officer hoga jo apna butt bugs se kick karaega?
+3576:ENTY:dismed: Clouds ke darr ko kya kehete hain?
+3577:ENTY:cremat: VW Beetle ad jisme car spin hote hai and uska color change hota hai, usme konsa music use hua tha?
+3578:ENTY:dismed: Pregnancy ke darr ko kya kehete hain?
+3579:NUM:count: India ki population kya hai?
+3580:DESC:desc: "Pallbearer" word ka origin kya hai?
+3581:NUM:period: Makhiyan kitne time tak zinda regeeti hain?
+3582:DESC:reason: Microsoft ki Windows 3 itne successful kyun hai?
+3583:HUM:ind: Andy Capp ka favorite pub kaun chalata hai?
+3584:LOC:state: Kiss state me khaane ke liye sabse achhe lobsters milte hain?
+3585:NUM:count: Ek banda ek din me kitni baar bathroom jaata hai?
+3586:ENTY:sport: Konsi bowl game 192 me Michigan aur Stanford me ek East-West contest ki tarah shuru hui thi?
+3587:LOC:other: Konse islands ka naam Spanish baja mar jiska matlab shallow paani hota hai pe pada tha?
+3588:DESC:def: Deadrise kya hota hai?
+3589:ENTY:lang: Algeria ki officia language konsi hai?
+3590:ENTY:other: Omni magazine ke contest me first prize laana waala ko kya laga tha "ultimate unanswerable question" find karne ke liye?
+3591:ENTY:word: Konse six words is line ko follow karte hain`` From a jack to a king.. . '' ?
+3592:DESC:manner: Agar mere paas area code hai toh mai city kaise find karoon?
+3593:HUM:ind: 198 me Days of Our Lives Cookbook ke kiss author ne TV ke Days of Our Lives pe sign kara tha?
+3594:ENTY:food: Kis khaane me sabse zyada protein hota hai?
+3595:HUM:ind: Charles J. Guiteau ne kis President ko assassinate kara tha?
+3596:HUM:ind: TV ki golden age ki kis comic ka motto tha `` Anything for a laugh '' ?
+3597:NUM:count: Baseball pitcher ka rubber kitne feet ka hota hai?
+3598:LOC:country: Jackson Pollock ki nationality kya hai?
+3599:HUM:ind: Bowling game kisne invent kari thi?
+3600:ENTY:animal: New England me konse snakes hote hain?
+3601:NUM:count: Statue of Liberty life size se kitne guna bada hai?
+3602:LOC:country: Hitler kis country me rule karta tha?
+3603:HUM:gr: Patricia Hearst ko kis group ne kidnap kara tha?
+3604:NUM:period: Ek insaan kitni der zinda reheta hai?
+3605:LOC:other: Mai U.S. ke economic statistics kaise le sakta hoon?
+3606:NUM:count: Ers ne kitne Superbowls jeete hain?
+3607:DESC:desc: Aap tab kya karte ho jab aapka mouse utna tez nahi kaam kar raha hote jitni tez use kaam karna chahiye?
+3608:DESC:def: Gandy dancer kya hota hai?
+3609:HUM:ind: ''The Muppets'' ka creator kon hai?
+3610:HUM:ind: In me se kis celebrities ne apna show-biz career ek disc jockey ki tarah shuru kara tha?
+3611:ENTY:animal: Teen baar crown jeetne waale kis ghode ne 1973 Belmont Stakes ko 31 lengths se liya tha?
+3612:NUM:other: Gymnastics exercise me perfect score kya hota hai?
+3613:ENTY:termeq: i letter pe jo dot hota hai use kya kehete hain?
+3614:LOC:city:Iowa ka capital kya hai?
+3615:HUM:ind: 1962 me aapko apne saath Loco-Motion karne ko kisne kaha tha?
+3616:DESC:def: Franfurt me rathaus kya hai?
+3617:HUM:ind: Kon President raha tha paanch saal, chhe mahine aur do din ke liye?
+3618:ENTY:termeq: Aap us feeling ko kya kehete ho jab aapko lage ki wo aapke saath pehele bhi ho chuka hai?
+3619:DESC:reason: Kis incident ki wajah se Eisenhower aur Khrushchev ke beech ki conference can hui thi?
+3620:ABBR:abb: Nation Bureau of Investigation ki short form kya hai?
+3621:ENTY:dismed: Body ki badboo ke darr ko kya kehete hain?
+3622:ENTY:techmeth: pi calculate karne ka formula kya hai?
+3623:DESC:desc: Ek backelor apartment aur ek 1 bedroom apartment me kya farak hai?
+3624:HUM:ind: Derw Barrymore ka middle name kya hai?
+3625:DESC:manner: Aap book report kaise likhte ho?
+3626:DESC:def: Cobol, Fortran aur Pascal kya hain?
+3627:HUM:ind: Supergirls ki secret pehechan kya thi?
+3628:LOC:other: Standard Industrial Classification codes , SIC , ke liye Federal Government ki konsi website hai?
+3629:HUM:gr: The Brethren me Bob Woodwoard konsa court describe karta hai?
+3630:HUM:ind: Pehela surfboard kisne banaya tha?
+3631:HUM:ind: Us police officer ka naam kya tha jo Top Cat ke aas pados me shaanti rakhne ki koshish kar raha tha?
+3632:NUM:date: Rosa Park bus ki seat dene se mana karke civil rights movement ki symbol kis date par bani thi?
+3633:NUM:perc: Ek roulette table pe sabse zyada odds kispe milte hain?
+3634:NUM:date: US Marine Corpe ne motto ''Semper Fidlis'' kis saal me apnaya tha?
+3635:NUM:count: Ingmar Bergman ne kitne films banai hain?
+3636:ENTY:other: Ek deltiologist kya collect karta hai?
+3637:DESC:reason: Garry Kasparov kis cheez ke famous hai?
+3638:ABBR:exp: E=mc2 me ''c'' kya cheez hoti hai?
+3639:HUM:ind: Sea ka Greek God kon hai?
+3640:HUM:ind: Kis well known music personality ne Hans Christian Henderson ko adopt kara tha?
+3641:DESC:manner: Sun ki heat ko kaise measure karte hain?
+3642:DESC:reason: Kuchh logon ki do alag color ki eyes kyun hoti hain?
+3643:ENTY:body: Ek billi aage ki left leg move karte hue konsi leg move karti hai - peechhe waali left ya peechhe waali right?
+3644:NUM:date: Peheli Barbie kab produce hui thi?
+3645:ENTY:substance: Ek insaan me sabse hard substance konsa hota hai?
+3646:HUM:ind: Wyoming ki peheli woman governor kon thi?
+3647:NUM:count: Agar ek ground hog apni shadow dekhta hai toh sardi ke kitne aur hafte bache hain?
+3648:HUM:ind: Kis Green Bay Packers coach ne philosophize kara tha 
+3649:DESC:manner: Kitni birds same jagah tak rasta har saal dhoond leti hain?
+3650:LOC:other: Henry Ford ka Museum kahan hai?
+3651:ENTY:cremat: Ek film ka naam batao jisne Berlin Film Festival me Golden Bear jeeta tha?
+3652:ENTY:termeq: International Lawn Tennis Challenge Trophy ko kya kehete hain ?
+3653:NUM:date: nylon stockings pehli bar kab sale pe gaye the ?
+3654:ENTY:sport: mountain climbing pe research expedition kya hota hai ?
+3655:ENTY:veh: Fawaz Younis ne konsi flight pe air piracy aur hostage taking kiya tha ?
+3656:LOC:city: US ki 10 sabsi badi cities konsi hai ?
+3657:DESC:def: wart kya hota hai ?
+3658:DESC:def: spaceball kaha par khela jaata hai ?
+3659:DESC:manner: rabies kaisa failta hai ?
+3660:HUM:ind: konsa badiya comedian ne haal hi mein play ko revive karne ki koshish ki jo ki sahi nahi hua ?
+3661:LOC:other: Drew Barrymore ka email address kya hai?
+3662:DESC:manner: aap ko kaisa pata ki koi jooth bol raha hai ?
+3663:DESC:desc: preface aur foreword me kya farak hota hai ?
+3664:ENTY:substance: naakhoon kis cheez se bane hote hai ?
+3665:LOC:country: jo 123 log Calcutta ke black hole me mare the vo konse desh ke the ?
+3666:DESC:def: storm wave ko japanese me kya bolte hai ?
+3667:DESC:reason: lethal injection dene se pehle sui ko saaf kyu karte hai ?
+3668:HUM:ind: konsi TV Family Nelson 's bakery se eclairs khareedti hai ?
+3669:DESC:manner: kapro me se rust ke dhabe kaise nikalte hai ?
+3670:DESC:manner: ek chota sa vyaapari Good Humor Ice Cream company se vyaapar karne ke lie kaise baat kare ?
+3671:HUM:ind: konsa US Vice President West me apna empire banane ke lie pakda gaya tha ?
+3672:HUM:ind: Charles Lindbergh 's ki biwi kon hai ?
+3673:HUM:ind: Angel Eyes jo ki 80's ka gaana hai, wo kisne gaaya hai ?
+3674:NUM:date: Jurassic Period kab khatam hua ?
+3675:ENTY:other: konsi cheez life insurance khareedne se pehle chahiye hoti hai ?
+3676:DESC:reason: Titanic doobne ki kya wajah thi ?
+3677:DESC:def: chemiosmotic theory kya hai ?
+3678:HUM:desc: aap James Cromwell ke baare me kya bata sakte hai ?
+3679:DESC:manner: ion drive kaise kaam karti hai ?
+3680:DESC:manner: mai apne parivar ki jade kaise kaise dhundu ?
+3681:NUM:date: kis date ko iraq ne Kuwait pe hamla kiya tha ?
+3682:ENTY:word: diet ko aur kya bolte hai ?
+3683:DESC:def: courier kya hota hai ?
+3684:ENTY:cremat: konsa Sinatra hit dooby dooby ne kia tha ?
+3685:DESC:manner: aap ek ladki ko sex ke lie kaise manaoge ?
+3686:ENTY:other: konsa award `` Oscar '' of advertising hai ?
+3687:LOC:other: konse planet pe Ewoks rehte hai ?
+3688:ENTY:food: konsi ice creams me seaweed hota hai ?
+3689:HUM:ind: konsa pagal par pyara character Maurice Gosfield ne The Phil Silvers Show pe kia tha ?
+3690:ABBR:exp: USB Port jo ki computer pe paaya jata hai, wo kya hai ? 
+3691:ENTY:termeq: konsa naam mard aur ladki ke beech ke sexual attraction ke lie sahi hai ?
+3692:HUM:gr: duniya ke sabse bade department store lo kya kehte the ? 
+3693:LOC:other: konsi sagar Cayman islands ke aas paas hai ?
+3694:NUM:count: kitne tarah ke vegetation zones hote hai ?
+3695:ABBR:exp: LOL ka kya matlab hai ?
+3696:LOC:other: konse maha sagar ke upar Amelia Earhart jahaz uda rahi thi jab vo gayab ho gai ? 
+3697:ENTY:cremat: konsi kitab me Holden Caulfield aat hai ?
+3698:DESC:desc: jab bijli paani pe garajti hai to kya hota hai ?
+3699:HUM:ind: german flying ace Manfred von Richthofen ka nickname kya tha ?
+3700:DESC:def: e=mc2 ka kya matlab hai ?
+3701:LOC:country: September 1939 me germany chod ke konsi country ne Poland pe hamla bola tha ?
+3702:DESC:manner: answers.com se kaise baat kare ?
+3703:ENTY:body: alag alag toes ke kya naam hote hai ?
+3704:ENTY:product: Petroleum ke alag alag prakar kya hote hai ?
+3705:DESC:reason: asthma kaise hota hai ?
+3706:NUM:date: Bill of Rights kaise ratify hua tha ?
+3707:DESC:def: Dr. Pepper pe 1, 2 4 number ka kya matlab hai ?
+3708:LOC:state: sabsi badi U.S. state east of Mississippi konsi hai ?
+3709:DESC:manner: kitne paise lagte hai ek 6 mahine ke bache ko bada karna ke lie ?
+3710:NUM:other: Biloxi , Mississippi me kitne log rehte hai ?
+3711:ENTY:letter: saare Esperanto nouns kis vowel se khatam hote hai ?
+3712:DESC:def: heuristic kya hota hai ?
+3713:LOC:other: konsa california desert High Desert pe dubbed hai ?
+3714:ENTY:animal: Miller Lite TV ke ad me creature kon hai ?
+3715:HUM:ind: ` Hamlet ' kisne likhi hai ?
+3716:DESC:manner: jack-o '-lantern naam kaise pada ?
+3717:DESC:reason: ostriches kyu nahi udte ?
+3718:LOC:other: Blackhawks apne kaam kaise karte hai ?
+3719:DESC:reason: Canada ki chate hari kyu hai ?
+3720:LOC:country: 1847 me konsi African country chute hue American slaves ne banai thi ?
+3721:NUM:date: `` Playboy '' ka sabse pehla issue konse saal me aaya tha ?
+3722:LOC:city: The Orange Bowl konse sheher me hai ?
+3723:ENTY:dismed: chalne ke dar ko kya kehte hai ?
+3724:HUM:ind: konsa pseudonym William Sydney Porter ne The Gift of the Magi likhne me use kiya tha ?
+3725:ENTY:dismed: kaanch ke dar ko kya kehte hai ?
+3726:DESC:desc: Waugh ke `` A Handful of Dust , '' me pagal budha aadmi hero se roz dupahar se kya karvata tha ?
+3727:HUM:ind: Peanut 's comic strip se Lucy and Linus ka aakhri naam kya tha ?
+3728:HUM:ind: 1963 me konse aadmi ne 9971 ZIP code US Postal Service se lia tha ?
+3729:NUM:count: kitni layer me ek bottle of Yoo-Hoo khatam ho jaati hai ?
+3730:HUM:gr: Pittsburgh ki baseball team ka kya naam hai ?
+3731:LOC:other: Earth ke sabse paas konsa star hai ?
+3732:LOC:other: Inoco kaha ki hai ?
+3733:ENTY:termeq: El Nino ka spansish me lya matlab hai ?
+3734:DESC:desc: Choo Choo Charlie kya kehta hai ?
+3735:DESC:manner: North Carolina me ek trade name kaise register karte hai ?
+3736:NUM:count: 1865 se kitne assassinations aur kitne assassinations ki koshish US me hui hai ?
+3737:NUM:count: kitne stations se basketball ki game `` Around the World '' me ball ko maar sakte hai ?
+3738:DESC:def: jake Brake kya hota hai ?
+3739:ENTY:symbol: Konsa sign sabse badiya love match horoscope sign hai ?
+3740:HUM:ind: Russian ambassador kon tha Hungary ke 1956 ke uprising me ?
+3741:HUM:ind: NFL me ek season me sabse zyada touchdowns ka record kiska hai ?
+3742:ENTY:other: konse cards bullets hote hai ?
+3743:NUM:period: ek ghode ki average umar kitni hoti hai ?
+3744:LOC:other: Bebrenia , Arcadia , aur Amazonis dekhne ke lie aap konse planet par jaenge ?
+3745:ENTY:lang: konsi bhaasha me sabse zyada shabd hote hai ?
+3746:LOC:other: natick kaha pe hai ?
+3747:ENTY:cremat: J.R.R. Tolkien ki konsi kitaab me Gimli sabse central charecter hai ?
+3748:ENTY:product: konsi tarah ki white rum abhi bhi Cuba me banti hai ?
+3749:HUM:desc: Shirley MacLaine kon hai ?
+3750:HUM:gr: konsa business sparkling wine Spumante export karta hai ?
+3751:ENTY:dismed: paani ke dar ko kya kehte hai ?
+3752:DESC:def: ghumti hui Rock beer bottle pe 33 ka kya matlab hota hai ?
+3753:DESC:desc: `` Corpus Christi '' ka origin kya hai ?
+3754:HUM:ind: ` The Pines of Rome ' kisne likhi hai ?
+3755:LOC:other: Valley of Kings kaha pe hai ?
+3756:HUM:gr: NHL me pehli U.S. ki team konsi thi ?
+3757:LOC:other: Caber-tossing kaha pe shuru hua tha ?
+3758:HUM:ind: kon Chicago Bears , Houston Oilers and Oakland Raiders ke lie khela tha apne 26 saal ke football career me ?
+3759:LOC:other: Union Stockyards kaha pe hai ?
+3760:LOC:other: dinner fish knife jaisi ajeeb si shape kaha se shuru ayi hai ?
+3761:NUM:count: Ray Davies of the Kinks ke kitne bache hai ?
+3762:NUM:count: kitne saal Shea & Gould ne Los Angeles me law kia tha ?
+3763:ENTY:other: Walter houston ne uski movie The Treasure of the Sierra Madre me se kya hataya ?
+3764:NUM:count: oceans me kitna namak kota hai ?
+3765:HUM:ind: star ship enterprise kon chalata hai Star Trek me ?
+3766:ENTY:animal: konse janwaro ne lapwarmers ki tarah act kara American colonists ke lie ?
+3767:HUM:ind: World War II kon jita ?
+3768:DESC:desc: `` bovine '' kaha se aaya hai ?
+3769:LOC:other: U.S. ko apni zyadatar energy kaha se milti hai ?
+3770:LOC:country: Canada aur Mexico ko chod ke U.S. ke sabse paas konsi country hai ?
+3771:ENTY:body: shareer me sabse kamzor haddi konsi hai ?
+3772:DESC:def: dew point kya hota hai ?
+3773:HUM:ind: Garrett Morgan ki shaadi kisse hui hai ?
+3774:HUM:ind: Darth Vader ke bete ka kya naam hai ?
+3775:NUM:count: Big Dipper me kitne taare hai ?
+3776:DESC:manner: dentist kaise bante hai ?
+3777:HUM:desc: Moby Dick me Ishmael kon hai ?
+3778:NUM:count: ek flea ke kitne wings hote hai ?
+3779:LOC:country: Konsi country ko The Queen of the Antilles kehte hai ?
+3780:LOC:other: ek website kaise dhoondte hai jo ache prices compare karti hai ?
+3781:NUM:other: Mozambique me kitne log rehte hai ?
+3782:DESC:def: multimedia kya hota hai ?
+3783:LOC:state: konsi state me sabse zyada Indians rehte hai ?
+3784:DESC:desc: terry cloth aur French terry me kya farak hota hai ?
+3785:NUM:dist: Camptown ka Racetrack kitna bada hai ?
+3786:HUM:ind: animated Herculoids ke 2 blob members batao .
+3787:LOC:other: Luther ne `` Ninety-Five Theses '' kaha pe dikhai ?
+3788:DESC:def: `` inkhorn terms '' kya hote hai ?
+3789:DESC:desc: pop gaano me aur rock and roll me kya farak hota hai ?
+3790:LOC:other: konsi nadi me Pocahontas gada hua hai ?
+3791:DESC:def: hazmat kis lie khada hota hai ?
+3792:DESC:def: `` bloodhound '' kya hota hai ?
+3793:NUM:count: London , England se Plymouth , England kitne miles door hai ?
+3794:ENTY:animal: Paul Bunyan ki ox ka kya naam tha ?
+3795:ENTY:other: Super Bowl ke winners ko konsi trophy di jaati hai ?
+3796:LOC:other: Dartmouth College kaha pe hai ?
+3797:HUM:ind: konse TV talk show ka host ek lay preacher tha jab vo 17 saal ki umar ka tha ?
+3798:DESC:desc: environment ka plant ke genetics par kya farak padta hai ?
+3799:HUM:ind: Backstreet Boys ke konse aadmi ki shaadi nai hui hai ?
+3800:NUM:count: kitne logo ko marne ke lie Randy Crafy ko faasi hui thi ?
+3801:LOC:other: konsi nadi Vienna , Budapest and Belgrade se behti hai ?
+3802:HUM:ind: konse Civil war deneral ne South par aatank macha dia tha Georgia ki nadi se jaate hue ?
+3803:HUM:ind: woh Kaunse conservationist the jinhone post grape nuts ke liye spokesperson ka padh sambhala tha?
+3804:DESC:def: carpal tunnel syndrome kya hota hai?
+3805:ABBR:exp: IOC kis chez ke liye stand karta hai?
+3806:LOC:other: kaunsa area sabse kam acidic coffee produce karta hai?
+3807:DESC:reason: usko hamburger kyun kehete hai jabki usme ham ni hota hai?
+3808:ENTY:symbol: washington redskin's fan ka trademark kya hai?
+3809:DESC:reason: cotton belly buttons me caught kyun ho jati hai?
+3810:HUM:ind: suburban housewife aur mother of three kaun thi jinhone the feminine mystique likhi?
+3811:DESC:manner: glacier kaise banata hai?
+3812:NUM:date: ukrainians christmas kab hoti hai?
+3813:LOC:city: largest city of the world kaunsi hai?
+3814:ENTY:sport: kya famed tennis tournament's men's akele title was fred perry the englishman to jeetna?
+3815:HUM:desc: WHittcomb judson kaun tha?
+3816:NUM:weight: ek man ka average weight kya hota hai?
+3817:LOC:other: birtain ki do longest rivers kaunsi hai?
+3818:LOC:country: kaunsi country 8, 600 , 387 miles cover karta hai?
+3819:ENTY:substance: airplanes kaunsa fuel use karte hai?
+3820:HUM:ind: ek canine cartoon character huckleberry hound ke alawa ka naam batao jiski voice daws butler the?
+3821:DESC:def: palindromic ka matlab kya hota hai?
+3822:DESC:desc: kaunsa baseball expression aya tha from the nautical term for jahaj sailing between the Atlantic and pacific before the Panama CAnal?
+3823:LOC:state: kaunse state mein mark twain national forests hain?
+3824:LOC:other: oldest ethnological museum world me kaunsi hai?
+3825:DESC:manner: belle apna character kaisa describe karti hai in beauty and the beast?
+3826:ENTY:color: kaunsa color flies closest to the staff belgium ke flag pe?
+3827:ENTY:other: smallest thing kaunsi hai which is seen under the most takatwar microscope aur wo kitni badi hai?
+3828:ENTY:body: kaunse ear se people can hear better?
+3829:LOC:other: dinosaur ke sabse zyada remains kaha mile hai?
+3830:ENTY:letter: kaunsa letter appears on the cold water tap spain ka?
+3831:ENTY:termeq: grandma ko irish me kya bolte hai?
+3832:HUM:ind: shoplifts kaun karta hai?
+3833:ENTY:substance: camel hair brush asliyatt me kis chez ka bana hai?
+3834:DESC:def: socratic method kya hota hai?
+3835:LOC:other: kaunsa island has a park called the battery uske southern tip pe?
+3836:DESC:def: hypertext kya hota hai?
+3837:NUM:money: clara peller ko kitna pay kia gaya hai to say "where's the beef"?
+3838:DESC:desc: mujhe web page design karne ke liye kya sikhna hoga?
+3839:NUM:date: cnn's first boradcast ki date kya thi?
+3840:DESC:reason: shea aur gould ne apna los angeles ka office kyun band kiya tha?
+3841:ENTY:cremat: KAunsi peter blatty ki novel recounts the horros of nregan macneil's possession by the devil?
+3842:NUM:other: Kaunsi all-time stock high of apple computer hai , aur kaha mai iss information ko find kar sakta hu?
+3843:DESC:reason: lions ko jungle ka raja kyun kehte hai?
+3844:ENTY:food: kaunsi non-alcoholic syrup ko pomegranate juice se banate hai?
+3845:ENTY:other: kaunsa meter c.c magee ne 1935 me invent kiya tha?
+3846:NUM:date: calypso sangeet kab invent hua tha?
+3847:LOC:other: kaunsa carribean island is northeast of trinidad?
+3848:ENTY:cremat: michelangelo ka kaunsa sculpture is in saint peter's cathedral, basilica,?
+3849:DESC:desc: wo kya differences aur advantages hote hai of selecting a super VHS VCR over plain VHS model?
+3850:NUM:period: Bernadette peters kitne saal ke hai?
+3851:LOC:other: "Turbent Souls" ki book review kaha milegi?
+3852:NUM:date: Dick Clark's ka janamdin kya hai?
+3853:ENTY:termeq: unn badalo ka kya naam hai which produce rain?
+3854:NUM:date: hitler power me kab aaye the germany me?
+3855:NUM:date: Gothic Kala aur Architecture kab flourish hua tha?
+3856:HUM:ind: Kaunsa do inventors ne Post-its invent kiya tha?
+3857:NUM:date: Kaunsa din of the week juy 13 tha?
+3858:HUM:ind: kiski tasveer is alleged to be on The Shroud of Turin?
+3859:ENTY:dismed: Salk Vaccine kya prevent karta hai?
+3860:HUM:ind: Kaunse U.S. general ko court-martialled kia gaya kyuonki unhone American air power ko criticize kiya tha?
+3861:ENTY:dismed: Insanity ka darr kya hota hai?
+3862:DESC:manner: foot-pounds ko foot-inches me kaise badalte hai?
+3863:HUM:ind: kisne kaha tha ki 
+3864:NUM:count: Lag-bhag kitne students enrolled hai University of Massachusetts mein?
+3865:ENTY:instru: West Indian steel bands kisko apne instruments ki tarah use karte hai?
+3866:DESC:reason: David Koresh ne FBI ko word processor ke liye kyun pucha?
+3867:LOC:state: kaunsi state is the fastest badne wali state in the U.S.A in 1998?
+3868:NUM:count: kitne AMerican soldiers ki moth huie thi for their desh to date?
+3869:ENTY:event: U.S.'s first manned space program ka naam kya tha?
+3870:HUM:desc: Langston HUghes kaun hai?
+3871:ENTY:other: Richard Nixon ki achievemnets kya hai?
+3872:LOC:other: Opers singer Ileana Cotrubas kaha se aati hai?
+3873:DESC:manner: AAP ek bibliography kaise karte hai with an anjaan author?
+3874:HUM:ind: Saddam Hussein ki tulana kiske sath ki gayi thi by president Bush?
+3875:NUM:date: NAACP ko kaunse year me dhunda gaya tha?
+3876:NUM:date: THatcher gained power kaunse year me?
+3877:HUM:ind: "The Grinch WHo Stole Christmas" naam ki book kisne likhi thi?
+3878:LOC:other: Samuel GOmpers ke baare me kaha se learn kar sakta hu?
+3879:HUM:ind: kaunsi jockey won 17 triple crown daude?
+3880:LOC:state: kausni U.S. ki state ki sabse badi lake is lake sam rayburn?
+3881:DESC:def: Greek pita kya hai?
+3882:ENTY:animal: peacocks kiske sath mate karti hai?
+3883:HUM:ind: power kisne seize ki thi from milton obote in 1971?
+3884:LOC:state: Niagra Falls kaunsa state me located hai?
+3885:NUM:temp: Ek active volcano ka inside kitna garam ho jata hai?
+3886:ENTY:other: KAunse tools are used to crewel?
+3887:DESC:def: narcolepsy kya hota hai?
+3888:ENTY:event: AMerican literary era jo 1896 include karta hai ,uska naam kya hai?
+3889:ENTY:termeq: Uss organism ke liye kya naam hai that lives on or in another?
+3890:LOC:other: Orange Bowl kaha hai?
+3891:LOC:city: Kaunsi Scandinavian capital is built on the nau bridge-connected islands?
+3892:HUM:ind: Kaunse well-known actor star Alan Alda ke papa hai?
+3893:LOC:other: Smithsonian Institute kaha located hai?
+3894:DESC:def: "Alxendra" naam ka matlab kya hota hai?
+3895:NUM:volsize: Argentina ka size kya hai?
+3896:ENTY:substance: Aap clay mixture me kya daalte to make it to produce a bone china?
+3897:DESC:def: leukemia kya hota hai?
+3898:ENTY:cremat: Stepehn Sondheim ballad kaunsi hai jo "well, maybe next year.." panktiyo se khatam hoti hai?
+3899:DESC:manner: Ek kite ki flight ko ek pooch kaise affect karti hai?
+3900:NUM:date: Richard Nixon ka birthday kaunsi date ko ata hai?
+3901:ENTY:animal: KAunsi film canine is buried in Pere-Lachaise cementry Paris me?
+3902:HUM:ind: Kaunsi little ladka aur kutta ek shoe me rehete hai?
+3903:NUM:perc: Kitna pratishat of the world's fresh water is found in Canada?
+3904:NUM:date: CNN ki pehli broadcast kaunsi date me occur hui thi?
+3905:DESC:reason: U.S. presidential elections November me kyun held kiye jate hai?
+3906:NUM:count: Kitne grooves hote hai dime mai?
+3907:HUM:ind: Marilyn Monroe ka asli naam kya tha?
+3908:NUM:other: Kitne number of AMerican soldiers remain unaccounted from the Vietnam jung?
+3909:ABBR:abb: NAtional Bureau of INvestigation ke liye acronym kya hai?
+3910:DESC:manner: marijauna kaise other drugs ko lead karta hai?
+3911:HUM:ind: Kaunse father aur bete ne medal of honor jeeta tha?
+3912:NUM:count: Kitne consecutive baseball khel did Lou Gehrig khele?
+3913:HUM:gr: Kaunse high schools are included in the south florida ice hockey league?
+3914:NUM:count: Kitne different types of skunks hote hai?
+3915:HUM:ind: Prophet of MEdina kaun hai?
+3916:ENTY:cremat: salt lake city newspaper ka naam kya hota hai?
+3917:NUM:date: Spielberg ne kaunse year me "jaws" banaye the?
+3918:DESC:def: Us zoological term ruminant ka kya arth hota hai?
+3919:HUM:ind: Uss aurat ka kya naam hai who was born with JOhn Belushi jab wo mara?
+3920:DESC:def: hyperopia kya hota hai?
+3921:ENTY:color: Kaunsa color POker chip ko aksar assigned the lowest value?
+3922:LOC:other: Sabse zyada kya tourists visit karte hai in Reims?
+3923:ENTY:animal: Kaun zyada bada sperm produce karta hai- an hathi or a chuha?
+3924:ENTY:cremat: Story of Aladdin Kaunse book me find ki jaa sakti hai?
+3925:LOC:city: Kaunsi United States city sabse zyada oil produce karti hai?
+3926:DESC:manner: "Tzimisce" ko kaise pronounce karte hai?
+3927:ENTY:termeq: Tokyo Stock Exchange ka naam kya hai?
+3928:NUM:perc: Kitne percentage of children aged hai two through elevn who watch "The simpsons"?
+3929:ENTY:cremat: Kauns TV show premiered on Januray 15, 1981?
+3930:LOC:country: WO kaunsi only country thi in the western hemisphere to join the russian-led boycott of the 1984 summer olympics?
+3931:LOC:other: Africa ke kaunse part me Mozambique located hai?
+3932:ABBR:abb: National Bureau of Investigation ke liye kya abbreviated term use kiya jata hai?
+3933:DESC:def: e-commerce kya hota hai?
+3934:HUM:ind: Kiski funeral rail-gaadi travelled from washington D.c. to springfield , Illionis?
+3935:DESC:manner: names come about kaise huye?
+3936:HUM:ind: John Merrick ki behtar-known pehchaan kya hai, the noble ogre of Victorian ENgland?
+3937:HUM:ind: uski husband ka naam kya hai?
+3938:HUM:gr: kaunsi cigarette company hai jisne urge kia tha ,"COme to where the flavor is"?
+3939:HUM:ind: kaunsi of the following ne "outstanding mother award " in 1983 receive ni kia tha from the national mother's day committee?
+3940:HUM:ind: Kaunsi DYnasty star ne apna 2th century-fox debut kia tha in the virgin queen?
+3941:LOC:other: POe's birthplace kaha hai?
+3942:HUM:ind: Kaunsi actress holds the record for the sabse zyada appearances on the cover of zindagi?
+3943:ENTY:other: Kaunsa TV set tha jisne remote control include kiya tha?
+3944:HUM:gr: uska company ka naam batao jisne "even your best dost won't tell you " line ka use kiya tha unke ad mein?
+3945:ENTY:product: Kaunsa pehla-aid product hai jo "helps the hurt stop hurting"?
+3946:DESC:manner: ultraviolet kirne DNA ki skin cells ko kaise damage karti hai?
+3947:DESC:desc: Lizze Borden ke trial me kya faisala liya gaya tha?
+3948:HUM:ind: Kaunse U.S. President ke brothers-in-law the in the confederate army?
+3949:HUM:ind: Holland ki raani kaun hai?
+3950:DESC:def: Greek work polis ka matlab kya hota hai, as in Minneapolis?
+3951:LOC:other: Mai Manchukuo ke bare me detailed jankaari kaha khoj sakta hu?
+3952:HUM:ind: Kaunse actor learned to play the saxophone aur Russian bolna for a role in a movie?
+3953:HUM:ind: `` If you don 't look good , we don 't look good '' kisne kaha tha ?
+3954:HUM:ind: Nixon administration ke time Secretary of State kaun tha ?
+3955:NUM:money: Monopoly game ke shuruat me har ek player ko kitne paise milte hai ?
+3956:LOC:other: GUM department store kaha hai ?
+3957:DESC:def: D-Day ka literal meaning kyaa hai ?
+3958:LOC:state: Kaunse satte ka naam Green Mountain state hai ?
+3959:ENTY:body: Sperm ko pelvic region me kyaa leke jaata hai ?
+3960:NUM:date: ATM pehli baar kab aaya tha ?
+3961:LOC:state: United States ke southern states kaunse hai ?
+3962:HUM:desc: Johnny Carson kaun hai ?
+3963:NUM:other: 7847+5943 kitne hote hai ?
+3964:ENTY:cremat: Kis kitaab ka subtitle The Preservation of Favoured Races in the Struggle for Life hai ?
+3965:DESC:reason: Chickenpox kaafi time tak kyu rehte hai ?
+3966:HUM:ind: Kaunse attorneys The Center for the Defense of Free Enterprise ke liye kaam karte hai ?
+3967:DESC:manner: U.S. power me kaise aai jab Spanish-American War chal rahi thi ?
+3968:NUM:date: Dick Clark's ka date of birth kyaa hai ?
+3969:DESC:def: "Sheri" naam ka matlab kyaa hai ?
+3970:ENTY:animal: kaunse primate hi hatheli keW ek pigment lack karta hai ?
+3971:NUM:count: Scalene triangle me kitne side baraabar hote hai ?
+3972:LOC:other: Bill Gates college ke liye kaha jaate the ?
+3973:LOC:other: Kis constellation ko The Water Bearer ke naam se jaana jaata hai ?
+3974:ENTY:cremat: Kis kahani se hame shiksha milti hai ki ''He who wants everything gets nothing ''?
+3975:HUM:gr: U.S. ki kis university me sabse badi library hai ?
+3976:NUM:date: Chilly Willy naam ka cartoon character kis saal me banaya gaya tha ?
+3977:DESC:desc: Japanese school ke uniform kaise hote hai ?
+3978:ENTY:cremat: Kisi Salt Lake City newspaper ka naam batao ?
+3979:LOC:other: Taiwanese bhasha ka itihas kha milta hai ?
+3980:LOC:state: Mount McKinley kaunse state me hai ?
+3981:DESC:manner: First millenium ke baare me logo ki kyaa rai hai ?
+3982:HUM:ind: Kis Spanish writer ne `` All that glitters is not gold '' kha tha ?
+3983:DESC:def: Swap math kyaa hai ?
+3984:DESC:def: Hypnotherapy kyaa hai ?
+3985:ABBR:exp: RCD kyaa hai ?
+3986:NUM:other: Missouri's ki jansankhya kitni hai ?
+3987:ENTY:animal: kaunse billy ne Tweety Pie me pehli baar dikhi thi ?
+3988:DESC:def: 'Stones' ka biblical matlab kyaa hai ?
+3989:HUM:gr: Security Council kis organisation ka ek hissa hai ?
+3990:NUM:date: internal combustion engine pehli baar kab banaya gaya tha ?
+3991:DESC:manner: Mai apna biorhythm kaise pata laga sakta hu ?
+3992:HUM:ind: `` Soft Self-Portrait with Grilled Bacon '' ka artist kaun hai ?
+3993:HUM:gr: `` for brunettes only '' shampoo ki marketing kaunsee company kartee hai ?
+3994:ENTY:dismed: Chune ke darr ko kyaa kehte hai ?
+3995:ENTY:event: China ke sabse bade water conservancy project ka naam kyaa hai ?
+3996:HUM:ind: Caesar ko kisne maara tha ?
+3997:LOC:other: Kings Canyon kha hai
+3998:DESC:desc: `` Banana in Pajamas '' gaane ke shabd kyaa ahi ?
+3999:DESC:reason: Organ transplants aaj ke samay me itne kaamyaab kyu hai ?
+4000:ENTY:cremat: Sabse jyaada istemaal hone waala computer program kaun sa hai ?
+4001:DESC:desc: Shataaniyat ki shuruat kha se hoti hai ?
+4002:ENTY:animal: Kaunsa jaanvar sabse acche se sun sakta hai ?
+4003:NUM:date: Wee Willie Winkie kis samay shahar me bhaag rha tha ?
